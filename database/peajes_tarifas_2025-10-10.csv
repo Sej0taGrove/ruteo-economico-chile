@@ -1,0 +1,1056 @@
+autopista,tramo,eje,sentido,portico_id,referencia_tramo,longitud_km,categoria_vehiculo,tipo_tarifa,precio_clp
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA2,Los Guindos - La Capilla,7.68,categoria_1y4,TBFP,839.5
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA2,Los Guindos - La Capilla,7.68,categoria_2,TBFP,1679.0
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA2,Los Guindos - La Capilla,7.68,categoria_2,TBP,3393.84
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA2,Los Guindos - La Capilla,7.68,categoria_2,TS,5090.76
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA2,Los Guindos - La Capilla,7.68,categoria_3,TBFP,2518.5
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA3,La Capilla - Colón,5.63,categoria_1y4,TBFP,565.64
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA3,La Capilla - Colón,5.63,categoria_1y4,TBP,1131.28
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA3,La Capilla - Colón,5.63,categoria_1y4,TS,1696.92
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA3,La Capilla - Colón,5.63,categoria_2,TBFP,1131.28
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA3,La Capilla - Colón,5.63,categoria_2,TBP,2262.56
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA3,La Capilla - Colón,5.63,categoria_2,TS,3393.84
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA3,La Capilla - Colón,5.63,categoria_3,TBFP,1696.92
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA3,La Capilla - Colón,5.63,categoria_3,TBP,3393.84
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA3,La Capilla - Colón,5.63,categoria_3,TS,5090.76
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA5,Colón - Las Acacias,3.22,categoria_1y4,TBFP,323.51
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA5,Colón - Las Acacias,3.22,categoria_1y4,TBP,647.02
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA5,Colón - Las Acacias,3.22,categoria_1y4,TS,970.53
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA5,Colón - Las Acacias,3.22,categoria_2,TBFP,647.02
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA5,Colón - Las Acacias,3.22,categoria_2,TBP,1294.04
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA5,Colón - Las Acacias,3.22,categoria_2,TS,1941.06
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA5,Colón - Las Acacias,3.22,categoria_3,TBFP,970.53
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA5,Colón - Las Acacias,3.22,categoria_3,TBP,1941.06
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA5,Colón - Las Acacias,3.22,categoria_3,TS,2911.59
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA7,Las Acacias - A. Vespucio,4.35,categoria_1y4,TBFP,437.04
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA7,Las Acacias - A. Vespucio,4.35,categoria_1y4,TBP,874.08
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA7,Las Acacias - A. Vespucio,4.35,categoria_2,TBFP,874.08
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA7,Las Acacias - A. Vespucio,4.35,categoria_2,TBP,1748.16
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA7,Las Acacias - A. Vespucio,4.35,categoria_3,TBFP,1311.12
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA7,Las Acacias - A. Vespucio,4.35,categoria_3,TBP,2622.24
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA30,Americo Vespucio - Departamental,3.78,categoria_1y4,TBFP,379.77
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA30,Americo Vespucio - Departamental,3.78,categoria_1y4,TBP,759.54
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA30,Americo Vespucio - Departamental,3.78,categoria_2,TBFP,759.54
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA30,Americo Vespucio - Departamental,3.78,categoria_2,TBP,1519.09
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA30,Americo Vespucio - Departamental,3.78,categoria_3,TBFP,1139.31
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA30,Americo Vespucio - Departamental,3.78,categoria_3,TBP,2278.63
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA10,Departamental - Carlos Valdovinos,2.75,categoria_1y4,TBFP,276.28
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA10,Departamental - Carlos Valdovinos,2.75,categoria_1y4,TBP,552.57
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA10,Departamental - Carlos Valdovinos,2.75,categoria_2,TBFP,552.57
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA10,Departamental - Carlos Valdovinos,2.75,categoria_2,TBP,1105.15
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA10,Departamental - Carlos Valdovinos,2.75,categoria_3,TBFP,828.86
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA10,Departamental - Carlos Valdovinos,2.75,categoria_3,TBP,1657.73
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA31,Carlos Valdovinos - Alameda,3.55,categoria_1y4,TBFP,356.66
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA31,Carlos Valdovinos - Alameda,3.55,categoria_1y4,TBP,713.32
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA31,Carlos Valdovinos - Alameda,3.55,categoria_1y4,TS,1069.99
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA31,Carlos Valdovinos - Alameda,3.55,categoria_2,TBFP,713.32
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA31,Carlos Valdovinos - Alameda,3.55,categoria_2,TBP,1426.65
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA31,Carlos Valdovinos - Alameda,3.55,categoria_2,TS,2139.98
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA31,Carlos Valdovinos - Alameda,3.55,categoria_3,TBFP,1069.99
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA31,Carlos Valdovinos - Alameda,3.55,categoria_3,TBP,2139.98
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA31,Carlos Valdovinos - Alameda,3.55,categoria_3,TS,3209.98
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA13,Alameda - Río Mapocho,1.75,categoria_1y4,TBFP,175.82
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA13,Alameda - Río Mapocho,1.75,categoria_1y4,TBP,351.64
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA13,Alameda - Río Mapocho,1.75,categoria_1y4,TS,527.46
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA13,Alameda - Río Mapocho,1.75,categoria_2,TBFP,351.64
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA13,Alameda - Río Mapocho,1.75,categoria_2,TBP,703.28
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA13,Alameda - Río Mapocho,1.75,categoria_2,TS,1054.92
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA13,Alameda - Río Mapocho,1.75,categoria_3,TBFP,527.46
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA13,Alameda - Río Mapocho,1.75,categoria_3,TBP,1054.92
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA13,Alameda - Río Mapocho,1.75,categoria_3,TS,1582.38
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA16,Río Mapocho - 14 de la Fama,4.09,categoria_1y4,TBFP,410.91
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA16,Río Mapocho - 14 de la Fama,4.09,categoria_1y4,TBP,821.83
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA16,Río Mapocho - 14 de la Fama,4.09,categoria_2,TBFP,821.83
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA16,Río Mapocho - 14 de la Fama,4.09,categoria_2,TBP,1643.67
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA16,Río Mapocho - 14 de la Fama,4.09,categoria_3,TBFP,1232.75
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA16,Río Mapocho - 14 de la Fama,4.09,categoria_3,TBP,2465.5
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA17,14 de la Fama - A.Vespucio Norte,4.45,categoria_1y4,TBFP,447.08
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA17,14 de la Fama - A.Vespucio Norte,4.45,categoria_1y4,TBP,894.17
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA17,14 de la Fama - A.Vespucio Norte,4.45,categoria_2,TBFP,894.17
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA17,14 de la Fama - A.Vespucio Norte,4.45,categoria_2,TBP,1788.34
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA17,14 de la Fama - A.Vespucio Norte,4.45,categoria_3,TBFP,1341.26
+Autopista Central,,EJE NORTE SUR,SUR-NORTE,PA17,14 de la Fama - A.Vespucio Norte,4.45,categoria_3,TBP,2682.52
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA18,A. Vespucio Norte - 14 de la Fama,4.45,categoria_1y4,TBFP,447.08
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA18,A. Vespucio Norte - 14 de la Fama,4.45,categoria_1y4,TBP,894.17
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA18,A. Vespucio Norte - 14 de la Fama,4.45,categoria_2,TBFP,894.17
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA18,A. Vespucio Norte - 14 de la Fama,4.45,categoria_2,TBP,1788.34
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA18,A. Vespucio Norte - 14 de la Fama,4.45,categoria_3,TBFP,1341.26
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA18,A. Vespucio Norte - 14 de la Fama,4.45,categoria_3,TBP,2682.52
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA15,14 de la Fama - Río Mapocho,4.09,categoria_1y4,TBFP,410.91
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA15,14 de la Fama - Río Mapocho,4.09,categoria_1y4,TBP,821.83
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA15,14 de la Fama - Río Mapocho,4.09,categoria_2,TBFP,821.83
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA15,14 de la Fama - Río Mapocho,4.09,categoria_2,TBP,1643.67
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA15,14 de la Fama - Río Mapocho,4.09,categoria_3,TBFP,1232.75
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA15,14 de la Fama - Río Mapocho,4.09,categoria_3,TBP,2465.5
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA14,Río Mapocho - Alameda,1.75,categoria_1y4,TBFP,175.82
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA14,Río Mapocho - Alameda,1.75,categoria_1y4,TBP,351.64
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA14,Río Mapocho - Alameda,1.75,categoria_2,TBFP,351.64
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA14,Río Mapocho - Alameda,1.75,categoria_2,TBP,703.28
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA14,Río Mapocho - Alameda,1.75,categoria_3,TBFP,527.46
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA14,Río Mapocho - Alameda,1.75,categoria_3,TBP,1054.92
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA12,Alameda - C. Valdovinos,3.55,categoria_1y4,TBFP,356.66
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA12,Alameda - C. Valdovinos,3.55,categoria_1y4,TBP,713.32
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA12,Alameda - C. Valdovinos,3.55,categoria_2,TBFP,713.32
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA12,Alameda - C. Valdovinos,3.55,categoria_2,TBP,1426.65
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA12,Alameda - C. Valdovinos,3.55,categoria_3,TBFP,1069.99
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA12,Alameda - C. Valdovinos,3.55,categoria_3,TBP,2139.98
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA11,C. Valdovinos - Departamental,2.75,categoria_1y4,TBFP,276.28
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA11,C. Valdovinos - Departamental,2.75,categoria_1y4,TBP,552.57
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA11,C. Valdovinos - Departamental,2.75,categoria_2,TBFP,552.57
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA11,C. Valdovinos - Departamental,2.75,categoria_2,TBP,1105.15
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA11,C. Valdovinos - Departamental,2.75,categoria_3,TBFP,828.86
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA11,C. Valdovinos - Departamental,2.75,categoria_3,TBP,1657.73
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA9,Departamental - A. Vespucio,3.78,categoria_1y4,TBFP,379.77
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA9,Departamental - A. Vespucio,3.78,categoria_1y4,TBP,759.54
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA9,Departamental - A. Vespucio,3.78,categoria_2,TBFP,759.54
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA9,Departamental - A. Vespucio,3.78,categoria_2,TBP,1519.09
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA9,Departamental - A. Vespucio,3.78,categoria_3,TBFP,1139.31
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA9,Departamental - A. Vespucio,3.78,categoria_3,TBP,2278.63
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA8,A. Vespucio - Las Acacias,4.35,categoria_1y4,TBFP,437.04
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA8,A. Vespucio - Las Acacias,4.35,categoria_1y4,TBP,874.08
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA8,A. Vespucio - Las Acacias,4.35,categoria_2,TBFP,874.08
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA8,A. Vespucio - Las Acacias,4.35,categoria_2,TBP,1748.16
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA8,A. Vespucio - Las Acacias,4.35,categoria_3,TBFP,1311.12
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA8,A. Vespucio - Las Acacias,4.35,categoria_3,TBP,2622.24
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA32,Las Acacias - Lo Blanco,1.7,categoria_1y4,TBFP,170.79
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA32,Las Acacias - Lo Blanco,1.7,categoria_1y4,TBP,341.59
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA32,Las Acacias - Lo Blanco,1.7,categoria_2,TBFP,341.59
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA32,Las Acacias - Lo Blanco,1.7,categoria_2,TBP,683.18
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA32,Las Acacias - Lo Blanco,1.7,categoria_3,TBFP,512.39
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA32,Las Acacias - Lo Blanco,1.7,categoria_3,TBP,1024.78
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA6,Lo Blanco - Colón,1.52,categoria_1y4,TBFP,152.71
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA6,Lo Blanco - Colón,1.52,categoria_1y4,TBP,305.42
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA6,Lo Blanco - Colón,1.52,categoria_2,TBFP,305.42
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA6,Lo Blanco - Colón,1.52,categoria_2,TBP,610.85
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA6,Lo Blanco - Colón,1.52,categoria_3,TBFP,458.13
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA6,Lo Blanco - Colón,1.52,categoria_3,TBP,916.27
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA37,Colón . Calera de Tango,4.38,categoria_1y4,TBFP,440.05
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA37,Colón . Calera de Tango,4.38,categoria_2,TBFP,880.1
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA37,Colón . Calera de Tango,4.38,categoria_3,TBFP,1320.16
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA4,Colón - La Capilla,1.25,categoria_1y4,TBFP,125.58
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA4,Colón - La Capilla,1.25,categoria_2,TBFP,251.17
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA4,Colón - La Capilla,1.25,categoria_3,TBFP,376.75
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA1,La Capilla - Los Guindos,7.68,categoria_1y4,TBFP,839.5
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA1,La Capilla - Los Guindos,7.68,categoria_2,TBFP,1679.0
+Autopista Central,,EJE NORTE SUR,NORTE-SUR,PA1,La Capilla - Los Guindos,7.68,categoria_3,TBFP,2518.5
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA19,Ruta 5 Sur - A. Vespucio,3.97,categoria_1y4,TBFP,398.86
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA19,Ruta 5 Sur - A. Vespucio,3.97,categoria_2,TBFP,598.29
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA19,Ruta 5 Sur - A. Vespucio,3.97,categoria_3,TBFP,797.72
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA21,A. Vespucio - C. Valdovinos,4.93,categoria_1y4,TBFP,495.31
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA21,A. Vespucio - C. Valdovinos,4.93,categoria_2,TBFP,742.96
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA21,A. Vespucio - C. Valdovinos,4.93,categoria_3,TBFP,990.62
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA23,C. Valdovinos - Alameda,2.77,categoria_1y4,TBFP,278.29
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA23,C. Valdovinos - Alameda,2.77,categoria_1y4,TBP,556.59
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA23,C. Valdovinos - Alameda,2.77,categoria_2,TBFP,417.44
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA23,C. Valdovinos - Alameda,2.77,categoria_2,TBP,834.89
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA23,C. Valdovinos - Alameda,2.77,categoria_3,TBFP,556.59
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA23,C. Valdovinos - Alameda,2.77,categoria_3,TBP,1113.19
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA25,Alameda - Río Mapocho,4.06,categoria_1y4,TBFP,407.9
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA25,Alameda - Río Mapocho,4.06,categoria_1y4,TBP,815.8
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA25,Alameda - Río Mapocho,4.06,categoria_1y4,TS,1223.71
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA25,Alameda - Río Mapocho,4.06,categoria_2,TBFP,611.85
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA25,Alameda - Río Mapocho,4.06,categoria_2,TBP,1223.71
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA25,Alameda - Río Mapocho,4.06,categoria_2,TS,1835.56
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA25,Alameda - Río Mapocho,4.06,categoria_3,TBFP,815.8
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA25,Alameda - Río Mapocho,4.06,categoria_3,TBP,1631.61
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA25,Alameda - Río Mapocho,4.06,categoria_3,TS,2447.42
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA28,Río Mapocho - Ruta 5 Norte,4.93,categoria_1y4,TBFP,495.31
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA28,Río Mapocho - Ruta 5 Norte,4.93,categoria_1y4,TBP,990.62
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA28,Río Mapocho - Ruta 5 Norte,4.93,categoria_1y4,TS,1485.93
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA28,Río Mapocho - Ruta 5 Norte,4.93,categoria_2,TBFP,742.96
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA28,Río Mapocho - Ruta 5 Norte,4.93,categoria_2,TBP,1485.93
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA28,Río Mapocho - Ruta 5 Norte,4.93,categoria_2,TS,2228.9
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA28,Río Mapocho - Ruta 5 Norte,4.93,categoria_3,TBFP,990.62
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA28,Río Mapocho - Ruta 5 Norte,4.93,categoria_3,TBP,1981.24
+Autopista Central,,EJE GENERAL VELASQUEZ,SUR-NORTE,PA28,Río Mapocho - Ruta 5 Norte,4.93,categoria_3,TS,2971.87
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA29,Ruta 5 Norte - Río Mapocho,4.93,categoria_1y4,TBFP,495.31
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA29,Ruta 5 Norte - Río Mapocho,4.93,categoria_1y4,TBP,990.62
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA29,Ruta 5 Norte - Río Mapocho,4.93,categoria_2,TBFP,742.96
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA29,Ruta 5 Norte - Río Mapocho,4.93,categoria_2,TBP,1485.93
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA29,Ruta 5 Norte - Río Mapocho,4.93,categoria_3,TBFP,990.62
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA29,Ruta 5 Norte - Río Mapocho,4.93,categoria_3,TBP,1981.24
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA26,Río Mapocho - Alameda,4.06,categoria_1y4,TBFP,407.9
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA26,Río Mapocho - Alameda,4.06,categoria_1y4,TBP,815.8
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA26,Río Mapocho - Alameda,4.06,categoria_1y4,TS,1223.71
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA26,Río Mapocho - Alameda,4.06,categoria_2,TBFP,611.85
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA26,Río Mapocho - Alameda,4.06,categoria_2,TBP,1223.71
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA26,Río Mapocho - Alameda,4.06,categoria_2,TS,1835.56
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA26,Río Mapocho - Alameda,4.06,categoria_3,TBFP,815.8
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA26,Río Mapocho - Alameda,4.06,categoria_3,TBP,1631.61
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA26,Río Mapocho - Alameda,4.06,categoria_3,TS,2447.42
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA24,Alameda - C. Valdovinos,2.77,categoria_1y4,TBFP,278.29
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA24,Alameda - C. Valdovinos,2.77,categoria_1y4,TBP,556.59
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA24,Alameda - C. Valdovinos,2.77,categoria_1y4,TS,834.89
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA24,Alameda - C. Valdovinos,2.77,categoria_2,TBFP,417.44
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA24,Alameda - C. Valdovinos,2.77,categoria_2,TBP,834.89
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA24,Alameda - C. Valdovinos,2.77,categoria_2,TS,1252.34
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA24,Alameda - C. Valdovinos,2.77,categoria_3,TBFP,556.59
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA24,Alameda - C. Valdovinos,2.77,categoria_3,TBP,1113.19
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA24,Alameda - C. Valdovinos,2.77,categoria_3,TS,1669.79
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA22,C. Valdovinos - A. Vespucio,4.93,categoria_1y4,TBFP,495.31
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA22,C. Valdovinos - A. Vespucio,4.93,categoria_2,TBFP,742.96
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA22,C. Valdovinos - A. Vespucio,4.93,categoria_3,TBFP,990.62
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA20,A. Vespucio - Ruta 5 Sur,3.97,categoria_1y4,TBFP,398.86
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA20,A. Vespucio - Ruta 5 Sur,3.97,categoria_2,TBFP,598.29
+Autopista Central,,EJE GENERAL VELASQUEZ,NORTE-SUR,PA20,A. Vespucio - Ruta 5 Sur,3.97,categoria_3,TBFP,797.72
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_1y4,TBFP,144.2
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_1y4,TBP,278.6
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_1y4,TS,422.8
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_2,TBFP,288.4
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_2,TBP,557.2
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_2,TS,845.6
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_3,TBFP,432.6
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_3,TBP,835.8
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_3,TS,1268.4
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P1,Puente La Dehesa - Gran Vía,4.2,categoria_1y4,TBFP,432.6
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P1,Puente La Dehesa - Gran Vía,4.2,categoria_1y4,TBP,835.8
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P1,Puente La Dehesa - Gran Vía,4.2,categoria_1y4,TS,1268.4
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P1,Puente La Dehesa - Gran Vía,4.2,categoria_2,TBFP,865.2
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P1,Puente La Dehesa - Gran Vía,4.2,categoria_2,TBP,1671.6
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P1,Puente La Dehesa - Gran Vía,4.2,categoria_2,TS,2536.8
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P1,Puente La Dehesa - Gran Vía,4.2,categoria_3,TBFP,1297.8
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P1,Puente La Dehesa - Gran Vía,4.2,categoria_3,TBP,2507.4
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P1,Puente La Dehesa - Gran Vía,4.2,categoria_3,TS,3805.2
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.1,Gran Vía - Centenario,3.98,categoria_1y4,TBFP,409.94
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.1,Gran Vía - Centenario,3.98,categoria_1y4,TBP,792.02
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.1,Gran Vía - Centenario,3.98,categoria_1y4,TS,1201.96
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.1,Gran Vía - Centenario,3.98,categoria_2,TBFP,819.88
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.1,Gran Vía - Centenario,3.98,categoria_2,TBP,1584.04
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.1,Gran Vía - Centenario,3.98,categoria_2,TS,2403.92
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.1,Gran Vía - Centenario,3.98,categoria_3,TBFP,1229.82
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.1,Gran Vía - Centenario,3.98,categoria_3,TBP,2376.06
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.1,Gran Vía - Centenario,3.98,categoria_3,TS,3605.88
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.2,Centenario - Puente Lo Saldes,2.47,categoria_1y4,TBFP,254.41
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.2,Centenario - Puente Lo Saldes,2.47,categoria_1y4,TBP,491.53
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.2,Centenario - Puente Lo Saldes,2.47,categoria_1y4,TS,745.94
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.2,Centenario - Puente Lo Saldes,2.47,categoria_2,TBFP,508.82
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.2,Centenario - Puente Lo Saldes,2.47,categoria_2,TBP,983.06
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.2,Centenario - Puente Lo Saldes,2.47,categoria_2,TS,1491.88
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.2,Centenario - Puente Lo Saldes,2.47,categoria_3,TBFP,763.23
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.2,Centenario - Puente Lo Saldes,2.47,categoria_3,TBP,1474.59
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P2.2,Centenario - Puente Lo Saldes,2.47,categoria_3,TS,2237.82
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,SB,Salida Bellavista,2.185,categoria_1y4,TBFP,225.05
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,SB,Salida Bellavista,2.185,categoria_1y4,TBP,434.81
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,SB,Salida Bellavista,2.185,categoria_1y4,TS,659.87
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,SB,Salida Bellavista,2.185,categoria_2,TBFP,450.11
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,SB,Salida Bellavista,2.185,categoria_2,TBP,869.63
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,SB,Salida Bellavista,2.185,categoria_2,TS,1319.74
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,SB,Salida Bellavista,2.185,categoria_3,TBFP,675.16
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,SB,Salida Bellavista,2.185,categoria_3,TBP,1304.44
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,SB,Salida Bellavista,2.185,categoria_3,TS,1979.61
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P3,Puente Lo Saldes - Vivaceta,6.72,categoria_1y4,TBFP,692.16
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P3,Puente Lo Saldes - Vivaceta,6.72,categoria_1y4,TBP,1337.28
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P3,Puente Lo Saldes - Vivaceta,6.72,categoria_1y4,TS,2029.44
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P3,Puente Lo Saldes - Vivaceta,6.72,categoria_2,TBFP,1384.32
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P3,Puente Lo Saldes - Vivaceta,6.72,categoria_2,TBP,2674.56
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P3,Puente Lo Saldes - Vivaceta,6.72,categoria_2,TS,4058.88
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P3,Puente Lo Saldes - Vivaceta,6.72,categoria_3,TBFP,2076.48
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P3,Puente Lo Saldes - Vivaceta,6.72,categoria_3,TBP,4011.84
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P3,Puente Lo Saldes - Vivaceta,6.72,categoria_3,TS,6088.32
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EP,Entrada Purísima,2.11,categoria_1y4,TBFP,217.33
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EP,Entrada Purísima,2.11,categoria_1y4,TBP,419.89
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EP,Entrada Purísima,2.11,categoria_1y4,TS,637.22
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EP,Entrada Purísima,2.11,categoria_2,TBFP,434.66
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EP,Entrada Purísima,2.11,categoria_2,TBP,839.78
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EP,Entrada Purísima,2.11,categoria_2,TS,1274.44
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EP,Entrada Purísima,2.11,categoria_3,TBFP,651.99
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EP,Entrada Purísima,2.11,categoria_3,TBP,1259.67
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EP,Entrada Purísima,2.11,categoria_3,TS,1911.66
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EV,Entrada Vivaceta,1.116,categoria_1y4,TBFP,114.94
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EV,Entrada Vivaceta,1.116,categoria_1y4,TBP,222.08
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EV,Entrada Vivaceta,1.116,categoria_1y4,TS,337.03
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EV,Entrada Vivaceta,1.116,categoria_2,TBFP,229.89
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EV,Entrada Vivaceta,1.116,categoria_2,TBP,444.16
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EV,Entrada Vivaceta,1.116,categoria_2,TS,674.06
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EV,Entrada Vivaceta,1.116,categoria_3,TBFP,344.84
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EV,Entrada Vivaceta,1.116,categoria_3,TBP,666.25
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,EV,Entrada Vivaceta,1.116,categoria_3,TS,1011.09
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P5,Vivaceta - Carrascal,6.69,categoria_1y4,TBFP,689.07
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P5,Vivaceta - Carrascal,6.69,categoria_1y4,TBP,1331.31
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P5,Vivaceta - Carrascal,6.69,categoria_2,TBFP,1378.14
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P5,Vivaceta - Carrascal,6.69,categoria_2,TBP,2662.62
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P5,Vivaceta - Carrascal,6.69,categoria_3,TBFP,2067.21
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P5,Vivaceta - Carrascal,6.69,categoria_3,TBP,3993.93
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P6.1,Carrascal - Petersen,2.24,categoria_1y4,TBFP,230.72
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P6.1,Carrascal - Petersen,2.24,categoria_1y4,TBP,445.76
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P6.1,Carrascal - Petersen,2.24,categoria_2,TBFP,461.44
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P6.1,Carrascal - Petersen,2.24,categoria_2,TBP,891.52
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P6.1,Carrascal - Petersen,2.24,categoria_3,TBFP,692.16
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P6.1,Carrascal - Petersen,2.24,categoria_3,TBP,1337.28
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P6.2,Petersen - Américo Vespucio Poniente,3.41,categoria_1y4,TBFP,351.23
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P6.2,Petersen - Américo Vespucio Poniente,3.41,categoria_1y4,TBP,678.59
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P6.2,Petersen - Américo Vespucio Poniente,3.41,categoria_2,TBFP,702.46
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P6.2,Petersen - Américo Vespucio Poniente,3.41,categoria_2,TBP,1357.18
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P6.2,Petersen - Américo Vespucio Poniente,3.41,categoria_3,TBFP,1053.69
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P6.2,Petersen - Américo Vespucio Poniente,3.41,categoria_3,TBP,2035.77
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P9,Américo Vespucio Poniente - Ruta 68,5.0,categoria_1y4,TBFP,515.0
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P9,Américo Vespucio Poniente - Ruta 68,5.0,categoria_1y4,TBP,995.0
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P9,Américo Vespucio Poniente - Ruta 68,5.0,categoria_2,TBFP,1030.0
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P9,Américo Vespucio Poniente - Ruta 68,5.0,categoria_2,TBP,1990.0
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P9,Américo Vespucio Poniente - Ruta 68,5.0,categoria_3,TBFP,1545.0
+Costanera Norte,,EJE COSTANERA,ORIENTE-PONIENTE,P9,Américo Vespucio Poniente - Ruta 68,5.0,categoria_3,TBP,2985.0
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P9,Ruta 68 - Américo Vespucio Poniente,5.0,categoria_1y4,TBFP,515.0
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P9,Ruta 68 - Américo Vespucio Poniente,5.0,categoria_1y4,TBP,995.0
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P9,Ruta 68 - Américo Vespucio Poniente,5.0,categoria_2,TBFP,1030.0
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P9,Ruta 68 - Américo Vespucio Poniente,5.0,categoria_2,TBP,1990.0
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P9,Ruta 68 - Américo Vespucio Poniente,5.0,categoria_3,TBFP,1545.0
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P9,Ruta 68 - Américo Vespucio Poniente,5.0,categoria_3,TBP,2985.0
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.2,Américo Vespucio Poniente - Petersen,3.41,categoria_1y4,TBFP,351.23
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.2,Américo Vespucio Poniente - Petersen,3.41,categoria_1y4,TBP,678.59
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.2,Américo Vespucio Poniente - Petersen,3.41,categoria_1y4,TS,1029.82
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.2,Américo Vespucio Poniente - Petersen,3.41,categoria_2,TBFP,702.46
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.2,Américo Vespucio Poniente - Petersen,3.41,categoria_2,TBP,1357.18
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.2,Américo Vespucio Poniente - Petersen,3.41,categoria_2,TS,2059.64
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.2,Américo Vespucio Poniente - Petersen,3.41,categoria_3,TBFP,1053.69
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.2,Américo Vespucio Poniente - Petersen,3.41,categoria_3,TBP,2035.77
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.2,Américo Vespucio Poniente - Petersen,3.41,categoria_3,TS,3089.46
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.1,Petersen - Carrascal,2.24,categoria_1y4,TBFP,230.72
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.1,Petersen - Carrascal,2.24,categoria_1y4,TBP,445.76
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.1,Petersen - Carrascal,2.24,categoria_1y4,TS,676.48
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.1,Petersen - Carrascal,2.24,categoria_2,TBFP,461.44
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.1,Petersen - Carrascal,2.24,categoria_2,TBP,891.52
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.1,Petersen - Carrascal,2.24,categoria_2,TS,1352.96
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.1,Petersen - Carrascal,2.24,categoria_3,TBFP,692.16
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.1,Petersen - Carrascal,2.24,categoria_3,TBP,1337.28
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P6.1,Petersen - Carrascal,2.24,categoria_3,TS,2029.44
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P5,Carrascal - Vivaceta,6.69,categoria_1y4,TBFP,689.07
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P5,Carrascal - Vivaceta,6.69,categoria_1y4,TBP,1331.31
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P5,Carrascal - Vivaceta,6.69,categoria_1y4,TS,2020.38
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P5,Carrascal - Vivaceta,6.69,categoria_2,TBFP,1378.14
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P5,Carrascal - Vivaceta,6.69,categoria_2,TBP,2662.62
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P5,Carrascal - Vivaceta,6.69,categoria_2,TS,4040.76
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P5,Carrascal - Vivaceta,6.69,categoria_3,TBFP,2067.21
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P5,Carrascal - Vivaceta,6.69,categoria_3,TBP,3993.93
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P5,Carrascal - Vivaceta,6.69,categoria_3,TS,6061.14
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P4,Vivaceta - Torres Tajamar,3.86,categoria_1y4,TBFP,397.58
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P4,Vivaceta - Torres Tajamar,3.86,categoria_1y4,TBP,768.14
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P4,Vivaceta - Torres Tajamar,3.86,categoria_1y4,TS,1165.72
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P4,Vivaceta - Torres Tajamar,3.86,categoria_2,TBFP,795.16
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P4,Vivaceta - Torres Tajamar,3.86,categoria_2,TBP,1536.28
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P4,Vivaceta - Torres Tajamar,3.86,categoria_2,TS,2331.44
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P4,Vivaceta - Torres Tajamar,3.86,categoria_3,TBFP,1192.74
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P4,Vivaceta - Torres Tajamar,3.86,categoria_3,TBP,2304.42
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P4,Vivaceta - Torres Tajamar,3.86,categoria_3,TS,3497.16
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P3,Torres Tajamar - Puente Lo Saldes,2.86,categoria_1y4,TBFP,294.58
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P3,Torres Tajamar - Puente Lo Saldes,2.86,categoria_1y4,TBP,569.14
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P3,Torres Tajamar - Puente Lo Saldes,2.86,categoria_1y4,TS,863.72
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P3,Torres Tajamar - Puente Lo Saldes,2.86,categoria_2,TBFP,589.16
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P3,Torres Tajamar - Puente Lo Saldes,2.86,categoria_2,TBP,1138.28
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P3,Torres Tajamar - Puente Lo Saldes,2.86,categoria_2,TS,1727.44
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P3,Torres Tajamar - Puente Lo Saldes,2.86,categoria_3,TBFP,883.74
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P3,Torres Tajamar - Puente Lo Saldes,2.86,categoria_3,TBP,1707.42
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P3,Torres Tajamar - Puente Lo Saldes,2.86,categoria_3,TS,2591.16
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.2,Puente Lo Saldes - Centenario,2.47,categoria_1y4,TBFP,254.41
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.2,Puente Lo Saldes - Centenario,2.47,categoria_1y4,TBP,491.53
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.2,Puente Lo Saldes - Centenario,2.47,categoria_1y4,TS,745.94
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.2,Puente Lo Saldes - Centenario,2.47,categoria_2,TBFP,508.82
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.2,Puente Lo Saldes - Centenario,2.47,categoria_2,TBP,983.06
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.2,Puente Lo Saldes - Centenario,2.47,categoria_2,TS,1491.88
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.2,Puente Lo Saldes - Centenario,2.47,categoria_3,TBFP,763.23
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.2,Puente Lo Saldes - Centenario,2.47,categoria_3,TBP,1474.59
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.2,Puente Lo Saldes - Centenario,2.47,categoria_3,TS,2237.82
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.1,Centenario - Gran Vía,3.98,categoria_1y4,TBFP,409.94
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.1,Centenario - Gran Vía,3.98,categoria_1y4,TBP,792.02
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.1,Centenario - Gran Vía,3.98,categoria_1y4,TS,1201.96
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.1,Centenario - Gran Vía,3.98,categoria_2,TBFP,819.88
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.1,Centenario - Gran Vía,3.98,categoria_2,TBP,1584.04
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.1,Centenario - Gran Vía,3.98,categoria_2,TS,2403.92
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.1,Centenario - Gran Vía,3.98,categoria_3,TBFP,1229.82
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.1,Centenario - Gran Vía,3.98,categoria_3,TBP,2376.06
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P2.1,Centenario - Gran Vía,3.98,categoria_3,TS,3605.88
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P1,Gran Vía - Puente La Dehesa,4.2,categoria_1y4,TBFP,432.6
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P1,Gran Vía - Puente La Dehesa,4.2,categoria_1y4,TBP,835.8
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P1,Gran Vía - Puente La Dehesa,4.2,categoria_1y4,TS,1268.4
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P1,Gran Vía - Puente La Dehesa,4.2,categoria_2,TBFP,865.2
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P1,Gran Vía - Puente La Dehesa,4.2,categoria_2,TBP,1671.6
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P1,Gran Vía - Puente La Dehesa,4.2,categoria_2,TS,2536.8
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P1,Gran Vía - Puente La Dehesa,4.2,categoria_3,TBFP,1297.8
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P1,Gran Vía - Puente La Dehesa,4.2,categoria_3,TBP,2507.4
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P1,Gran Vía - Puente La Dehesa,4.2,categoria_3,TS,3805.2
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_1y4,TBFP,144.2
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_1y4,TBP,278.6
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_1y4,TS,422.8
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_2,TBFP,288.4
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_2,TBP,557.2
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_2,TS,845.6
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_3,TBFP,432.6
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_3,TBP,835.8
+Costanera Norte,,EJE COSTANERA,PONIENTE-ORIENTE,P0,Puente Padre Arteaga - P. San Francisco,1.4,categoria_3,TS,1268.4
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P7,Estoril - Las Tranqueras,2.3385,categoria_1y4,TBFP,240.86
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P7,Estoril - Las Tranqueras,2.3385,categoria_1y4,TBP,465.36
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P7,Estoril - Las Tranqueras,2.3385,categoria_1y4,TS,706.22
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P7,Estoril - Las Tranqueras,2.3385,categoria_2,TBFP,481.73
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P7,Estoril - Las Tranqueras,2.3385,categoria_2,TBP,930.72
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P7,Estoril - Las Tranqueras,2.3385,categoria_2,TS,1412.45
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P7,Estoril - Las Tranqueras,2.3385,categoria_3,TBFP,722.59
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P7,Estoril - Las Tranqueras,2.3385,categoria_3,TBP,1396.08
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P7,Estoril - Las Tranqueras,2.3385,categoria_3,TS,2118.68
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.0,Las Tranqueras - Costanera Norte,5.4565,categoria_1y4,TBFP,562.01
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.0,Las Tranqueras - Costanera Norte,5.4565,categoria_1y4,TBP,1085.84
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.0,Las Tranqueras - Costanera Norte,5.4565,categoria_1y4,TS,1647.86
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.0,Las Tranqueras - Costanera Norte,5.4565,categoria_2,TBFP,1124.03
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.0,Las Tranqueras - Costanera Norte,5.4565,categoria_2,TBP,2171.68
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.0,Las Tranqueras - Costanera Norte,5.4565,categoria_2,TS,3295.72
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.0,Las Tranqueras - Costanera Norte,5.4565,categoria_3,TBFP,1686.05
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.0,Las Tranqueras - Costanera Norte,5.4565,categoria_3,TBP,3257.53
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.0,Las Tranqueras - Costanera Norte,5.4565,categoria_3,TS,4943.58
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.1,Las Tranqueras - Costanera Norte,5.4565,categoria_1y4,TBFP,562.01
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.1,Las Tranqueras - Costanera Norte,5.4565,categoria_1y4,TBP,1085.84
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.1,Las Tranqueras - Costanera Norte,5.4565,categoria_1y4,TS,1647.86
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.1,Las Tranqueras - Costanera Norte,5.4565,categoria_2,TBFP,1124.03
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.1,Las Tranqueras - Costanera Norte,5.4565,categoria_2,TBP,2171.68
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.1,Las Tranqueras - Costanera Norte,5.4565,categoria_2,TS,3295.72
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.1,Las Tranqueras - Costanera Norte,5.4565,categoria_3,TBFP,1686.05
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.1,Las Tranqueras - Costanera Norte,5.4565,categoria_3,TBP,3257.53
+Costanera Norte,,EJE KENNEDY,ORIENTE-PONIENTE,P8.1,Las Tranqueras - Costanera Norte,5.4565,categoria_3,TS,4943.58
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.3,Costanera Norte - Las Tranqueras,5.4565,categoria_1y4,TBFP,562.01
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.3,Costanera Norte - Las Tranqueras,5.4565,categoria_1y4,TBP,1085.84
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.3,Costanera Norte - Las Tranqueras,5.4565,categoria_1y4,TS,1647.86
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.3,Costanera Norte - Las Tranqueras,5.4565,categoria_2,TBFP,1124.03
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.3,Costanera Norte - Las Tranqueras,5.4565,categoria_2,TBP,2171.68
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.3,Costanera Norte - Las Tranqueras,5.4565,categoria_2,TS,3295.72
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.3,Costanera Norte - Las Tranqueras,5.4565,categoria_3,TBFP,1686.05
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.3,Costanera Norte - Las Tranqueras,5.4565,categoria_3,TBP,3257.53
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.3,Costanera Norte - Las Tranqueras,5.4565,categoria_3,TS,4943.58
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.2,Costanera Norte - Las Tranqueras,5.4565,categoria_1y4,TBFP,562.01
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.2,Costanera Norte - Las Tranqueras,5.4565,categoria_1y4,TBP,1085.84
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.2,Costanera Norte - Las Tranqueras,5.4565,categoria_1y4,TS,1647.86
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.2,Costanera Norte - Las Tranqueras,5.4565,categoria_2,TBFP,1124.03
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.2,Costanera Norte - Las Tranqueras,5.4565,categoria_2,TBP,2171.68
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.2,Costanera Norte - Las Tranqueras,5.4565,categoria_2,TS,3295.72
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.2,Costanera Norte - Las Tranqueras,5.4565,categoria_3,TBFP,1686.05
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.2,Costanera Norte - Las Tranqueras,5.4565,categoria_3,TBP,3257.53
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.2,Costanera Norte - Las Tranqueras,5.4565,categoria_3,TS,4943.58
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.1,Costanera Norte - Las Tranqueras,5.4565,categoria_1y4,TBFP,562.01
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.1,Costanera Norte - Las Tranqueras,5.4565,categoria_1y4,TBP,1085.84
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.1,Costanera Norte - Las Tranqueras,5.4565,categoria_1y4,TS,1647.86
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.1,Costanera Norte - Las Tranqueras,5.4565,categoria_2,TBFP,1124.03
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.1,Costanera Norte - Las Tranqueras,5.4565,categoria_2,TBP,2171.68
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.1,Costanera Norte - Las Tranqueras,5.4565,categoria_2,TS,3295.72
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.1,Costanera Norte - Las Tranqueras,5.4565,categoria_3,TBFP,1686.05
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.1,Costanera Norte - Las Tranqueras,5.4565,categoria_3,TBP,3257.53
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.1,Costanera Norte - Las Tranqueras,5.4565,categoria_3,TS,4943.58
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.0,Costanera Norte - Las Tranqueras,5.4565,categoria_1y4,TBFP,562.01
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.0,Costanera Norte - Las Tranqueras,5.4565,categoria_1y4,TBP,1085.84
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.0,Costanera Norte - Las Tranqueras,5.4565,categoria_1y4,TS,1647.86
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.0,Costanera Norte - Las Tranqueras,5.4565,categoria_2,TBFP,1124.03
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.0,Costanera Norte - Las Tranqueras,5.4565,categoria_2,TBP,2171.68
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.0,Costanera Norte - Las Tranqueras,5.4565,categoria_2,TS,3295.72
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.0,Costanera Norte - Las Tranqueras,5.4565,categoria_3,TBFP,1686.05
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.0,Costanera Norte - Las Tranqueras,5.4565,categoria_3,TBP,3257.53
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P8.0,Costanera Norte - Las Tranqueras,5.4565,categoria_3,TS,4943.58
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P7,Las Tranqueras - Estoril,2.3385,categoria_1y4,TBFP,240.86
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P7,Las Tranqueras - Estoril,2.3385,categoria_1y4,TBP,465.36
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P7,Las Tranqueras - Estoril,2.3385,categoria_1y4,TS,706.22
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P7,Las Tranqueras - Estoril,2.3385,categoria_2,TBFP,481.73
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P7,Las Tranqueras - Estoril,2.3385,categoria_2,TBP,930.72
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P7,Las Tranqueras - Estoril,2.3385,categoria_2,TS,1412.45
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P7,Las Tranqueras - Estoril,2.3385,categoria_3,TBFP,722.59
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P7,Las Tranqueras - Estoril,2.3385,categoria_3,TBP,1396.08
+Costanera Norte,,EJE KENNEDY,PONIENTE-ORIENTE,P7,Las Tranqueras - Estoril,2.3385,categoria_3,TS,2118.68
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P15,El Salto - Recoleta,1.4,categoria_1y4,TBFP,136.01
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P15,El Salto - Recoleta,1.4,categoria_1y4,TBP,272.01
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P15,El Salto - Recoleta,1.4,categoria_2,TBFP,272.01
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P15,El Salto - Recoleta,1.4,categoria_2,TBP,544.03
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P15,El Salto - Recoleta,1.4,categoria_3,TBFP,408.02
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P15,El Salto - Recoleta,1.4,categoria_3,TBP,816.04
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P13,Recoleta - Pedro Fontova,4.1,categoria_1y4,TBFP,398.3
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P13,Recoleta - Pedro Fontova,4.1,categoria_1y4,TBP,796.61
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P13,Recoleta - Pedro Fontova,4.1,categoria_2,TBFP,796.61
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P13,Recoleta - Pedro Fontova,4.1,categoria_2,TBP,1593.22
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P13,Recoleta - Pedro Fontova,4.1,categoria_3,TBFP,1194.91
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P13,Recoleta - Pedro Fontova,4.1,categoria_3,TBP,2389.83
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P11,Pedro Fontova - Ruta 5 Norte,3.0,categoria_1y4,TBFP,291.44
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P11,Pedro Fontova - Ruta 5 Norte,3.0,categoria_1y4,TBP,582.89
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P11,Pedro Fontova - Ruta 5 Norte,3.0,categoria_2,TBFP,582.88
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P11,Pedro Fontova - Ruta 5 Norte,3.0,categoria_2,TBP,1165.77
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P11,Pedro Fontova - Ruta 5 Norte,3.0,categoria_3,TBFP,874.32
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P11,Pedro Fontova - Ruta 5 Norte,3.0,categoria_3,TBP,1748.66
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P8,Ruta 5 Norte - Condell,6.5,categoria_1y4,TBFP,631.46
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P8,Ruta 5 Norte - Condell,6.5,categoria_1y4,TBP,1262.92
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P8,Ruta 5 Norte - Condell,6.5,categoria_2,TBFP,1262.91
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P8,Ruta 5 Norte - Condell,6.5,categoria_2,TBP,2525.84
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P8,Ruta 5 Norte - Condell,6.5,categoria_3,TBFP,1894.37
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P8,Ruta 5 Norte - Condell,6.5,categoria_3,TBP,3788.75
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P6,Condell - Costanera Norte,4.5,categoria_1y4,TBFP,437.16
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P6,Condell - Costanera Norte,4.5,categoria_1y4,TBP,874.33
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P6,Condell - Costanera Norte,4.5,categoria_2,TBFP,874.32
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P6,Condell - Costanera Norte,4.5,categoria_2,TBP,1748.66
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P6,Condell - Costanera Norte,4.5,categoria_3,TBFP,1311.48
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P6,Condell - Costanera Norte,4.5,categoria_3,TBP,2622.98
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P4,Costanera Norte - Ruta 68,3.5,categoria_1y4,TBFP,340.01
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P4,Costanera Norte - Ruta 68,3.5,categoria_1y4,TBP,680.03
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P4,Costanera Norte - Ruta 68,3.5,categoria_1y4,TS,1020.05
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P4,Costanera Norte - Ruta 68,3.5,categoria_2,TBFP,680.03
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P4,Costanera Norte - Ruta 68,3.5,categoria_2,TBP,1360.07
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P4,Costanera Norte - Ruta 68,3.5,categoria_2,TS,2040.1
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P4,Costanera Norte - Ruta 68,3.5,categoria_3,TBFP,1020.04
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P4,Costanera Norte - Ruta 68,3.5,categoria_3,TBP,2040.1
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P4,Costanera Norte - Ruta 68,3.5,categoria_3,TS,3060.15
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P2,Ruta 68 - Los Mares,2.1,categoria_1y4,TBFP,204.01
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P2,Ruta 68 - Los Mares,2.1,categoria_1y4,TBP,408.02
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P2,Ruta 68 - Los Mares,2.1,categoria_1y4,TS,612.03
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P2,Ruta 68 - Los Mares,2.1,categoria_2,TBFP,408.02
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P2,Ruta 68 - Los Mares,2.1,categoria_2,TBP,816.04
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P2,Ruta 68 - Los Mares,2.1,categoria_2,TS,1224.06
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P2,Ruta 68 - Los Mares,2.1,categoria_3,TBFP,612.03
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P2,Ruta 68 - Los Mares,2.1,categoria_3,TBP,1224.06
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P2,Ruta 68 - Los Mares,2.1,categoria_3,TS,1836.09
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P17,Los Mares - Ruta 78,3.9,categoria_1y4,TBFP,378.87
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P17,Los Mares - Ruta 78,3.9,categoria_1y4,TBP,757.75
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P17,Los Mares - Ruta 78,3.9,categoria_1y4,TS,1136.63
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P17,Los Mares - Ruta 78,3.9,categoria_2,TBFP,757.75
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P17,Los Mares - Ruta 78,3.9,categoria_2,TBP,1515.5
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P17,Los Mares - Ruta 78,3.9,categoria_2,TS,2273.26
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P17,Los Mares - Ruta 78,3.9,categoria_3,TBFP,1136.62
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P17,Los Mares - Ruta 78,3.9,categoria_3,TBP,2273.25
+Autopista Vespucio Norte,,EJE PRINCIPAL,ORIENTE-PONIENTE,P17,Los Mares - Ruta 78,3.9,categoria_3,TS,3409.88
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P1,Ruta 78 - Santa Elena,1.2,categoria_1y4,TBFP,116.58
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P1,Ruta 78 - Santa Elena,1.2,categoria_1y4,TBP,233.15
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P1,Ruta 78 - Santa Elena,1.2,categoria_1y4,TS,349.73
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P1,Ruta 78 - Santa Elena,1.2,categoria_2,TBFP,233.15
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P1,Ruta 78 - Santa Elena,1.2,categoria_2,TBP,466.31
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P1,Ruta 78 - Santa Elena,1.2,categoria_2,TS,699.46
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P1,Ruta 78 - Santa Elena,1.2,categoria_3,TBFP,349.73
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P1,Ruta 78 - Santa Elena,1.2,categoria_3,TBP,699.46
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P1,Ruta 78 - Santa Elena,1.2,categoria_3,TS,1049.19
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P16,Santa Elena - Ruta 68,4.8,categoria_1y4,TBFP,466.31
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P16,Santa Elena - Ruta 68,4.8,categoria_1y4,TBP,932.62
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P16,Santa Elena - Ruta 68,4.8,categoria_1y4,TS,1398.93
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P16,Santa Elena - Ruta 68,4.8,categoria_2,TBFP,932.61
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P16,Santa Elena - Ruta 68,4.8,categoria_2,TBP,1865.23
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P16,Santa Elena - Ruta 68,4.8,categoria_2,TS,2797.85
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P16,Santa Elena - Ruta 68,4.8,categoria_3,TBFP,1398.92
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P16,Santa Elena - Ruta 68,4.8,categoria_3,TBP,2797.85
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P16,Santa Elena - Ruta 68,4.8,categoria_3,TS,4196.78
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P3,Ruta 68 - Costanera Norte,3.5,categoria_1y4,TBFP,340.01
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P3,Ruta 68 - Costanera Norte,3.5,categoria_1y4,TBP,680.03
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P3,Ruta 68 - Costanera Norte,3.5,categoria_2,TBFP,680.03
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P3,Ruta 68 - Costanera Norte,3.5,categoria_2,TBP,1360.07
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P3,Ruta 68 - Costanera Norte,3.5,categoria_3,TBFP,1020.04
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P3,Ruta 68 - Costanera Norte,3.5,categoria_3,TBP,2040.1
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P5,Costanera Norte - Condell,4.5,categoria_1y4,TBFP,437.16
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P5,Costanera Norte - Condell,4.5,categoria_1y4,TBP,874.33
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P5,Costanera Norte - Condell,4.5,categoria_2,TBFP,874.32
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P5,Costanera Norte - Condell,4.5,categoria_2,TBP,1748.66
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P5,Costanera Norte - Condell,4.5,categoria_3,TBFP,1311.48
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P5,Costanera Norte - Condell,4.5,categoria_3,TBP,2622.98
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P7,Condell - Lo Echevers,1.04,categoria_1y4,TBFP,101.03
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P7,Condell - Lo Echevers,1.04,categoria_1y4,TBP,202.07
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P7,Condell - Lo Echevers,1.04,categoria_2,TBFP,202.07
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P7,Condell - Lo Echevers,1.04,categoria_2,TBP,404.13
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P7,Condell - Lo Echevers,1.04,categoria_3,TBFP,303.1
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P7,Condell - Lo Echevers,1.04,categoria_3,TBP,606.2
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P9,Lo Echevers - Ruta 5 Norte,5.46,categoria_1y4,TBFP,530.42
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P9,Lo Echevers - Ruta 5 Norte,5.46,categoria_1y4,TBP,1060.85
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P9,Lo Echevers - Ruta 5 Norte,5.46,categoria_2,TBFP,1060.85
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P9,Lo Echevers - Ruta 5 Norte,5.46,categoria_2,TBP,2121.7
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P9,Lo Echevers - Ruta 5 Norte,5.46,categoria_3,TBFP,1591.27
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P9,Lo Echevers - Ruta 5 Norte,5.46,categoria_3,TBP,3182.55
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P10,Ruta 5 Norte - Pedro Fontova,3.0,categoria_1y4,TBFP,291.44
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P10,Ruta 5 Norte - Pedro Fontova,3.0,categoria_1y4,TBP,582.89
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P10,Ruta 5 Norte - Pedro Fontova,3.0,categoria_1y4,TS,874.33
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P10,Ruta 5 Norte - Pedro Fontova,3.0,categoria_2,TBFP,582.88
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P10,Ruta 5 Norte - Pedro Fontova,3.0,categoria_2,TBP,1165.77
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P10,Ruta 5 Norte - Pedro Fontova,3.0,categoria_2,TS,1748.66
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P10,Ruta 5 Norte - Pedro Fontova,3.0,categoria_3,TBFP,874.32
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P10,Ruta 5 Norte - Pedro Fontova,3.0,categoria_3,TBP,1748.66
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P10,Ruta 5 Norte - Pedro Fontova,3.0,categoria_3,TS,2622.99
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P12,Pedro Fontova - Guanaco,0.69,categoria_1y4,TBFP,67.03
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P12,Pedro Fontova - Guanaco,0.69,categoria_1y4,TBP,134.06
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P12,Pedro Fontova - Guanaco,0.69,categoria_2,TBFP,134.06
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P12,Pedro Fontova - Guanaco,0.69,categoria_2,TBP,268.13
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P12,Pedro Fontova - Guanaco,0.69,categoria_3,TBFP,201.09
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P12,Pedro Fontova - Guanaco,0.69,categoria_3,TBP,402.19
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P14,Guanaco - El Salto,4.81,categoria_1y4,TBFP,467.28
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P14,Guanaco - El Salto,4.81,categoria_1y4,TBP,934.56
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P14,Guanaco - El Salto,4.81,categoria_2,TBFP,934.55
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P14,Guanaco - El Salto,4.81,categoria_2,TBP,1869.12
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P14,Guanaco - El Salto,4.81,categoria_3,TBFP,1401.83
+Autopista Vespucio Norte,,EJE PRINCIPAL,PONIENTE-ORIENTE,P14,Guanaco - El Salto,4.81,categoria_3,TBP,2803.68
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,1.3,2ª Transversal – Camino a Melipilla,5.3,categoria_1y4,TBFP,514.88
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,1.3,2ª Transversal – Camino a Melipilla,5.3,categoria_1y4,TBP,1029.76
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,1.3,2ª Transversal – Camino a Melipilla,5.3,categoria_1y4,TS,1544.65
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,1.3,2ª Transversal – Camino a Melipilla,5.3,categoria_2,TBFP,1029.76
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,1.3,2ª Transversal – Camino a Melipilla,5.3,categoria_2,TBP,2059.53
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,1.3,2ª Transversal – Camino a Melipilla,5.3,categoria_2,TS,3089.3
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,1.3,2ª Transversal – Camino a Melipilla,5.3,categoria_3,TBFP,1544.64
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,1.3,2ª Transversal – Camino a Melipilla,5.3,categoria_3,TBP,3089.29
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,1.3,2ª Transversal – Camino a Melipilla,5.3,categoria_3,TS,4633.94
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,2.2,Gral. Velásquez – Ruta 5,2.5,categoria_1y4,TBFP,242.87
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,2.2,Gral. Velásquez – Ruta 5,2.5,categoria_1y4,TBP,485.74
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,2.2,Gral. Velásquez – Ruta 5,2.5,categoria_2,TBFP,485.74
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,2.2,Gral. Velásquez – Ruta 5,2.5,categoria_2,TBP,971.48
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,2.2,Gral. Velásquez – Ruta 5,2.5,categoria_3,TBFP,728.6
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,2.2,Gral. Velásquez – Ruta 5,2.5,categoria_3,TBP,1457.21
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.4,Ruta 5 – Gran Avenida,1.2,categoria_1y4,TBFP,116.58
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.4,Ruta 5 – Gran Avenida,1.2,categoria_1y4,TBP,233.15
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.4,Ruta 5 – Gran Avenida,1.2,categoria_1y4,TS,349.73
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.4,Ruta 5 – Gran Avenida,1.2,categoria_2,TBFP,233.15
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.4,Ruta 5 – Gran Avenida,1.2,categoria_2,TBP,466.31
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.4,Ruta 5 – Gran Avenida,1.2,categoria_2,TS,699.46
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.4,Ruta 5 – Gran Avenida,1.2,categoria_3,TBFP,349.73
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.4,Ruta 5 – Gran Avenida,1.2,categoria_3,TBP,699.46
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.4,Ruta 5 – Gran Avenida,1.2,categoria_3,TS,1049.19
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.2,Gran Avenida – Santa Rosa,4.7,categoria_1y4,TBFP,456.59
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.2,Gran Avenida – Santa Rosa,4.7,categoria_1y4,TBP,913.19
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.2,Gran Avenida – Santa Rosa,4.7,categoria_1y4,TS,1369.78
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.2,Gran Avenida – Santa Rosa,4.7,categoria_2,TBFP,913.18
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.2,Gran Avenida – Santa Rosa,4.7,categoria_2,TBP,1826.37
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.2,Gran Avenida – Santa Rosa,4.7,categoria_2,TS,2739.56
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.2,Gran Avenida – Santa Rosa,4.7,categoria_3,TBFP,1369.77
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.2,Gran Avenida – Santa Rosa,4.7,categoria_3,TBP,2739.56
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,3.2,Gran Avenida – Santa Rosa,4.7,categoria_3,TS,4109.35
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.3,Coronel – Santa Julia,0.45,categoria_1y4,TBFP,43.72
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.3,Coronel – Santa Julia,0.45,categoria_1y4,TBP,87.43
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.3,Coronel – Santa Julia,0.45,categoria_1y4,TS,131.15
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.3,Coronel – Santa Julia,0.45,categoria_2,TBFP,87.43
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.3,Coronel – Santa Julia,0.45,categoria_2,TBP,174.87
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.3,Coronel – Santa Julia,0.45,categoria_2,TS,262.3
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.3,Coronel – Santa Julia,0.45,categoria_3,TBFP,131.15
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.3,Coronel – Santa Julia,0.45,categoria_3,TBP,262.3
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.3,Coronel – Santa Julia,0.45,categoria_3,TS,393.45
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.2,Gnmo. de Alderete – V. Mackenna,2.65,categoria_1y4,TBFP,257.44
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.2,Gnmo. de Alderete – V. Mackenna,2.65,categoria_1y4,TBP,514.88
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.2,Gnmo. de Alderete – V. Mackenna,2.65,categoria_1y4,TS,772.32
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.2,Gnmo. de Alderete – V. Mackenna,2.65,categoria_2,TBFP,514.88
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.2,Gnmo. de Alderete – V. Mackenna,2.65,categoria_2,TBP,1029.76
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.2,Gnmo. de Alderete – V. Mackenna,2.65,categoria_2,TS,1544.65
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.2,Gnmo. de Alderete – V. Mackenna,2.65,categoria_3,TBFP,772.32
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.2,Gnmo. de Alderete – V. Mackenna,2.65,categoria_3,TBP,1544.65
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,4.2,Gnmo. de Alderete – V. Mackenna,2.65,categoria_3,TS,2316.97
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.4,Las Torres – Quilín,3.81,categoria_1y4,TBFP,370.13
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.4,Las Torres – Quilín,3.81,categoria_1y4,TBP,740.26
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.4,Las Torres – Quilín,3.81,categoria_1y4,TS,1110.4
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.4,Las Torres – Quilín,3.81,categoria_2,TBFP,740.26
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.4,Las Torres – Quilín,3.81,categoria_2,TBP,1480.53
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.4,Las Torres – Quilín,3.81,categoria_2,TS,2220.8
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.4,Las Torres – Quilín,3.81,categoria_3,TBFP,1110.39
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.4,Las Torres – Quilín,3.81,categoria_3,TBP,2220.79
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.4,Las Torres – Quilín,3.81,categoria_3,TS,3331.19
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.2,Quilín – Grecia,2.89,categoria_1y4,TBFP,280.75
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.2,Quilín – Grecia,2.89,categoria_1y4,TBP,561.51
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.2,Quilín – Grecia,2.89,categoria_1y4,TS,842.27
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.2,Quilín – Grecia,2.89,categoria_2,TBFP,561.51
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.2,Quilín – Grecia,2.89,categoria_2,TBP,1123.03
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.2,Quilín – Grecia,2.89,categoria_2,TS,1684.54
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.2,Quilín – Grecia,2.89,categoria_3,TBFP,842.26
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.2,Quilín – Grecia,2.89,categoria_3,TBP,1684.54
+Autopista Vespucio Sur,,EJE PRINCIPAL,PONIENTE-ORIENTE,5.2,Quilín – Grecia,2.89,categoria_3,TS,2526.81
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.1,Grecia – Quilín,1.21,categoria_1y4,TBFP,117.55
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.1,Grecia – Quilín,1.21,categoria_1y4,TBP,235.1
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.1,Grecia – Quilín,1.21,categoria_1y4,TS,352.65
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.1,Grecia – Quilín,1.21,categoria_2,TBFP,235.1
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.1,Grecia – Quilín,1.21,categoria_2,TBP,470.19
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.1,Grecia – Quilín,1.21,categoria_2,TS,705.29
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.1,Grecia – Quilín,1.21,categoria_3,TBFP,352.64
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.1,Grecia – Quilín,1.21,categoria_3,TBP,705.29
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.1,Grecia – Quilín,1.21,categoria_3,TS,1057.94
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.3,Quilín – Las Torres,5.49,categoria_1y4,TBFP,533.34
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.3,Quilín – Las Torres,5.49,categoria_1y4,TBP,1066.68
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.3,Quilín – Las Torres,5.49,categoria_1y4,TS,1600.02
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.3,Quilín – Las Torres,5.49,categoria_2,TBFP,1066.67
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.3,Quilín – Las Torres,5.49,categoria_2,TBP,2133.36
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.3,Quilín – Las Torres,5.49,categoria_2,TS,3200.04
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.3,Quilín – Las Torres,5.49,categoria_3,TBFP,1600.01
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.3,Quilín – Las Torres,5.49,categoria_3,TBP,3200.04
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,5.3,Quilín – Las Torres,5.49,categoria_3,TS,4800.07
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,4.1,Gnmo.de Alderete – Santa Julia,3.1,categoria_1y4,TBFP,301.16
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,4.1,Gnmo.de Alderete – Santa Julia,3.1,categoria_1y4,TBP,602.31
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,4.1,Gnmo.de Alderete – Santa Julia,3.1,categoria_2,TBFP,602.31
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,4.1,Gnmo.de Alderete – Santa Julia,3.1,categoria_2,TBP,1204.63
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,4.1,Gnmo.de Alderete – Santa Julia,3.1,categoria_3,TBFP,903.47
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,4.1,Gnmo.de Alderete – Santa Julia,3.1,categoria_3,TBP,1806.94
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.1,Santa Rosa – Gran Avenida,3.31,categoria_1y4,TBFP,321.56
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.1,Santa Rosa – Gran Avenida,3.31,categoria_1y4,TBP,643.12
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.1,Santa Rosa – Gran Avenida,3.31,categoria_1y4,TS,964.68
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.1,Santa Rosa – Gran Avenida,3.31,categoria_2,TBFP,643.11
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.1,Santa Rosa – Gran Avenida,3.31,categoria_2,TBP,1286.23
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.1,Santa Rosa – Gran Avenida,3.31,categoria_2,TS,1929.35
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.1,Santa Rosa – Gran Avenida,3.31,categoria_3,TBFP,964.67
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.1,Santa Rosa – Gran Avenida,3.31,categoria_3,TBP,1929.35
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.1,Santa Rosa – Gran Avenida,3.31,categoria_3,TS,2894.03
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.3,Gran Avenida – Ruta 5,2.59,categoria_1y4,TBFP,251.61
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.3,Gran Avenida – Ruta 5,2.59,categoria_1y4,TBP,503.22
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.3,Gran Avenida – Ruta 5,2.59,categoria_1y4,TS,754.84
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.3,Gran Avenida – Ruta 5,2.59,categoria_2,TBFP,503.22
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.3,Gran Avenida – Ruta 5,2.59,categoria_2,TBP,1006.45
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.3,Gran Avenida – Ruta 5,2.59,categoria_2,TS,1509.67
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.3,Gran Avenida – Ruta 5,2.59,categoria_3,TBFP,754.83
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.3,Gran Avenida – Ruta 5,2.59,categoria_3,TBP,1509.67
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,3.3,Gran Avenida – Ruta 5,2.59,categoria_3,TS,2264.51
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,2.1,Ruta 5 – General Velásquez,2.5,categoria_1y4,TBFP,242.87
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,2.1,Ruta 5 – General Velásquez,2.5,categoria_1y4,TBP,485.74
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,2.1,Ruta 5 – General Velásquez,2.5,categoria_1y4,TS,728.61
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,2.1,Ruta 5 – General Velásquez,2.5,categoria_2,TBFP,485.74
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,2.1,Ruta 5 – General Velásquez,2.5,categoria_2,TBP,971.48
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,2.1,Ruta 5 – General Velásquez,2.5,categoria_2,TS,1457.22
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,2.1,Ruta 5 – General Velásquez,2.5,categoria_3,TBFP,728.6
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,2.1,Ruta 5 – General Velásquez,2.5,categoria_3,TBP,1457.21
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,2.1,Ruta 5 – General Velásquez,2.5,categoria_3,TS,2185.82
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,1.1,General Velásquez – Ruta 78,5.3,categoria_1y4,TBFP,514.88
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,1.1,General Velásquez – Ruta 78,5.3,categoria_1y4,TBP,1029.76
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,1.1,General Velásquez – Ruta 78,5.3,categoria_2,TBFP,1029.76
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,1.1,General Velásquez – Ruta 78,5.3,categoria_2,TBP,2059.53
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,1.1,General Velásquez – Ruta 78,5.3,categoria_3,TBFP,1544.64
+Autopista Vespucio Sur,,EJE PRINCIPAL,ORIENTE-PONIENTE,1.1,General Velásquez – Ruta 78,5.3,categoria_3,TBP,3089.29
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Paso superior Lo Marcoleta,,0.0,autos_y_camionetas,tarifa_unica,175.0
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Paso superior Lo Marcoleta,,0.0,buses_y_camiones,tarifa_unica,315.0
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Paso superior Lo Marcoleta,,0.0,buses_y_camiones_con_remolque,tarifa_unica,560.0
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Paso superior Lo Marcoleta,,0.0,motos_y_motonetas,tarifa_unica,52.5
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Enlace Buenaventura,,0.0,autos_y_camionetas,tarifa_unica,211.0
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Enlace Buenaventura,,0.0,buses_y_camiones,tarifa_unica,379.8
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Enlace Buenaventura,,0.0,buses_y_camiones_con_remolque,tarifa_unica,675.2
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Enlace Buenaventura,,0.0,motos_y_motonetas,tarifa_unica,63.3
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Paso superior La Montaña,,0.0,autos_y_camionetas,tarifa_unica,384.0
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Paso superior La Montaña,,0.0,buses_y_camiones,tarifa_unica,691.2
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Paso superior La Montaña,,0.0,buses_y_camiones_con_remolque,tarifa_unica,1228.8
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Paso superior La Montaña,,0.0,motos_y_motonetas,tarifa_unica,115.2
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Enlace Lo Pinto,,0.0,autos_y_camionetas,tarifa_unica,470.0
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Enlace Lo Pinto,,0.0,buses_y_camiones,tarifa_unica,846.0
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Enlace Lo Pinto,,0.0,buses_y_camiones_con_remolque,tarifa_unica,1504.0
+Autovía Santiago - Lampa,,TARIFA BASE FUERA DE PUNTA (TBFP),,Enlace Lo Pinto,,0.0,motos_y_motonetas,tarifa_unica,141.0
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Paso superior Lo Marcoleta,,0.0,autos_y_camionetas,tarifa_unica,350.0
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Paso superior Lo Marcoleta,,0.0,buses_y_camiones,tarifa_unica,630.0
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Paso superior Lo Marcoleta,,0.0,buses_y_camiones_con_remolque,tarifa_unica,1120.0
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Paso superior Lo Marcoleta,,0.0,motos_y_motonetas,tarifa_unica,105.0
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Enlace Buenaventura,,0.0,autos_y_camionetas,tarifa_unica,422.0
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Enlace Buenaventura,,0.0,buses_y_camiones,tarifa_unica,759.6
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Enlace Buenaventura,,0.0,buses_y_camiones_con_remolque,tarifa_unica,1350.4
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Enlace Buenaventura,,0.0,motos_y_motonetas,tarifa_unica,126.6
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Paso superior La Montaña,,0.0,autos_y_camionetas,tarifa_unica,768.0
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Paso superior La Montaña,,0.0,buses_y_camiones,tarifa_unica,1382.4
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Paso superior La Montaña,,0.0,buses_y_camiones_con_remolque,tarifa_unica,2457.6
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Paso superior La Montaña,,0.0,motos_y_motonetas,tarifa_unica,230.4
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Enlace Lo Pinto,,0.0,autos_y_camionetas,tarifa_unica,940.0
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Enlace Lo Pinto,,0.0,buses_y_camiones,tarifa_unica,1692.0
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Enlace Lo Pinto,,0.0,buses_y_camiones_con_remolque,tarifa_unica,3008.0
+Autovía Santiago - Lampa,,TARIFA BASE PUNTA (TBP),,Enlace Lo Pinto,,0.0,motos_y_motonetas,tarifa_unica,282.0
+Ruta 5 Norte,Vallenar - Caldera,PEAJES TRONCALES,,Puerto Viejo Troncal,,0.0,motos_y_motonetas,tarifa_unica,450.0
+Ruta 5 Norte,Vallenar - Caldera,PEAJES TRONCALES,,Puerto Viejo Troncal,,0.0,autos_y_camionetas,tarifa_unica,1550.0
+Ruta 5 Norte,Vallenar - Caldera,PEAJES TRONCALES,,Puerto Viejo Troncal,,0.0,buses_dos_ejes,tarifa_unica,2800.0
+Ruta 5 Norte,Vallenar - Caldera,PEAJES TRONCALES,,Puerto Viejo Troncal,,0.0,camiones_dos_ejes_especial,tarifa_unica,4700.0
+Ruta 5 Norte,Vallenar - Caldera,PEAJES TRONCALES,,Puerto Viejo Troncal,,0.0,buses_mas_dos_ejes,tarifa_unica,5000.0
+Ruta 5 Norte,Vallenar - Caldera,PEAJES TRONCALES,,Puerto Viejo Troncal,,0.0,camiones_mas_dos_ejes,tarifa_unica,6300.0
+Ruta 5 Norte,Vallenar - Caldera,PEAJES TRONCALES,,Totoral Troncal,,0.0,motos_y_motonetas,tarifa_unica,750.0
+Ruta 5 Norte,Vallenar - Caldera,PEAJES TRONCALES,,Totoral Troncal,,0.0,autos_y_camionetas,tarifa_unica,2600.0
+Ruta 5 Norte,Vallenar - Caldera,PEAJES TRONCALES,,Totoral Troncal,,0.0,buses_dos_ejes,tarifa_unica,4700.0
+Ruta 5 Norte,Vallenar - Caldera,PEAJES TRONCALES,,Totoral Troncal,,0.0,camiones_dos_ejes_especial,tarifa_unica,7850.0
+Ruta 5 Norte,Vallenar - Caldera,PEAJES TRONCALES,,Totoral Troncal,,0.0,buses_mas_dos_ejes,tarifa_unica,8400.0
+Ruta 5 Norte,Vallenar - Caldera,PEAJES TRONCALES,,Totoral Troncal,,0.0,camiones_mas_dos_ejes,tarifa_unica,10500.0
+Ruta 5 Norte,La Serena - Vallenar,PEAJES TRONCALES,,Cachiyuyo Troncal,,0.0,motos_y_motonetas,tarifa_unica,850.0
+Ruta 5 Norte,La Serena - Vallenar,PEAJES TRONCALES,,Cachiyuyo Troncal,,0.0,autos_y_camionetas,tarifa_unica,2900.0
+Ruta 5 Norte,La Serena - Vallenar,PEAJES TRONCALES,,Cachiyuyo Troncal,,0.0,buses_dos_ejes,tarifa_unica,5200.0
+Ruta 5 Norte,La Serena - Vallenar,PEAJES TRONCALES,,Cachiyuyo Troncal,,0.0,camiones_dos_ejes_especial,tarifa_unica,8700.0
+Ruta 5 Norte,La Serena - Vallenar,PEAJES TRONCALES,,Cachiyuyo Troncal,,0.0,buses_mas_dos_ejes,tarifa_unica,9300.0
+Ruta 5 Norte,La Serena - Vallenar,PEAJES TRONCALES,,Cachiyuyo Troncal,,0.0,camiones_mas_dos_ejes,tarifa_unica,11700.0
+Ruta 5 Norte,La Serena - Vallenar,PEAJES TRONCALES,,Cachiyuyo Troncal,,0.0,vehiculos_sobredimensionados,tarifa_unica,23400.0
+Ruta 5 Norte,La Serena - Vallenar,PEAJES TRONCALES,,Punta Colorada,,0.0,motos_y_motonetas,tarifa_unica,850.0
+Ruta 5 Norte,La Serena - Vallenar,PEAJES TRONCALES,,Punta Colorada,,0.0,autos_y_camionetas,tarifa_unica,2900.0
+Ruta 5 Norte,La Serena - Vallenar,PEAJES TRONCALES,,Punta Colorada,,0.0,buses_dos_ejes,tarifa_unica,5200.0
+Ruta 5 Norte,La Serena - Vallenar,PEAJES TRONCALES,,Punta Colorada,,0.0,camiones_dos_ejes_especial,tarifa_unica,8700.0
+Ruta 5 Norte,La Serena - Vallenar,PEAJES TRONCALES,,Punta Colorada,,0.0,buses_mas_dos_ejes,tarifa_unica,9300.0
+Ruta 5 Norte,La Serena - Vallenar,PEAJES TRONCALES,,Punta Colorada,,0.0,camiones_mas_dos_ejes,tarifa_unica,11700.0
+Ruta 5 Norte,La Serena - Vallenar,PEAJES TRONCALES,,Punta Colorada,,0.0,vehiculos_sobredimensionados,tarifa_unica,23400.0
+Ruta 5 Norte,Los Vilos - La Serena,PEAJES,,Laterales (Combarbalá / Ovalle / Tongoy / Guanaqueros),Lateral,0.0,motos,tarifa_unica,300.0
+Ruta 5 Norte,Los Vilos - La Serena,PEAJES,,Laterales (Combarbalá / Ovalle / Tongoy / Guanaqueros),Lateral,0.0,autos_y_camionetas,tarifa_unica,1050.0
+Ruta 5 Norte,Los Vilos - La Serena,PEAJES,,Laterales (Combarbalá / Ovalle / Tongoy / Guanaqueros),Lateral,0.0,buses_dos_ejes,tarifa_unica,1900.0
+Ruta 5 Norte,Los Vilos - La Serena,PEAJES,,Laterales (Combarbalá / Ovalle / Tongoy / Guanaqueros),Lateral,0.0,camiones_dos_ejes,tarifa_unica,1900.0
+Ruta 5 Norte,Los Vilos - La Serena,PEAJES,,Laterales (Combarbalá / Ovalle / Tongoy / Guanaqueros),Lateral,0.0,buses_mas_dos_ejes,tarifa_unica,3350.0
+Ruta 5 Norte,Los Vilos - La Serena,PEAJES,,Laterales (Combarbalá / Ovalle / Tongoy / Guanaqueros),Lateral,0.0,camiones_mas_dos_ejes,tarifa_unica,3350.0
+Ruta 5 Norte,Los Vilos - La Serena,PEAJES,,Troncales (Norte y Sur),Troncal,0.0,motos,tarifa_unica,1200.0
+Ruta 5 Norte,Los Vilos - La Serena,PEAJES,,Troncales (Norte y Sur),Troncal,0.0,autos_y_camionetas,tarifa_unica,4050.0
+Ruta 5 Norte,Los Vilos - La Serena,PEAJES,,Troncales (Norte y Sur),Troncal,0.0,buses_dos_ejes,tarifa_unica,7300.0
+Ruta 5 Norte,Los Vilos - La Serena,PEAJES,,Troncales (Norte y Sur),Troncal,0.0,camiones_dos_ejes,tarifa_unica,7300.0
+Ruta 5 Norte,Los Vilos - La Serena,PEAJES,,Troncales (Norte y Sur),Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,12950.0
+Ruta 5 Norte,Los Vilos - La Serena,PEAJES,,Troncales (Norte y Sur),Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,12950.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Paso superior Lo Marcoleta,,0.0,autos_y_camionetas_rsr,tarifa_unica,175.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Paso superior Lo Marcoleta,,0.0,buses_y_camiones,tarifa_unica,315.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Paso superior Lo Marcoleta,,0.0,buses_y_camiones_cr,tarifa_unica,560.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Paso superior Lo Marcoleta,,0.0,motos_y_motonetas,tarifa_unica,52.5
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Enlace Buenaventura,,0.0,autos_y_camionetas_rsr,tarifa_unica,211.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Enlace Buenaventura,,0.0,buses_y_camiones,tarifa_unica,379.8
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Enlace Buenaventura,,0.0,buses_y_camiones_cr,tarifa_unica,675.2
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Enlace Buenaventura,,0.0,motos_y_motonetas,tarifa_unica,63.3
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Paso superior La Montaña,,0.0,autos_y_camionetas_rsr,tarifa_unica,384.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Paso superior La Montaña,,0.0,buses_y_camiones,tarifa_unica,691.2
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Paso superior La Montaña,,0.0,buses_y_camiones_cr,tarifa_unica,1228.8
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Paso superior La Montaña,,0.0,motos_y_motonetas,tarifa_unica,115.2
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Enlace Lo Pinto,,0.0,autos_y_camionetas_rsr,tarifa_unica,470.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Enlace Lo Pinto,,0.0,buses_y_camiones,tarifa_unica,846.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Enlace Lo Pinto,,0.0,buses_y_camiones_cr,tarifa_unica,1504.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES,,Enlace Lo Pinto,,0.0,motos_y_motonetas,tarifa_unica,141.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Paso superior Lo Marcoleta,,0.0,autos_y_camionetas_rsr,tarifa_unica,350.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Paso superior Lo Marcoleta,,0.0,buses_y_camiones,tarifa_unica,630.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Paso superior Lo Marcoleta,,0.0,buses_y_camiones_cr,tarifa_unica,1120.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Paso superior Lo Marcoleta,,0.0,motos_y_motonetas,tarifa_unica,105.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Enlace Buenaventura,,0.0,autos_y_camionetas_rsr,tarifa_unica,422.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Enlace Buenaventura,,0.0,buses_y_camiones,tarifa_unica,759.6
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Enlace Buenaventura,,0.0,buses_y_camiones_cr,tarifa_unica,1350.4
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Enlace Buenaventura,,0.0,motos_y_motonetas,tarifa_unica,126.6
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Paso superior La Montaña,,0.0,autos_y_camionetas_rsr,tarifa_unica,768.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Paso superior La Montaña,,0.0,buses_y_camiones,tarifa_unica,1382.4
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Paso superior La Montaña,,0.0,buses_y_camiones_cr,tarifa_unica,2457.6
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Paso superior La Montaña,,0.0,motos_y_motonetas,tarifa_unica,230.4
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Enlace Lo Pinto,,0.0,autos_y_camionetas_rsr,tarifa_unica,940.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Enlace Lo Pinto,,0.0,buses_y_camiones,tarifa_unica,1692.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Enlace Lo Pinto,,0.0,buses_y_camiones_cr,tarifa_unica,3008.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES,,Enlace Lo Pinto,,0.0,motos_y_motonetas,tarifa_unica,282.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PLAZAS DE PEAJE TRONCAL,,Plaza de peaje Lampa,,0.0,autos_y_camionetas_rsr,tarifa_unica,900.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PLAZAS DE PEAJE TRONCAL,,Plaza de peaje Lampa,,0.0,buses_y_camiones_2_ejes,tarifa_unica,1600.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PLAZAS DE PEAJE TRONCAL,,Plaza de peaje Lampa,,0.0,buses_y_camiones_mas_2_ejes_csr,tarifa_unica,2800.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PLAZAS DE PEAJE TRONCAL,,Plaza de peaje Lampa,,0.0,motos_y_motonetas,tarifa_unica,300.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PLAZAS DE PEAJE TRONCAL,,Plaza de peaje Las Vegas,,0.0,autos_y_camionetas_rsr,tarifa_unica,2800.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PLAZAS DE PEAJE TRONCAL,,Plaza de peaje Las Vegas,,0.0,buses_y_camiones_2_ejes,tarifa_unica,5100.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PLAZAS DE PEAJE TRONCAL,,Plaza de peaje Las Vegas,,0.0,buses_y_camiones_mas_2_ejes_csr,tarifa_unica,9000.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PLAZAS DE PEAJE TRONCAL,,Plaza de peaje Las Vegas,,0.0,motos_y_motonetas,tarifa_unica,800.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PLAZAS DE PEAJE TRONCAL,,Plaza de peaje Pichidangui,,0.0,autos_y_camionetas_rsr,tarifa_unica,2800.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PLAZAS DE PEAJE TRONCAL,,Plaza de peaje Pichidangui,,0.0,buses_y_camiones_2_ejes,tarifa_unica,5100.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PLAZAS DE PEAJE TRONCAL,,Plaza de peaje Pichidangui,,0.0,buses_y_camiones_mas_2_ejes_csr,tarifa_unica,9000.0
+Ruta 5 Norte,Santiago - Los Vilos,TARIFA BASE PUNTA (TBP) - PLAZAS DE PEAJE TRONCAL,,Plaza de peaje Pichidangui,,0.0,motos_y_motonetas,tarifa_unica,800.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Troncal Ruta 5,Troncal,0.0,motos_y_motonetas,tarifa_unica,1100.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Troncal Ruta 5,Troncal,0.0,autos_y_camionetas,tarifa_unica,3700.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Troncal Ruta 5,Troncal,0.0,autos_y_camionetas_con_remolque,tarifa_unica,5500.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Troncal Ruta 5,Troncal,0.0,buses_dos_ejes,tarifa_unica,6700.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Troncal Ruta 5,Troncal,0.0,camiones_dos_ejes,tarifa_unica,6700.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Troncal Ruta 5,Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,11800.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Troncal Ruta 5,Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,11800.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Lateral Ruta 5,Lateral,0.0,motos_y_motonetas,tarifa_unica,300.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Lateral Ruta 5,Lateral,0.0,autos_y_camionetas,tarifa_unica,900.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Lateral Ruta 5,Lateral,0.0,autos_y_camionetas_con_remolque,tarifa_unica,1300.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Lateral Ruta 5,Lateral,0.0,buses_dos_ejes,tarifa_unica,1600.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Lateral Ruta 5,Lateral,0.0,camiones_dos_ejes,tarifa_unica,1600.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Lateral Ruta 5,Lateral,0.0,buses_mas_dos_ejes,tarifa_unica,2800.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Lateral Ruta 5,Lateral,0.0,camiones_mas_dos_ejes,tarifa_unica,2800.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Troncal Río Maipo,Troncal,0.0,motos_y_motonetas,tarifa_unica,300.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Troncal Río Maipo,Troncal,0.0,autos_y_camionetas,tarifa_unica,1300.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Troncal Río Maipo,Troncal,0.0,autos_y_camionetas_con_remolque,tarifa_unica,1800.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Troncal Río Maipo,Troncal,0.0,buses_dos_ejes,tarifa_unica,2300.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Troncal Río Maipo,Troncal,0.0,camiones_dos_ejes,tarifa_unica,2300.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Troncal Río Maipo,Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,4000.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Troncal Río Maipo,Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,4000.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Laterales Acceso Sur,Lateral,0.0,motos_y_motonetas,tarifa_unica,200.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Laterales Acceso Sur,Lateral,0.0,autos_y_camionetas,tarifa_unica,700.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Laterales Acceso Sur,Lateral,0.0,autos_y_camionetas_con_remolque,tarifa_unica,1000.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Laterales Acceso Sur,Lateral,0.0,buses_dos_ejes,tarifa_unica,1300.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Laterales Acceso Sur,Lateral,0.0,camiones_dos_ejes,tarifa_unica,1300.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Laterales Acceso Sur,Lateral,0.0,buses_mas_dos_ejes,tarifa_unica,2300.0
+Ruta 5 Sur,Santiago - Talca,PEAJES,,Laterales Acceso Sur,Lateral,0.0,camiones_mas_dos_ejes,tarifa_unica,2300.0
+Ruta 5 Sur,Talca - Chillán,PEAJES,,Troncal,Troncal,0.0,motos,tarifa_unica,900.0
+Ruta 5 Sur,Talca - Chillán,PEAJES,,Troncal,Troncal,0.0,autos_y_camionetas,tarifa_unica,3100.0
+Ruta 5 Sur,Talca - Chillán,PEAJES,,Troncal,Troncal,0.0,autos_y_camionetas_con_remolque,tarifa_unica,4700.0
+Ruta 5 Sur,Talca - Chillán,PEAJES,,Troncal,Troncal,0.0,buses_dos_ejes,tarifa_unica,5600.0
+Ruta 5 Sur,Talca - Chillán,PEAJES,,Troncal,Troncal,0.0,camiones_dos_ejes,tarifa_unica,5600.0
+Ruta 5 Sur,Talca - Chillán,PEAJES,,Troncal,Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,10000.0
+Ruta 5 Sur,Talca - Chillán,PEAJES,,Troncal,Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,10000.0
+Ruta 5 Sur,Talca - Chillán,PEAJES,,Lateral,Lateral,0.0,motos,tarifa_unica,200.0
+Ruta 5 Sur,Talca - Chillán,PEAJES,,Lateral,Lateral,0.0,autos_y_camionetas,tarifa_unica,800.0
+Ruta 5 Sur,Talca - Chillán,PEAJES,,Lateral,Lateral,0.0,autos_y_camionetas_con_remolque,tarifa_unica,1200.0
+Ruta 5 Sur,Talca - Chillán,PEAJES,,Lateral,Lateral,0.0,buses_dos_ejes,tarifa_unica,1400.0
+Ruta 5 Sur,Talca - Chillán,PEAJES,,Lateral,Lateral,0.0,camiones_dos_ejes,tarifa_unica,1400.0
+Ruta 5 Sur,Talca - Chillán,PEAJES,,Lateral,Lateral,0.0,buses_mas_dos_ejes,tarifa_unica,2500.0
+Ruta 5 Sur,Talca - Chillán,PEAJES,,Lateral,Lateral,0.0,camiones_mas_dos_ejes,tarifa_unica,2500.0
+Ruta 5 Sur,Chillán - Collipulli,PEAJES,,Troncales,Troncal,0.0,motos,tarifa_unica,1000.0
+Ruta 5 Sur,Chillán - Collipulli,PEAJES,,Troncales,Troncal,0.0,autos_y_camionetas,tarifa_unica,3200.0
+Ruta 5 Sur,Chillán - Collipulli,PEAJES,,Troncales,Troncal,0.0,autos_y_camionetas_con_remolque,tarifa_unica,4800.0
+Ruta 5 Sur,Chillán - Collipulli,PEAJES,,Troncales,Troncal,0.0,buses_dos_ejes,tarifa_unica,5800.0
+Ruta 5 Sur,Chillán - Collipulli,PEAJES,,Troncales,Troncal,0.0,camiones_dos_ejes,tarifa_unica,5800.0
+Ruta 5 Sur,Chillán - Collipulli,PEAJES,,Troncales,Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,10300.0
+Ruta 5 Sur,Chillán - Collipulli,PEAJES,,Troncales,Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,10300.0
+Ruta 5 Sur,Chillán - Collipulli,PEAJES,,Laterales,Lateral,0.0,motos,tarifa_unica,200.0
+Ruta 5 Sur,Chillán - Collipulli,PEAJES,,Laterales,Lateral,0.0,autos_y_camionetas,tarifa_unica,800.0
+Ruta 5 Sur,Chillán - Collipulli,PEAJES,,Laterales,Lateral,0.0,autos_y_camionetas_con_remolque,tarifa_unica,1200.0
+Ruta 5 Sur,Chillán - Collipulli,PEAJES,,Laterales,Lateral,0.0,buses_dos_ejes,tarifa_unica,1500.0
+Ruta 5 Sur,Chillán - Collipulli,PEAJES,,Laterales,Lateral,0.0,camiones_dos_ejes,tarifa_unica,1500.0
+Ruta 5 Sur,Chillán - Collipulli,PEAJES,,Laterales,Lateral,0.0,buses_mas_dos_ejes,tarifa_unica,2600.0
+Ruta 5 Sur,Chillán - Collipulli,PEAJES,,Laterales,Lateral,0.0,camiones_mas_dos_ejes,tarifa_unica,2600.0
+Ruta 5 Sur,Collipulli - Temuco,PEAJES,,Lateral,Lateral,0.0,motos_y_motonetas,tarifa_unica,300.0
+Ruta 5 Sur,Collipulli - Temuco,PEAJES,,Lateral,Lateral,0.0,autos_y_camionetas,tarifa_unica,800.0
+Ruta 5 Sur,Collipulli - Temuco,PEAJES,,Lateral,Lateral,0.0,autos_y_camionetas_con_remolque,tarifa_unica,1300.0
+Ruta 5 Sur,Collipulli - Temuco,PEAJES,,Lateral,Lateral,0.0,buses_dos_ejes,tarifa_unica,1500.0
+Ruta 5 Sur,Collipulli - Temuco,PEAJES,,Lateral,Lateral,0.0,camiones_dos_ejes,tarifa_unica,1500.0
+Ruta 5 Sur,Collipulli - Temuco,PEAJES,,Lateral,Lateral,0.0,buses_mas_dos_ejes,tarifa_unica,2700.0
+Ruta 5 Sur,Collipulli - Temuco,PEAJES,,Lateral,Lateral,0.0,camiones_mas_dos_ejes,tarifa_unica,2700.0
+Ruta 5 Sur,Collipulli - Temuco,PEAJES,,Troncal,Troncal,0.0,motos_y_motonetas,tarifa_unica,1000.0
+Ruta 5 Sur,Collipulli - Temuco,PEAJES,,Troncal,Troncal,0.0,autos_y_camionetas,tarifa_unica,3400.0
+Ruta 5 Sur,Collipulli - Temuco,PEAJES,,Troncal,Troncal,0.0,autos_y_camionetas_con_remolque,tarifa_unica,5000.0
+Ruta 5 Sur,Collipulli - Temuco,PEAJES,,Troncal,Troncal,0.0,buses_dos_ejes,tarifa_unica,6200.0
+Ruta 5 Sur,Collipulli - Temuco,PEAJES,,Troncal,Troncal,0.0,camiones_dos_ejes,tarifa_unica,6200.0
+Ruta 5 Sur,Collipulli - Temuco,PEAJES,,Troncal,Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,11000.0
+Ruta 5 Sur,Collipulli - Temuco,PEAJES,,Troncal,Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,11000.0
+Ruta 5 Sur,Temuco - Río Bueno,PEAJES,,Lateral,Lateral,0.0,autos_y_camionetas,tarifa_unica,900.0
+Ruta 5 Sur,Temuco - Río Bueno,PEAJES,,Lateral,Lateral,0.0,camiones_y_buses_dos_ejes,tarifa_unica,1600.0
+Ruta 5 Sur,Temuco - Río Bueno,PEAJES,,Lateral,Lateral,0.0,camiones_y_buses_mas_dos_ejes,tarifa_unica,2800.0
+Ruta 5 Sur,Temuco - Río Bueno,PEAJES,,Lateral,Lateral,0.0,motos,tarifa_unica,300.0
+Ruta 5 Sur,Temuco - Río Bueno,PEAJES,,Troncal,Troncal,0.0,autos_y_camionetas,tarifa_unica,3500.0
+Ruta 5 Sur,Temuco - Río Bueno,PEAJES,,Troncal,Troncal,0.0,camiones_y_buses_dos_ejes,tarifa_unica,6300.0
+Ruta 5 Sur,Temuco - Río Bueno,PEAJES,,Troncal,Troncal,0.0,camiones_y_buses_mas_dos_ejes,tarifa_unica,11200.0
+Ruta 5 Sur,Temuco - Río Bueno,PEAJES,,Troncal,Troncal,0.0,motos,tarifa_unica,1100.0
+Ruta 5 Sur,Río Bueno - Puerto Montt,PEAJES,,Lateral,Lateral,0.0,autos_y_camionetas,tarifa_unica,900.0
+Ruta 5 Sur,Río Bueno - Puerto Montt,PEAJES,,Lateral,Lateral,0.0,camiones_y_buses_dos_ejes,tarifa_unica,1600.0
+Ruta 5 Sur,Río Bueno - Puerto Montt,PEAJES,,Lateral,Lateral,0.0,camiones_y_buses_mas_dos_ejes,tarifa_unica,2800.0
+Ruta 5 Sur,Río Bueno - Puerto Montt,PEAJES,,Lateral,Lateral,0.0,motos,tarifa_unica,300.0
+Ruta 5 Sur,Río Bueno - Puerto Montt,PEAJES,,Troncal,Troncal,0.0,autos_y_camionetas,tarifa_unica,3500.0
+Ruta 5 Sur,Río Bueno - Puerto Montt,PEAJES,,Troncal,Troncal,0.0,camiones_y_buses_dos_ejes,tarifa_unica,6300.0
+Ruta 5 Sur,Río Bueno - Puerto Montt,PEAJES,,Troncal,Troncal,0.0,camiones_y_buses_mas_dos_ejes,tarifa_unica,11200.0
+Ruta 5 Sur,Río Bueno - Puerto Montt,PEAJES,,Troncal,Troncal,0.0,motos,tarifa_unica,1100.0
+Ruta 5 Sur,Río Bueno - Puerto Montt,PEAJES,,Troncal By Pass Puerto Montt,Troncal,0.0,autos_y_camionetas,tarifa_unica,1100.0
+Ruta 5 Sur,Río Bueno - Puerto Montt,PEAJES,,Troncal By Pass Puerto Montt,Troncal,0.0,camiones_y_buses_dos_ejes,tarifa_unica,1900.0
+Ruta 5 Sur,Río Bueno - Puerto Montt,PEAJES,,Troncal By Pass Puerto Montt,Troncal,0.0,camiones_y_buses_mas_dos_ejes,tarifa_unica,3400.0
+Ruta 5 Sur,Río Bueno - Puerto Montt,PEAJES,,Troncal By Pass Puerto Montt,Troncal,0.0,motos,tarifa_unica,300.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Troncal,Troncal,0.0,motos_y_motonetas,tarifa_unica,900.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Troncal,Troncal,0.0,autos_y_camionetas,tarifa_unica,3000.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Troncal,Troncal,0.0,buses_dos_ejes,tarifa_unica,5400.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Troncal,Troncal,0.0,camiones_dos_ejes_especial,tarifa_unica,9000.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Troncal,Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,9600.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Troncal,Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,12000.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Trapén,Lateral,0.0,motos_y_motonetas,tarifa_unica,250.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Trapén,Lateral,0.0,autos_y_camionetas,tarifa_unica,850.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Trapén,Lateral,0.0,buses_dos_ejes,tarifa_unica,1500.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Trapén,Lateral,0.0,camiones_dos_ejes_especial,tarifa_unica,2550.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Trapén,Lateral,0.0,buses_mas_dos_ejes,tarifa_unica,2700.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Trapén,Lateral,0.0,camiones_mas_dos_ejes,tarifa_unica,3400.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Maullín,Lateral,0.0,motos_y_motonetas,tarifa_unica,150.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Maullín,Lateral,0.0,autos_y_camionetas,tarifa_unica,600.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Maullín,Lateral,0.0,buses_dos_ejes,tarifa_unica,1150.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Maullín,Lateral,0.0,camiones_dos_ejes_especial,tarifa_unica,1900.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Maullín,Lateral,0.0,buses_mas_dos_ejes,tarifa_unica,2050.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Maullín,Lateral,0.0,camiones_mas_dos_ejes,tarifa_unica,2550.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Calbuco,Lateral,0.0,motos_y_motonetas,tarifa_unica,400.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Calbuco,Lateral,0.0,autos_y_camionetas,tarifa_unica,1350.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Calbuco,Lateral,0.0,buses_dos_ejes,tarifa_unica,2500.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Calbuco,Lateral,0.0,camiones_dos_ejes_especial,tarifa_unica,4150.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Calbuco,Lateral,0.0,buses_mas_dos_ejes,tarifa_unica,4450.0
+Ruta 5 Sur,Puerto Montt - Pargua,PEAJES,,Calbuco,Lateral,0.0,camiones_mas_dos_ejes,tarifa_unica,5550.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 1,Troncal,0.0,motos_y_motonetas,tarifa_unica,750.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 1,Troncal,0.0,autos_y_camionetas,tarifa_unica,1650.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 1,Troncal,0.0,buses_dos_ejes,tarifa_unica,4750.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 1,Troncal,0.0,camiones_dos_ejes,tarifa_unica,8500.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 1,Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,8500.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 1,Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,13300.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 1,Troncal,0.0,vehiculos_sobredimensionados_1,tarifa_unica,26600.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 1,Troncal,0.0,vehiculos_sobredimensionados_2,tarifa_unica,53250.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Acceso Aeropuerto,Troncal,0.0,motos_y_motonetas,tarifa_unica,500.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Acceso Aeropuerto,Troncal,0.0,autos_y_camionetas,tarifa_unica,1100.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Acceso Aeropuerto,Troncal,0.0,buses_dos_ejes,tarifa_unica,3150.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Acceso Aeropuerto,Troncal,0.0,camiones_dos_ejes,tarifa_unica,5650.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Acceso Aeropuerto,Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,5650.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Acceso Aeropuerto,Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,8850.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Acceso Aeropuerto,Troncal,0.0,vehiculos_sobredimensionados_1,tarifa_unica,17750.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Acceso Aeropuerto,Troncal,0.0,vehiculos_sobredimensionados_2,tarifa_unica,35500.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 5,Troncal,0.0,motos_y_motonetas,tarifa_unica,1300.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 5,Troncal,0.0,autos_y_camionetas,tarifa_unica,2750.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 5,Troncal,0.0,buses_dos_ejes,tarifa_unica,7950.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 5,Troncal,0.0,camiones_dos_ejes,tarifa_unica,14200.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 5,Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,14200.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 5,Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,22200.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 5,Troncal,0.0,vehiculos_sobredimensionados_1,tarifa_unica,44400.0
+Rutas Transversales Antofagasta,Antofagasta,PEAJES,,Troncal Ruta 5,Troncal,0.0,vehiculos_sobredimensionados_2,tarifa_unica,88800.0
+Acceso Iquique,,PEAJES,,Troncal Ruta 1,Troncal,0.0,motos_y_motonetas,tarifa_unica,450.0
+Acceso Iquique,,PEAJES,,Troncal Ruta 1,Troncal,0.0,autos_y_camionetas,tarifa_unica,1500.0
+Acceso Iquique,,PEAJES,,Troncal Ruta 1,Troncal,0.0,buses_dos_ejes,tarifa_unica,2700.0
+Acceso Iquique,,PEAJES,,Troncal Ruta 1,Troncal,0.0,camiones_dos_ejes_especial,tarifa_unica,4550.0
+Acceso Iquique,,PEAJES,,Troncal Ruta 1,Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,4850.0
+Acceso Iquique,,PEAJES,,Troncal Ruta 1,Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,7600.0
+Acceso Iquique,,PEAJES,,Troncal Ruta 16,Troncal,0.0,motos_y_motonetas,tarifa_unica,650.0
+Acceso Iquique,,PEAJES,,Troncal Ruta 16,Troncal,0.0,autos_y_camionetas,tarifa_unica,2250.0
+Acceso Iquique,,PEAJES,,Troncal Ruta 16,Troncal,0.0,buses_dos_ejes,tarifa_unica,4100.0
+Acceso Iquique,,PEAJES,,Troncal Ruta 16,Troncal,0.0,camiones_dos_ejes_especial,tarifa_unica,6800.0
+Acceso Iquique,,PEAJES,,Troncal Ruta 16,Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,7300.0
+Acceso Iquique,,PEAJES,,Troncal Ruta 16,Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,11400.0
+Ruta 43,La Serena - Ovalle,PEAJE TRONCAL,,Troncal,Troncal,0.0,motos_y_motonetas,tarifa_unica,1100.0
+Ruta 43,La Serena - Ovalle,PEAJE TRONCAL,,Troncal,Troncal,0.0,autos_y_camionetas,tarifa_unica,3600.0
+Ruta 43,La Serena - Ovalle,PEAJE TRONCAL,,Troncal,Troncal,0.0,buses_dos_ejes,tarifa_unica,6450.0
+Ruta 43,La Serena - Ovalle,PEAJE TRONCAL,,Troncal,Troncal,0.0,camiones_dos_ejes_especial,tarifa_unica,6450.0
+Ruta 43,La Serena - Ovalle,PEAJE TRONCAL,,Troncal,Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,6450.0
+Ruta 43,La Serena - Ovalle,PEAJE TRONCAL,,Troncal,Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,11500.0
+Autopista Los Libertadores,Santiago - Colina - Los Andes,PEAJES,,Chacabuco,,0.0,autos_y_camionetas,tarifa_unica,3200.0
+Autopista Los Libertadores,Santiago - Colina - Los Andes,PEAJES,,Chacabuco,,0.0,camiones_y_buses_dos_ejes,tarifa_unica,5800.0
+Autopista Los Libertadores,Santiago - Colina - Los Andes,PEAJES,,Chacabuco,,0.0,camiones_y_buses_mas_dos_ejes,tarifa_unica,10200.0
+Autopista Los Libertadores,Santiago - Colina - Los Andes,PEAJES,,Chacabuco,,0.0,motos_y_motonetas,tarifa_unica,1000.0
+Autopista Los Libertadores,Santiago - Colina - Los Andes,PEAJES,,San Luis Chicureo,,0.0,autos_y_camionetas,tarifa_unica,1100.0
+Autopista Los Libertadores,Santiago - Colina - Los Andes,PEAJES,,San Luis Chicureo,,0.0,camiones_y_buses_dos_ejes,tarifa_unica,2100.0
+Autopista Los Libertadores,Santiago - Colina - Los Andes,PEAJES,,San Luis Chicureo,,0.0,camiones_y_buses_mas_dos_ejes,tarifa_unica,3600.0
+Autopista Los Libertadores,Santiago - Colina - Los Andes,PEAJES,,San Luis Chicureo,,0.0,motos_y_motonetas,tarifa_unica,300.0
+Autopista Los Libertadores,Santiago - Colina - Los Andes,PEAJES,,Las Canteras San José,,0.0,autos_y_camionetas,tarifa_unica,1400.0
+Autopista Los Libertadores,Santiago - Colina - Los Andes,PEAJES,,Las Canteras San José,,0.0,camiones_y_buses_dos_ejes,tarifa_unica,2400.0
+Autopista Los Libertadores,Santiago - Colina - Los Andes,PEAJES,,Las Canteras San José,,0.0,camiones_y_buses_mas_dos_ejes,tarifa_unica,4400.0
+Autopista Los Libertadores,Santiago - Colina - Los Andes,PEAJES,,Las Canteras San José,,0.0,motos_y_motonetas,tarifa_unica,400.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS CON TAG HABILITADO,,Troncal Las Arañas,,0.0,motos,tarifa_unica,600.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS CON TAG HABILITADO,,Troncal Las Arañas,,0.0,autos_y_camionetas,tarifa_unica,1950.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS CON TAG HABILITADO,,Troncal Las Arañas,,0.0,buses_dos_ejes,tarifa_unica,3500.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS CON TAG HABILITADO,,Troncal Las Arañas,,0.0,camiones_dos_ejes,tarifa_unica,5850.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS CON TAG HABILITADO,,Troncal Las Arañas,,0.0,buses_mas_dos_ejes,tarifa_unica,625.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS CON TAG HABILITADO,,Troncal Las Arañas,,0.0,camiones_mas_dos_ejes,tarifa_unica,9750.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS CON TAG HABILITADO,,Troncal San Pedro,,0.0,motos,tarifa_unica,300.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS CON TAG HABILITADO,,Troncal San Pedro,,0.0,autos_y_camionetas,tarifa_unica,1050.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS CON TAG HABILITADO,,Troncal San Pedro,,0.0,buses_dos_ejes,tarifa_unica,1900.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS CON TAG HABILITADO,,Troncal San Pedro,,0.0,camiones_dos_ejes,tarifa_unica,3150.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS CON TAG HABILITADO,,Troncal San Pedro,,0.0,buses_mas_dos_ejes,tarifa_unica,3350.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS CON TAG HABILITADO,,Troncal San Pedro,,0.0,camiones_mas_dos_ejes,tarifa_unica,5250.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS SIN TAG O CON TAG INHABILITADO,,Troncal Las Arañas,,0.0,motos,tarifa_unica,750.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS SIN TAG O CON TAG INHABILITADO,,Troncal Las Arañas,,0.0,autos_y_camionetas,tarifa_unica,2450.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS SIN TAG O CON TAG INHABILITADO,,Troncal Las Arañas,,0.0,buses_dos_ejes,tarifa_unica,4400.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS SIN TAG O CON TAG INHABILITADO,,Troncal Las Arañas,,0.0,camiones_dos_ejes,tarifa_unica,7300.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS SIN TAG O CON TAG INHABILITADO,,Troncal Las Arañas,,0.0,buses_mas_dos_ejes,tarifa_unica,7800.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS SIN TAG O CON TAG INHABILITADO,,Troncal Las Arañas,,0.0,camiones_mas_dos_ejes,tarifa_unica,12200.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS SIN TAG O CON TAG INHABILITADO,,Troncal San Pedro,,0.0,motos,tarifa_unica,400.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS SIN TAG O CON TAG INHABILITADO,,Troncal San Pedro,,0.0,autos_y_camionetas,tarifa_unica,1300.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS SIN TAG O CON TAG INHABILITADO,,Troncal San Pedro,,0.0,buses_dos_ejes,tarifa_unica,2400.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS SIN TAG O CON TAG INHABILITADO,,Troncal San Pedro,,0.0,camiones_dos_ejes,tarifa_unica,3950.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS SIN TAG O CON TAG INHABILITADO,,Troncal San Pedro,,0.0,buses_mas_dos_ejes,tarifa_unica,4200.0
+Ruta 66 - Camino de la Fruta,,TARIFAS PARA USUARIOS SIN TAG O CON TAG INHABILITADO,,Troncal San Pedro,,0.0,camiones_mas_dos_ejes,tarifa_unica,6550.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Agua Amarilla,,0.0,motos_y_motonetas,tarifa_unica,2100.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Agua Amarilla,,0.0,autos_y_camionetas,tarifa_unica,4300.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Agua Amarilla,,0.0,autocarro,tarifa_unica,6400.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Agua Amarilla,,0.0,buses_dos_ejes,tarifa_unica,9400.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Agua Amarilla,,0.0,camiones_dos_ejes,tarifa_unica,9400.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Agua Amarilla,,0.0,buses_mas_dos_ejes,tarifa_unica,12800.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Agua Amarilla,,0.0,camiones_mas_dos_ejes,tarifa_unica,19200.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Rafael,,0.0,motos_y_motonetas,tarifa_unica,800.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Rafael,,0.0,autos_y_camionetas,tarifa_unica,1600.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Rafael,,0.0,autocarro,tarifa_unica,2500.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Rafael,,0.0,buses_dos_ejes,tarifa_unica,3600.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Rafael,,0.0,camiones_dos_ejes,tarifa_unica,3600.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Rafael,,0.0,buses_mas_dos_ejes,tarifa_unica,4900.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Rafael,,0.0,camiones_mas_dos_ejes,tarifa_unica,7400.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Nueva Aldea,,0.0,motos_y_motonetas,tarifa_unica,500.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Nueva Aldea,,0.0,autos_y_camionetas,tarifa_unica,1000.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Nueva Aldea,,0.0,autocarro,tarifa_unica,1500.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Nueva Aldea,,0.0,buses_dos_ejes,tarifa_unica,2200.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Nueva Aldea,,0.0,camiones_dos_ejes,tarifa_unica,2200.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Nueva Aldea,,0.0,buses_mas_dos_ejes,tarifa_unica,2900.0
+Ruta del Itata,Acceso Norte a Concepción,PEAJES,,Nueva Aldea,,0.0,camiones_mas_dos_ejes,tarifa_unica,4400.0
+Ruta Concepción - Cabrero,,PEAJES,,Troncal 1 Huinanco,Troncal,0.0,motos_y_motonetas,tarifa_unica,1100.0
+Ruta Concepción - Cabrero,,PEAJES,,Troncal 1 Huinanco,Troncal,0.0,autos_y_camionetas,tarifa_unica,3600.0
+Ruta Concepción - Cabrero,,PEAJES,,Troncal 1 Huinanco,Troncal,0.0,buses_dos_ejes,tarifa_unica,6500.0
+Ruta Concepción - Cabrero,,PEAJES,,Troncal 1 Huinanco,Troncal,0.0,camiones_dos_ejes_especial,tarifa_unica,10800.0
+Ruta Concepción - Cabrero,,PEAJES,,Troncal 1 Huinanco,Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,11600.0
+Ruta Concepción - Cabrero,,PEAJES,,Troncal 1 Huinanco,Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,18100.0
+Ruta Concepción - Cabrero,,PEAJES,,Troncal 2 Puentes Negros,Troncal,0.0,motos_y_motonetas,tarifa_unica,150.0
+Ruta Concepción - Cabrero,,PEAJES,,Troncal 2 Puentes Negros,Troncal,0.0,autos_y_camionetas,tarifa_unica,500.0
+Ruta Concepción - Cabrero,,PEAJES,,Troncal 2 Puentes Negros,Troncal,0.0,buses_dos_ejes,tarifa_unica,900.0
+Ruta Concepción - Cabrero,,PEAJES,,Troncal 2 Puentes Negros,Troncal,0.0,camiones_dos_ejes_especial,tarifa_unica,1500.0
+Ruta Concepción - Cabrero,,PEAJES,,Troncal 2 Puentes Negros,Troncal,0.0,buses_mas_dos_ejes,tarifa_unica,1600.0
+Ruta Concepción - Cabrero,,PEAJES,,Troncal 2 Puentes Negros,Troncal,0.0,camiones_mas_dos_ejes,tarifa_unica,2500.0
+Ruta 160,,PEAJES,,Chivilingo,,0.0,motos_y_motonetas,tarifa_unica,800.0
+Ruta 160,,PEAJES,,Chivilingo,,0.0,autos_y_camionetas_sin_remolque,tarifa_unica,2650.0
+Ruta 160,,PEAJES,,Chivilingo,,0.0,autos_y_camionetas_con_remolque,tarifa_unica,2650.0
+Ruta 160,,PEAJES,,Chivilingo,,0.0,buses_dos_ejes,tarifa_unica,2650.0
+Ruta 160,,PEAJES,,Chivilingo,,0.0,camiones_dos_ejes_especial,tarifa_unica,9000.0
+Ruta 160,,PEAJES,,Chivilingo,,0.0,buses_mas_dos_ejes,tarifa_unica,2650.0
+Ruta 160,,PEAJES,,Chivilingo,,0.0,camiones_mas_dos_ejes,tarifa_unica,15000.0
+Ruta 160,,PEAJES,,Curanilahue,,0.0,motos_y_motonetas,tarifa_unica,600.0
+Ruta 160,,PEAJES,,Curanilahue,,0.0,autos_y_camionetas_sin_remolque,tarifa_unica,0.0
+Ruta 160,,PEAJES,,Curanilahue,,0.0,autos_y_camionetas_con_remolque,tarifa_unica,0.0
+Ruta 160,,PEAJES,,Curanilahue,,0.0,buses_dos_ejes,tarifa_unica,0.0
+Ruta 160,,PEAJES,,Curanilahue,,0.0,camiones_dos_ejes_especial,tarifa_unica,7500.0
+Ruta 160,,PEAJES,,Curanilahue,,0.0,buses_mas_dos_ejes,tarifa_unica,0.0
+Ruta 160,,PEAJES,,Curanilahue,,0.0,camiones_mas_dos_ejes,tarifa_unica,12550.0
+Ruta 160,,PEAJES,,Pilpilco,,0.0,motos_y_motonetas,tarifa_unica,600.0
+Ruta 160,,PEAJES,,Pilpilco,,0.0,autos_y_camionetas_sin_remolque,tarifa_unica,600.0
+Ruta 160,,PEAJES,,Pilpilco,,0.0,autos_y_camionetas_con_remolque,tarifa_unica,600.0
+Ruta 160,,PEAJES,,Pilpilco,,0.0,buses_dos_ejes,tarifa_unica,2200.0
+Ruta 160,,PEAJES,,Pilpilco,,0.0,camiones_dos_ejes_especial,tarifa_unica,7500.0
+Ruta 160,,PEAJES,,Pilpilco,,0.0,buses_mas_dos_ejes,tarifa_unica,2200.0
+Ruta 160,,PEAJES,,Pilpilco,,0.0,camiones_mas_dos_ejes,tarifa_unica,12550.0

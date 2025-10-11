@@ -1,0 +1,2147 @@
+{
+  "metadata": {
+    "fuente": "MOP - Infraestructura Vial / Datos manuales",
+    "fecha_extraccion": "2025-10-10",
+    "descripcion": "Coordenadas geográficas de peajes y pórticos principales",
+    "sistema_coordenadas": "WGS84 (EPSG:4326)",
+    "total_registros": 212,
+    "tipos_disponibles": {
+      "Lateral": 157,
+      "Troncal": 55
+    },
+    "regiones_cubiertas": [],
+    "rutas_cubiertas": [],
+    "campos": [
+      "id_peaje",
+      "nombre",
+      "ruta",
+      "latitude",
+      "longitude",
+      "region",
+      "tipo",
+      "concesionaria"
+    ]
+  },
+  "peajes": [
+    {
+      "id_peaje": "MOP_1",
+      "nombre": "Rinconada",
+      "ruta": "",
+      "latitude": -33.50557135199995,
+      "longitude": -70.79897776799999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_2",
+      "nombre": "San Luis",
+      "ruta": "",
+      "latitude": -33.20896829099996,
+      "longitude": -70.66805410699999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_3",
+      "nombre": "Vespucio",
+      "ruta": "",
+      "latitude": -33.48776971799998,
+      "longitude": -70.74622613199995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_4",
+      "nombre": "Chicureo",
+      "ruta": "",
+      "latitude": -33.28297752299994,
+      "longitude": -70.70265726999997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_5",
+      "nombre": "Vespucio",
+      "ruta": "",
+      "latitude": -33.48822426199996,
+      "longitude": -70.74569589999999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_6",
+      "nombre": "Malloco",
+      "ruta": "",
+      "latitude": -33.60692198199996,
+      "longitude": -70.85061951699998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_7",
+      "nombre": "Las Canteras",
+      "ruta": "",
+      "latitude": -33.31077739999995,
+      "longitude": -70.70243055299994,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_8",
+      "nombre": "Malloco",
+      "ruta": "",
+      "latitude": -33.60709070299998,
+      "longitude": -70.85021850399994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_9",
+      "nombre": "Lo Prado",
+      "ruta": "",
+      "latitude": -33.456859178999935,
+      "longitude": -70.89859349899996,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_10",
+      "nombre": "Rinconada",
+      "ruta": "",
+      "latitude": -33.50555937199994,
+      "longitude": -70.79944119599998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_11",
+      "nombre": "Chacabuco",
+      "ruta": "",
+      "latitude": -33.00081474799998,
+      "longitude": -70.68727577099997,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_12",
+      "nombre": "San José",
+      "ruta": "",
+      "latitude": -33.270102889999976,
+      "longitude": -70.73547411399994,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_13",
+      "nombre": "Río Maipo",
+      "ruta": "",
+      "latitude": -33.66332262499998,
+      "longitude": -70.66909228699996,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_14",
+      "nombre": "Lampa",
+      "ruta": "",
+      "latitude": -33.23564047499997,
+      "longitude": -70.75893798199996,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_15",
+      "nombre": "Champa Poniente",
+      "ruta": "",
+      "latitude": -33.85224717999995,
+      "longitude": -70.74874806999998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_16",
+      "nombre": "Paine oriente",
+      "ruta": "",
+      "latitude": -33.82210220099995,
+      "longitude": -70.75142763999997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_17",
+      "nombre": "Paine Poniente",
+      "ruta": "",
+      "latitude": -33.81843937199994,
+      "longitude": -70.75123128799999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_18",
+      "nombre": "Talagante",
+      "ruta": "",
+      "latitude": -33.67328218299997,
+      "longitude": -70.92284508699998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_19",
+      "nombre": "Talagante",
+      "ruta": "",
+      "latitude": -33.67359155199995,
+      "longitude": -70.92260733899997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_20",
+      "nombre": "El Monte",
+      "ruta": "",
+      "latitude": -33.69828600899996,
+      "longitude": -70.96777691399996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_21",
+      "nombre": "El Monte",
+      "ruta": "",
+      "latitude": -33.69856058599993,
+      "longitude": -70.96754226399997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_22",
+      "nombre": "El Paico",
+      "ruta": "",
+      "latitude": -33.69159979099993,
+      "longitude": -71.04985360799998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_23",
+      "nombre": "El Paico",
+      "ruta": "",
+      "latitude": -33.69196383399998,
+      "longitude": -71.05007468799994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_24",
+      "nombre": "Pomaire",
+      "ruta": "",
+      "latitude": -33.66947638499994,
+      "longitude": -71.15462935999994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_25",
+      "nombre": "Puangue",
+      "ruta": "",
+      "latitude": -33.65264204299996,
+      "longitude": -71.35030733799994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_26",
+      "nombre": "Puangue",
+      "ruta": "",
+      "latitude": -33.65294692599997,
+      "longitude": -71.35045288099997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_27",
+      "nombre": "Melipilla 2",
+      "ruta": "",
+      "latitude": -33.67341304599995,
+      "longitude": -71.20020530199997,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_28",
+      "nombre": "Variante Melipilla",
+      "ruta": "",
+      "latitude": -33.673409377999974,
+      "longitude": -71.16759890099996,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_29",
+      "nombre": "Melipilla 1",
+      "ruta": "",
+      "latitude": -33.675978907999934,
+      "longitude": -71.19771378699994,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_30",
+      "nombre": "Pomaire",
+      "ruta": "",
+      "latitude": -33.669884457999956,
+      "longitude": -71.15460901599994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_31",
+      "nombre": "Guanaqueros",
+      "ruta": "",
+      "latitude": -30.197318897999935,
+      "longitude": -71.38785764999994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_32",
+      "nombre": "Tongoy Acceso Sur",
+      "ruta": "",
+      "latitude": -30.351589280999974,
+      "longitude": -71.43248716799997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_33",
+      "nombre": "Cerrillos Bajos",
+      "ruta": "",
+      "latitude": -30.408125550999955,
+      "longitude": -71.44568950099995,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_34",
+      "nombre": "Ovalle",
+      "ruta": "",
+      "latitude": -30.707433240999933,
+      "longitude": -71.48916513099994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_35",
+      "nombre": "Angostura de Gálvez",
+      "ruta": "",
+      "latitude": -31.42016188499997,
+      "longitude": -71.57097172599998,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_36",
+      "nombre": "Combarbalá",
+      "ruta": "",
+      "latitude": -31.446025077999934,
+      "longitude": -71.56143423099996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_37",
+      "nombre": "Pichidangui",
+      "ruta": "",
+      "latitude": -32.17494071799996,
+      "longitude": -71.52077220899997,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_38",
+      "nombre": "Loncoche-Lastarria",
+      "ruta": "",
+      "latitude": -39.35889893899997,
+      "longitude": -72.63979616699999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_39",
+      "nombre": "Loncoche-Afquintúe",
+      "ruta": "",
+      "latitude": -39.35939737599995,
+      "longitude": -72.62098050999998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_40",
+      "nombre": "Pitrufquén",
+      "ruta": "",
+      "latitude": -38.991323989999955,
+      "longitude": -72.64707081799997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_41",
+      "nombre": "Temuco Norte",
+      "ruta": "",
+      "latitude": -38.66446618799995,
+      "longitude": -72.48884241499997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_42",
+      "nombre": "Quepe",
+      "ruta": "",
+      "latitude": -38.91580964399998,
+      "longitude": -72.62434032199997,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_43",
+      "nombre": "Lautaro Sur",
+      "ruta": "",
+      "latitude": -38.54704480899994,
+      "longitude": -72.45774324899998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_44",
+      "nombre": "Púa",
+      "ruta": "",
+      "latitude": -38.36266242399995,
+      "longitude": -72.38591890899994,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_45",
+      "nombre": "Lautaro Centro",
+      "ruta": "",
+      "latitude": -38.52241241699994,
+      "longitude": -72.45633393199995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_46",
+      "nombre": "Quino",
+      "ruta": "",
+      "latitude": -38.25516496599994,
+      "longitude": -72.35958435399994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_47",
+      "nombre": "Victoria Norte",
+      "ruta": "",
+      "latitude": -38.237831925999956,
+      "longitude": -72.35590715199999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_48",
+      "nombre": "Mininco",
+      "ruta": "",
+      "latitude": -37.853516800999955,
+      "longitude": -72.39678013099996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_49",
+      "nombre": "By Pass Pto. Montt",
+      "ruta": "",
+      "latitude": -41.438494290999984,
+      "longitude": -72.95676999999995,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_50",
+      "nombre": "Acceso Puerto Montt",
+      "ruta": "",
+      "latitude": -41.43910952999994,
+      "longitude": -72.95635374099999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_51",
+      "nombre": "Acceso a Puerto Varas Sur",
+      "ruta": "",
+      "latitude": -41.333486034999964,
+      "longitude": -72.98796843599996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_52",
+      "nombre": "Acceso a Puerto Varas Norte-Nueva Brunau Oriente",
+      "ruta": "",
+      "latitude": -41.319783969999946,
+      "longitude": -73.00793327999997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_53",
+      "nombre": "Acceso a Puerto Varas Norte-Nueva Brunau Poniente",
+      "ruta": "",
+      "latitude": -41.316273139999964,
+      "longitude": -73.01103086099994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_54",
+      "nombre": "Acceso a Llanquihue Sur-Molino Viejo Oriente",
+      "ruta": "",
+      "latitude": -41.27673936299993,
+      "longitude": -73.00762554699998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_55",
+      "nombre": "Acceso a Llanquihue Sur-Molino Viejo Poniente",
+      "ruta": "",
+      "latitude": -41.27215478699998,
+      "longitude": -73.00771415199995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_56",
+      "nombre": "Acceso a Llanquihue Centro Oriente",
+      "ruta": "",
+      "latitude": -41.25629664999997,
+      "longitude": -73.02071573299997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_57",
+      "nombre": "Acceso a Fresia Oriente",
+      "ruta": "",
+      "latitude": -41.219385830999954,
+      "longitude": -73.05282162999998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_58",
+      "nombre": "Acceso a Fresia Poniente",
+      "ruta": "",
+      "latitude": -41.21464090999996,
+      "longitude": -73.05619447199996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_59",
+      "nombre": "Acceso a Frutillar",
+      "ruta": "",
+      "latitude": -41.12012002399996,
+      "longitude": -73.06270660299998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_60",
+      "nombre": "Acceso a Casma",
+      "ruta": "",
+      "latitude": -41.00915184499996,
+      "longitude": -73.12027724099994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_61",
+      "nombre": "Acceso a Purranque",
+      "ruta": "",
+      "latitude": -40.901420188999964,
+      "longitude": -73.15219172899998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_62",
+      "nombre": "Cuatro Vientos",
+      "ruta": "",
+      "latitude": -40.959109327999954,
+      "longitude": -73.13402283599999,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_63",
+      "nombre": "Acceso a Puerto Octay-Osorno Sur Oriente",
+      "ruta": "",
+      "latitude": -40.59487227699998,
+      "longitude": -73.09915367099995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_64",
+      "nombre": "Acceso Norte a Pilauco",
+      "ruta": "",
+      "latitude": -40.561888297999985,
+      "longitude": -73.10040962899996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_65",
+      "nombre": "Acceso a Puerto Octay-Osorno Sur Poniente",
+      "ruta": "",
+      "latitude": -40.58999999699995,
+      "longitude": -73.09815947599998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_66",
+      "nombre": "Acceso a San Pablo",
+      "ruta": "",
+      "latitude": -40.413003524999965,
+      "longitude": -73.00175817199994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_67",
+      "nombre": "Acceso a Osorno-Puyehue Oriente",
+      "ruta": "",
+      "latitude": -40.58380138799998,
+      "longitude": -73.09766624799994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_68",
+      "nombre": "Acceso a Río Negro",
+      "ruta": "",
+      "latitude": -40.80850153599994,
+      "longitude": -73.16754220499996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_69",
+      "nombre": "Acceso a Osorno-Puyehue Poniente",
+      "ruta": "",
+      "latitude": -40.57945097499993,
+      "longitude": -73.09817578899998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_70",
+      "nombre": "Acceso a Llanquihue Centro Poniente",
+      "ruta": "",
+      "latitude": -41.254727326999955,
+      "longitude": -73.02360446799997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_71",
+      "nombre": "Lanco",
+      "ruta": "",
+      "latitude": -39.44230876399996,
+      "longitude": -72.77170614199997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_72",
+      "nombre": "Lanco Norte",
+      "ruta": "",
+      "latitude": -39.48040114099996,
+      "longitude": -72.80659736299998,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_73",
+      "nombre": "Valdivia Sur",
+      "ruta": "",
+      "latitude": -40.08734684799998,
+      "longitude": -72.86464389799994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_74",
+      "nombre": "La Unión",
+      "ruta": "",
+      "latitude": -40.22810434599995,
+      "longitude": -72.93878323999996,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_75",
+      "nombre": "R.Bueno-La Unión",
+      "ruta": "",
+      "latitude": -40.322116781999966,
+      "longitude": -72.98679181199998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_76",
+      "nombre": "Ruta F-90",
+      "ruta": "",
+      "latitude": -33.40060577999998,
+      "longitude": -71.49743068599997,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_77",
+      "nombre": "Las Pataguas",
+      "ruta": "",
+      "latitude": -33.482423051999945,
+      "longitude": -71.58169932599998,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_78",
+      "nombre": "Quilpué Poniente Norte",
+      "ruta": "",
+      "latitude": -33.06146902699993,
+      "longitude": -71.45702580999995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_79",
+      "nombre": "Quilpué Poniente Sur",
+      "ruta": "",
+      "latitude": -33.06189074599996,
+      "longitude": -71.45747270799995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_80",
+      "nombre": "Troncal Sur",
+      "ruta": "",
+      "latitude": -33.06315341199996,
+      "longitude": -71.43404907699994,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_81",
+      "nombre": "Quintay",
+      "ruta": "",
+      "latitude": -33.16148534399997,
+      "longitude": -71.54221887599994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_82",
+      "nombre": "Casablanca",
+      "ruta": "",
+      "latitude": -33.30552664399994,
+      "longitude": -71.41125024099995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_83",
+      "nombre": "Tapihue",
+      "ruta": "",
+      "latitude": -33.328590402999964,
+      "longitude": -71.39036537099997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_84",
+      "nombre": "Algarrobo",
+      "ruta": "",
+      "latitude": -33.34068207599995,
+      "longitude": -71.36674562599995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_85",
+      "nombre": "La Palma  01",
+      "ruta": "",
+      "latitude": -32.87549065799993,
+      "longitude": -71.23165145899998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_86",
+      "nombre": "La Palma 02",
+      "ruta": "",
+      "latitude": -32.87500572799996,
+      "longitude": -71.23075204699995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_87",
+      "nombre": "San Isidro 01",
+      "ruta": "",
+      "latitude": -32.901246457999946,
+      "longitude": -71.24579324999996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_88",
+      "nombre": "San Isidro 02",
+      "ruta": "",
+      "latitude": -32.90273320599994,
+      "longitude": -71.24939988599994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_89",
+      "nombre": "Quillota",
+      "ruta": "",
+      "latitude": -32.927392392999934,
+      "longitude": -71.28650101599999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_90",
+      "nombre": "Quillota",
+      "ruta": "",
+      "latitude": -32.93493941899993,
+      "longitude": -71.28829971999994,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_91",
+      "nombre": "Laureles 01",
+      "ruta": "",
+      "latitude": -32.973243382999954,
+      "longitude": -71.30269512799998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_92",
+      "nombre": "Laureles 02",
+      "ruta": "",
+      "latitude": -32.97209831299995,
+      "longitude": -71.30098306799994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_93",
+      "nombre": "Zapata",
+      "ruta": "",
+      "latitude": -33.37113912999996,
+      "longitude": -71.29978253699994,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_94",
+      "nombre": "Troncal Nogales-Puchuncaví",
+      "ruta": "",
+      "latitude": -32.75296512399996,
+      "longitude": -71.25343335099996,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_95",
+      "nombre": "Cuesta Zapata",
+      "ruta": "",
+      "latitude": -33.36680657299996,
+      "longitude": -71.30859202499994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_96",
+      "nombre": "El Melón",
+      "ruta": "",
+      "latitude": -32.629603989999964,
+      "longitude": -71.23079057799998,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_97",
+      "nombre": "Las Vegas",
+      "ruta": "",
+      "latitude": -32.843769452999936,
+      "longitude": -70.98909576099999,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_98",
+      "nombre": "Las Cruces",
+      "ruta": "",
+      "latitude": -33.47298235599993,
+      "longitude": -71.59921120699994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_99",
+      "nombre": "Rarinco",
+      "ruta": "",
+      "latitude": -37.38869270099997,
+      "longitude": -72.36157382999994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_100",
+      "nombre": "Los Angeles",
+      "ruta": "",
+      "latitude": -37.48598705699993,
+      "longitude": -72.40442619099997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_101",
+      "nombre": "Los Angeles",
+      "ruta": "",
+      "latitude": -37.48177091399998,
+      "longitude": -72.40541533499999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_102",
+      "nombre": "María Dolores",
+      "ruta": "",
+      "latitude": -37.44277565899995,
+      "longitude": -72.39968945499999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_103",
+      "nombre": "María Dolores",
+      "ruta": "",
+      "latitude": -37.43842393999995,
+      "longitude": -72.39682563999997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_104",
+      "nombre": "Rarinco",
+      "ruta": "",
+      "latitude": -37.390954481999984,
+      "longitude": -72.36170952099997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_105",
+      "nombre": "Cabrero",
+      "ruta": "",
+      "latitude": -37.04418817099997,
+      "longitude": -72.37152864499996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_106",
+      "nombre": "Lima",
+      "ruta": "",
+      "latitude": -37.234626548999984,
+      "longitude": -72.36907532799995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_107",
+      "nombre": "Laja",
+      "ruta": "",
+      "latitude": -37.173866876999966,
+      "longitude": -72.39151832799996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_108",
+      "nombre": "Nueva Aldea",
+      "ruta": "",
+      "latitude": -36.65830183099996,
+      "longitude": -72.45790276699995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_109",
+      "nombre": "Duqueco",
+      "ruta": "",
+      "latitude": -37.53163225299994,
+      "longitude": -72.32525393399999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_110",
+      "nombre": "Agua Amarilla",
+      "ruta": "",
+      "latitude": -36.73004118899996,
+      "longitude": -72.86015717199996,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_111",
+      "nombre": "Las Maicas",
+      "ruta": "",
+      "latitude": -37.806396467999946,
+      "longitude": -72.33084422499996,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_112",
+      "nombre": "Duqueco",
+      "ruta": "",
+      "latitude": -37.53190715299996,
+      "longitude": -72.32817996299997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_113",
+      "nombre": "Bulnes Norte",
+      "ruta": "",
+      "latitude": -36.72309957799996,
+      "longitude": -72.27434916299995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_114",
+      "nombre": "Bulnes Centro",
+      "ruta": "",
+      "latitude": -36.750260485999945,
+      "longitude": -72.28538050299994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_115",
+      "nombre": "Bulnes Bifurcación Concepción",
+      "ruta": "",
+      "latitude": -36.75899980199995,
+      "longitude": -72.29728306199996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_116",
+      "nombre": "Penco",
+      "ruta": "",
+      "latitude": -36.75790121599994,
+      "longitude": -73.01126928399998,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_117",
+      "nombre": "Colón",
+      "ruta": "",
+      "latitude": -36.732743083999935,
+      "longitude": -73.08816455499993,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_118",
+      "nombre": "Santa Clara",
+      "ruta": "",
+      "latitude": -36.909361805999936,
+      "longitude": -72.34199513299995,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_119",
+      "nombre": "San Carlos norte",
+      "ruta": "",
+      "latitude": -36.41412165699995,
+      "longitude": -71.94597729699996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_120",
+      "nombre": "San Carlos sur",
+      "ruta": "",
+      "latitude": -36.44001671199993,
+      "longitude": -71.96243492799994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_121",
+      "nombre": "Chillán sur",
+      "ruta": "",
+      "latitude": -36.62598162099994,
+      "longitude": -72.16055709399996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_122",
+      "nombre": "Cocharcas",
+      "ruta": "",
+      "latitude": -36.52454731499995,
+      "longitude": -72.07237093999998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_123",
+      "nombre": "Rafael",
+      "ruta": "",
+      "latitude": -36.728426286999934,
+      "longitude": -72.86535914199999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_124",
+      "nombre": "Chillán norte",
+      "ruta": "",
+      "latitude": -36.58262628299997,
+      "longitude": -72.10239520399995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_125",
+      "nombre": "Mulchén",
+      "ruta": "",
+      "latitude": -37.704117586999985,
+      "longitude": -72.25745105899995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_126",
+      "nombre": "Chimbarongo poniente",
+      "ruta": "",
+      "latitude": -34.71430697799997,
+      "longitude": -71.03058902599997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_127",
+      "nombre": "San Fdo Sur Poniente",
+      "ruta": "",
+      "latitude": -34.60771379299996,
+      "longitude": -70.98409424499994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_128",
+      "nombre": "San Fdo Sur Oriente",
+      "ruta": "",
+      "latitude": -34.60568930299996,
+      "longitude": -70.98310560099998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_129",
+      "nombre": "San Fdo Centro Poniente  (Las Termas)",
+      "ruta": "",
+      "latitude": -34.595145884999965,
+      "longitude": -70.97324056099995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_130",
+      "nombre": "Tambo Oriente",
+      "ruta": "",
+      "latitude": -34.552795480999976,
+      "longitude": -70.96181578399995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_131",
+      "nombre": "San Fdo Centro Oriente",
+      "ruta": "",
+      "latitude": -34.59401268099998,
+      "longitude": -70.97311958699999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_132",
+      "nombre": "Troya poniente",
+      "ruta": "",
+      "latitude": -34.59050895299998,
+      "longitude": -70.96950376999996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_133",
+      "nombre": "San Fdo Norte Poniente",
+      "ruta": "",
+      "latitude": -34.57213384599993,
+      "longitude": -70.97273968499996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_134",
+      "nombre": "San Fdo Norte Oriente",
+      "ruta": "",
+      "latitude": -34.57439143899995,
+      "longitude": -70.97275476199997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_135",
+      "nombre": "Rengo Poniente",
+      "ruta": "",
+      "latitude": -34.39997407599998,
+      "longitude": -70.87172757399998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_136",
+      "nombre": "Rengo Oriente",
+      "ruta": "",
+      "latitude": -34.40351440699993,
+      "longitude": -70.87333706199996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_137",
+      "nombre": "Pelequén Poniente",
+      "ruta": "",
+      "latitude": -34.46597219199998,
+      "longitude": -70.89712644199994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_138",
+      "nombre": "Pelequén Oriente",
+      "ruta": "",
+      "latitude": -34.46555874599994,
+      "longitude": -70.89839468099996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_139",
+      "nombre": "Tambo Poniente",
+      "ruta": "",
+      "latitude": -34.551700669999946,
+      "longitude": -70.96148552799997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_140",
+      "nombre": "Rosario oriente",
+      "ruta": "",
+      "latitude": -34.346704424999984,
+      "longitude": -70.84076905099994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_141",
+      "nombre": "Rosario Poniente",
+      "ruta": "",
+      "latitude": -34.34599198099994,
+      "longitude": -70.84078067099995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_142",
+      "nombre": "Rancagua Sur Oriente",
+      "ruta": "",
+      "latitude": -34.23659815199994,
+      "longitude": -70.79219242799996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_143",
+      "nombre": "Requinoa Oriente",
+      "ruta": "",
+      "latitude": -34.28902282499996,
+      "longitude": -70.82195742699997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_144",
+      "nombre": "Rancagua Centro Oriente",
+      "ruta": "",
+      "latitude": -34.18390628599997,
+      "longitude": -70.78848011899998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_145",
+      "nombre": "Rancagua Centro Poniente",
+      "ruta": "",
+      "latitude": -34.180926271999965,
+      "longitude": -70.79066255299995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_146",
+      "nombre": "Requinoa Poniente",
+      "ruta": "",
+      "latitude": -34.282024485999955,
+      "longitude": -70.81871933499997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_147",
+      "nombre": "Rancagua Norte Oriente",
+      "ruta": "",
+      "latitude": -34.03764583099996,
+      "longitude": -70.70585995699997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_148",
+      "nombre": "Angostura",
+      "ruta": "",
+      "latitude": -33.930814417999954,
+      "longitude": -70.71541473299999,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_149",
+      "nombre": "Parral",
+      "ruta": "",
+      "latitude": -36.15720206199995,
+      "longitude": -71.81397379899994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_150",
+      "nombre": "Retiro",
+      "ruta": "",
+      "latitude": -36.009744189999935,
+      "longitude": -71.73279562799996,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_151",
+      "nombre": "Linares",
+      "ruta": "",
+      "latitude": -35.83708771499994,
+      "longitude": -71.63196553599994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_152",
+      "nombre": "Villa Alegre",
+      "ruta": "",
+      "latitude": -35.69504427399994,
+      "longitude": -71.68617757799996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_153",
+      "nombre": "Constitución",
+      "ruta": "",
+      "latitude": -35.63360970999997,
+      "longitude": -71.70675237099994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_154",
+      "nombre": "San Javier centro",
+      "ruta": "",
+      "latitude": -35.60089252399996,
+      "longitude": -71.70656695199995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_155",
+      "nombre": "Talca II-Tabaco",
+      "ruta": "",
+      "latitude": -35.45306710899996,
+      "longitude": -71.64472589399998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_156",
+      "nombre": "Unihue",
+      "ruta": "",
+      "latitude": -35.48942140099996,
+      "longitude": -71.65935487399997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_157",
+      "nombre": "Maule",
+      "ruta": "",
+      "latitude": -35.52121667899996,
+      "longitude": -71.67677770199998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_158",
+      "nombre": "Rio claro",
+      "ruta": "",
+      "latitude": -35.20924908499995,
+      "longitude": -71.41114825699998,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_159",
+      "nombre": "Talca I-Varoli",
+      "ruta": "",
+      "latitude": -35.43358706199996,
+      "longitude": -71.63749307699999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_160",
+      "nombre": "San Javier norte",
+      "ruta": "",
+      "latitude": -35.577208352999946,
+      "longitude": -71.70675347799994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_161",
+      "nombre": "Colbún",
+      "ruta": "",
+      "latitude": -35.56627740999994,
+      "longitude": -71.69804197499997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_162",
+      "nombre": "Molina Oriente",
+      "ruta": "",
+      "latitude": -35.09553002999996,
+      "longitude": -71.31981196799995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_163",
+      "nombre": "Pulmodón Poniente",
+      "ruta": "",
+      "latitude": -35.13339724499997,
+      "longitude": -71.35487188999997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_164",
+      "nombre": "Molina Poniente",
+      "ruta": "",
+      "latitude": -35.09306420099995,
+      "longitude": -71.31827291499997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_165",
+      "nombre": "Curico Norte Poniente",
+      "ruta": "",
+      "latitude": -34.976613964999956,
+      "longitude": -71.20576373799997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_166",
+      "nombre": "Teno Sur Oriente",
+      "ruta": "",
+      "latitude": -34.883627960999945,
+      "longitude": -71.15033880199996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_167",
+      "nombre": "Curico Centro Poniente",
+      "ruta": "",
+      "latitude": -34.982714716999965,
+      "longitude": -71.21509641399996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_168",
+      "nombre": "Quinta",
+      "ruta": "",
+      "latitude": -34.79607732899996,
+      "longitude": -71.04817407399997,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_169",
+      "nombre": "Lontue Oriente",
+      "ruta": "",
+      "latitude": -35.050740443999985,
+      "longitude": -71.28220113599997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_170",
+      "nombre": "Lontue Poniente",
+      "ruta": "",
+      "latitude": -35.049152549999974,
+      "longitude": -71.27995189499995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_171",
+      "nombre": "Morza Oriente",
+      "ruta": "",
+      "latitude": -34.80061971599997,
+      "longitude": -71.04966519099997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_172",
+      "nombre": "Curico Sur Poniente",
+      "ruta": "",
+      "latitude": -34.99396583299995,
+      "longitude": -71.23244146599995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_173",
+      "nombre": "Alessandri",
+      "ruta": "",
+      "latitude": -36.769319131999964,
+      "longitude": -73.05067915699993,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_174",
+      "nombre": "Chaimávida",
+      "ruta": "",
+      "latitude": -36.75084386999998,
+      "longitude": -72.58671240799998,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_175",
+      "nombre": "Las Raíces",
+      "ruta": "",
+      "latitude": -38.55832738199996,
+      "longitude": -71.49772556799996,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_176",
+      "nombre": "Cristo Redentor",
+      "ruta": "",
+      "latitude": -32.90060934699994,
+      "longitude": -70.24896289299994,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_177",
+      "nombre": "Tocornal Oriente",
+      "ruta": "",
+      "latitude": -33.60482216699995,
+      "longitude": -70.60391673499998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_178",
+      "nombre": "Gabriela Poniente",
+      "ruta": "",
+      "latitude": -33.582008805999976,
+      "longitude": -70.61122503299998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_179",
+      "nombre": "Gabriela Oriente",
+      "ruta": "",
+      "latitude": -33.58171742899998,
+      "longitude": -70.61030291599997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_180",
+      "nombre": "Temuco Sur",
+      "ruta": "",
+      "latitude": -38.78235424099995,
+      "longitude": -72.61169174099996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_181",
+      "nombre": "Oriente",
+      "ruta": "",
+      "latitude": -33.312081397999975,
+      "longitude": -70.63570304199999,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_182",
+      "nombre": "Poniente",
+      "ruta": "",
+      "latitude": -33.29940991799998,
+      "longitude": -70.67209100899998,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_183",
+      "nombre": "Ruta 1 Aeropuerto",
+      "ruta": "",
+      "latitude": -23.45148931999995,
+      "longitude": -70.43114667099996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_184",
+      "nombre": "El LLano 2",
+      "ruta": "",
+      "latitude": -33.326229712999975,
+      "longitude": -70.62431703499993,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_185",
+      "nombre": "El LLano 1",
+      "ruta": "",
+      "latitude": -33.32421718399996,
+      "longitude": -70.62498601299995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_186",
+      "nombre": "AVAMB TRONAL",
+      "ruta": "",
+      "latitude": -33.41526559999994,
+      "longitude": -70.79270424699996,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_187",
+      "nombre": "Ruta 1",
+      "ruta": "",
+      "latitude": -23.31057759099997,
+      "longitude": -70.41894919599997,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_188",
+      "nombre": "Cunco",
+      "ruta": "",
+      "latitude": -38.77512256299997,
+      "longitude": -72.58132752199998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_189",
+      "nombre": "Tocornal Poniente",
+      "ruta": "",
+      "latitude": -33.60505949199995,
+      "longitude": -70.60470336699996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_190",
+      "nombre": "F-962-G",
+      "ruta": "",
+      "latitude": -33.47163130299998,
+      "longitude": -71.47325756999999,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_191",
+      "nombre": "Monasterio",
+      "ruta": "",
+      "latitude": -32.76921905199998,
+      "longitude": -70.70358451499999,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_192",
+      "nombre": "Monasterio",
+      "ruta": "",
+      "latitude": -32.76947060699996,
+      "longitude": -70.70383513599995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_193",
+      "nombre": "Ruta 5",
+      "ruta": "",
+      "latitude": -23.453892733999965,
+      "longitude": -70.12518389099995,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_194",
+      "nombre": "Rafael",
+      "ruta": "",
+      "latitude": -36.728381157999934,
+      "longitude": -72.86569461499994,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_195",
+      "nombre": "Nueva Aldea",
+      "ruta": "",
+      "latitude": -36.659771595999985,
+      "longitude": -72.45734022299996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_196",
+      "nombre": "Curanilahue",
+      "ruta": "",
+      "latitude": -37.383995451999965,
+      "longitude": -73.33984587999998,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_197",
+      "nombre": "Chivilingo",
+      "ruta": "",
+      "latitude": -37.14925499699996,
+      "longitude": -73.17420875299996,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_198",
+      "nombre": "Pilpilco",
+      "ruta": "",
+      "latitude": -37.55266021099993,
+      "longitude": -73.41302724399998,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_199",
+      "nombre": "Ruta 1",
+      "ruta": "",
+      "latitude": -20.495636099999956,
+      "longitude": -70.16163447199995,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_200",
+      "nombre": "Ruta 16",
+      "ruta": "",
+      "latitude": -20.216145423999933,
+      "longitude": -69.90340142699995,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_201",
+      "nombre": "Puerto Viejo",
+      "ruta": "",
+      "latitude": -27.348286281999947,
+      "longitude": -70.63633352499994,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_202",
+      "nombre": "Trapén",
+      "ruta": "",
+      "latitude": -41.516923830999986,
+      "longitude": -73.07771954999998,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_203",
+      "nombre": "Trapén",
+      "ruta": "",
+      "latitude": -41.51670073299994,
+      "longitude": -73.07815024499996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_204",
+      "nombre": "Calbuco",
+      "ruta": "",
+      "latitude": -41.58908688799994,
+      "longitude": -73.23356975099995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_205",
+      "nombre": "Calbuco",
+      "ruta": "",
+      "latitude": -41.58935844399997,
+      "longitude": -73.23324901499996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_206",
+      "nombre": "Troncal",
+      "ruta": "",
+      "latitude": -41.61709545999997,
+      "longitude": -73.27386285599994,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_207",
+      "nombre": "Maullín",
+      "ruta": "",
+      "latitude": -41.723772190999966,
+      "longitude": -73.37418258699995,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_208",
+      "nombre": "Padre Hurtado",
+      "ruta": "",
+      "latitude": -33.55922440699993,
+      "longitude": -70.82923355099996,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_209",
+      "nombre": "Padre Hurtado",
+      "ruta": "",
+      "latitude": -33.55867196599996,
+      "longitude": -70.82889821099997,
+      "region": "",
+      "tipo": "Lateral",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_210",
+      "nombre": "San Roque",
+      "ruta": "",
+      "latitude": -37.35572114699994,
+      "longitude": -72.84032541799996,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_211",
+      "nombre": "Totoral",
+      "ruta": "",
+      "latitude": -27.997881331999963,
+      "longitude": -70.56608165599994,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    },
+    {
+      "id_peaje": "MOP_212",
+      "nombre": "Cachiyuyo",
+      "ruta": "",
+      "latitude": -29.08730838499997,
+      "longitude": -70.91709264899998,
+      "region": "",
+      "tipo": "Troncal",
+      "concesionaria": ""
+    }
+  ]
+}

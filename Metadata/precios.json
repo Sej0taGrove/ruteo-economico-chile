@@ -1,0 +1,1926 @@
+{
+  "autopistas": [
+    {
+      "nombre_autopista": "Autopista Central",
+      "año_tarifas": 2025,
+      "metadata": {
+        "tarifas_base_por_km": {
+          "TBFP": 100.469,
+          "TBP": 200.938,
+          "TS": 301.407
+        },
+        "categorias_vehiculos": {
+          "categoria_1y4": "motos, autos y camionetas",
+          "categoria_2": "buses y camiones",
+          "categoria_3": "camiones con remolque"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "EJE NORTE SUR",
+          "direcciones": [
+            {
+              "sentido": "SUR-NORTE",
+              "porticos": [
+                { "portico_id": "PA2", "referencia_tramo": "Los Guindos - La Capilla", "longitud_km": 7.68, "peajes": { "categoria_1y4": { "TBFP": 839.50, "TBP": null, "TS": null }, "categoria_2": { "TBFP": 1679.00, "TBP": 3393.84, "TS": 5090.76 }, "categoria_3": { "TBFP": 2518.50, "TBP": null, "TS": null } }, "horarios": { "saturacion_laboral_ts": ["07:00-08:00"], "punta_laboral_tbp": ["08:30-09:00"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": ["18:00-20:00"] } },
+                { "portico_id": "PA3", "referencia_tramo": "La Capilla - Colón", "longitud_km": 5.63, "peajes": { "categoria_1y4": { "TBFP": 565.64, "TBP": 1131.28, "TS": 1696.92 }, "categoria_2": { "TBFP": 1131.28, "TBP": 2262.56, "TS": 3393.84 }, "categoria_3": { "TBFP": 1696.92, "TBP": 3393.84, "TS": 5090.76 } }, "horarios": { "saturacion_laboral_ts": ["07:00-08:00"], "punta_laboral_tbp": ["08:30-09:00"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": ["18:00-20:00"] } },
+                { "portico_id": "PA5", "referencia_tramo": "Colón - Las Acacias", "longitud_km": 3.22, "peajes": { "categoria_1y4": { "TBFP": 323.51, "TBP": 647.02, "TS": 970.53 }, "categoria_2": { "TBFP": 647.02, "TBP": 1294.04, "TS": 1941.06 }, "categoria_3": { "TBFP": 970.53, "TBP": 1941.06, "TS": 2911.59 } }, "horarios": { "saturacion_laboral_ts": ["07:00-07:30"], "punta_laboral_tbp": ["07:30-09:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": ["18:00-20:00"] } },
+                { "portico_id": "PA7", "referencia_tramo": "Las Acacias - A. Vespucio", "longitud_km": 4.35, "peajes": { "categoria_1y4": { "TBFP": 437.04, "TBP": 874.08, "TS": null }, "categoria_2": { "TBFP": 874.08, "TBP": 1748.16, "TS": null }, "categoria_3": { "TBFP": 1311.12, "TBP": 2622.24, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["07:30-09:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": ["18:30-20:30"] } },
+                { "portico_id": "PA30", "referencia_tramo": "Americo Vespucio - Departamental", "longitud_km": 3.78, "peajes": { "categoria_1y4": { "TBFP": 379.77, "TBP": 759.54, "TS": null }, "categoria_2": { "TBFP": 759.54, "TBP": 1519.09, "TS": null }, "categoria_3": { "TBFP": 1139.31, "TBP": 2278.63, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["07:30-09:30"], "punta_sabado_festivos_tbp": ["07:30-09:30"], "punta_domingo_festivos_tbp": ["18:30-20:30"] } },
+                { "portico_id": "PA10", "referencia_tramo": "Departamental - Carlos Valdovinos", "longitud_km": 2.75, "peajes": { "categoria_1y4": { "TBFP": 276.28, "TBP": 552.57, "TS": null }, "categoria_2": { "TBFP": 552.57, "TBP": 1105.15, "TS": null }, "categoria_3": { "TBFP": 828.86, "TBP": 1657.73, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["07:30-09:30"], "punta_sabado_festivos_tbp": ["07:30-09:30"], "punta_domingo_festivos_tbp": ["18:30-20:30"] } },
+                { "portico_id": "PA31", "referencia_tramo": "Carlos Valdovinos - Alameda", "longitud_km": 3.55, "peajes": { "categoria_1y4": { "TBFP": 356.66, "TBP": 713.32, "TS": 1069.99 }, "categoria_2": { "TBFP": 713.32, "TBP": 1426.65, "TS": 2139.98 }, "categoria_3": { "TBFP": 1069.99, "TBP": 2139.98, "TS": 3209.98 } }, "horarios": { "saturacion_laboral_ts": ["08:30-09:00", "18:00-18:30"], "punta_laboral_tbp": ["07:00-08:30", "09:00-11:30", "18:30-19:00"], "punta_sabado_festivos_tbp": ["10:00-13:00"], "punta_domingo_festivos_tbp": ["18:30-20:30"] } },
+                { "portico_id": "PA13", "referencia_tramo": "Alameda - Río Mapocho", "longitud_km": 1.75, "peajes": { "categoria_1y4": { "TBFP": 175.82, "TBP": 351.64, "TS": 527.46 }, "categoria_2": { "TBFP": 351.64, "TBP": 703.28, "TS": 1054.92 }, "categoria_3": { "TBFP": 527.46, "TBP": 1054.92, "TS": 1582.38 } }, "horarios": { "saturacion_laboral_ts": ["08:30-09:00", "18:00-18:30"], "punta_laboral_tbp": ["07:00-08:30", "09:00-11:30", "18:30-19:00"], "punta_sabado_festivos_tbp": ["10:00-13:00"], "punta_domingo_festivos_tbp": ["18:30-20:30"] } },
+                { "portico_id": "PA16", "referencia_tramo": "Río Mapocho - 14 de la Fama", "longitud_km": 4.09, "peajes": { "categoria_1y4": { "TBFP": 410.91, "TBP": 821.83, "TS": null }, "categoria_2": { "TBFP": 821.83, "TBP": 1643.67, "TS": null }, "categoria_3": { "TBFP": 1232.75, "TBP": 2465.50, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["07:30-09:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA17", "referencia_tramo": "14 de la Fama - A.Vespucio Norte", "longitud_km": 4.45, "peajes": { "categoria_1y4": { "TBFP": 447.08, "TBP": 894.17, "TS": null }, "categoria_2": { "TBFP": 894.17, "TBP": 1788.34, "TS": null }, "categoria_3": { "TBFP": 1341.26, "TBP": 2682.52, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["07:00-11:00", "12:00-13:00", "14:30-15:00", "17:30-19:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } }
+              ]
+            },
+            {
+              "sentido": "NORTE-SUR",
+              "porticos": [
+                { "portico_id": "PA18", "referencia_tramo": "A. Vespucio Norte - 14 de la Fama", "longitud_km": 4.45, "peajes": { "categoria_1y4": { "TBFP": 447.08, "TBP": 894.17, "TS": null }, "categoria_2": { "TBFP": 894.17, "TBP": 1788.34, "TS": null }, "categoria_3": { "TBFP": 1341.26, "TBP": 2682.52, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["07:00-09:00", "09:30-10:00", "11:00-12:00", "17:00-17:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA15", "referencia_tramo": "14 de la Fama - Río Mapocho", "longitud_km": 4.09, "peajes": { "categoria_1y4": { "TBFP": 410.91, "TBP": 821.83, "TS": null }, "categoria_2": { "TBFP": 821.83, "TBP": 1643.67, "TS": null }, "categoria_3": { "TBFP": 1232.75, "TBP": 2465.50, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["18:30-20:30"], "punta_sabado_festivos_tbp": ["11:00-15:00"], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA14", "referencia_tramo": "Río Mapocho - Alameda", "longitud_km": 1.75, "peajes": { "categoria_1y4": { "TBFP": 175.82, "TBP": 351.64, "TS": null }, "categoria_2": { "TBFP": 351.64, "TBP": 703.28, "TS": null }, "categoria_3": { "TBFP": 527.46, "TBP": 1054.92, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["07:30-10:00", "15:30-17:30", "18:00-20:30"], "punta_sabado_festivos_tbp": ["11:00-15:00"], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA12", "referencia_tramo": "Alameda - C. Valdovinos", "longitud_km": 3.55, "peajes": { "categoria_1y4": { "TBFP": 356.66, "TBP": 713.32, "TS": null }, "categoria_2": { "TBFP": 713.32, "TBP": 1426.65, "TS": null }, "categoria_3": { "TBFP": 1069.99, "TBP": 2139.98, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["07:30-10:00", "15:30-17:30", "18:00-20:30"], "punta_sabado_festivos_tbp": ["11:00-15:00"], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA11", "referencia_tramo": "C. Valdovinos - Departamental", "longitud_km": 2.75, "peajes": { "categoria_1y4": { "TBFP": 276.28, "TBP": 552.57, "TS": null }, "categoria_2": { "TBFP": 552.57, "TBP": 1105.15, "TS": null }, "categoria_3": { "TBFP": 828.86, "TBP": 1657.73, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["17:30-20:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA9", "referencia_tramo": "Departamental - A. Vespucio", "longitud_km": 3.78, "peajes": { "categoria_1y4": { "TBFP": 379.77, "TBP": 759.54, "TS": null }, "categoria_2": { "TBFP": 759.54, "TBP": 1519.09, "TS": null }, "categoria_3": { "TBFP": 1139.31, "TBP": 2278.63, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["17:30-20:30"], "punta_sabado_festivos_tbp": ["11:00-15:00"], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA8", "referencia_tramo": "A. Vespucio - Las Acacias", "longitud_km": 4.35, "peajes": { "categoria_1y4": { "TBFP": 437.04, "TBP": 874.08, "TS": null }, "categoria_2": { "TBFP": 874.08, "TBP": 1748.16, "TS": null }, "categoria_3": { "TBFP": 1311.12, "TBP": 2622.24, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["18:30-20:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA32", "referencia_tramo": "Las Acacias - Lo Blanco", "longitud_km": 1.70, "peajes": { "categoria_1y4": { "TBFP": 170.79, "TBP": 341.59, "TS": null }, "categoria_2": { "TBFP": 341.59, "TBP": 683.18, "TS": null }, "categoria_3": { "TBFP": 512.39, "TBP": 1024.78, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["17:00-20:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA6", "referencia_tramo": "Lo Blanco - Colón", "longitud_km": 1.52, "peajes": { "categoria_1y4": { "TBFP": 152.71, "TBP": 305.42, "TS": null }, "categoria_2": { "TBFP": 305.42, "TBP": 610.85, "TS": null }, "categoria_3": { "TBFP": 458.13, "TBP": 916.27, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["17:00-20:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA37", "referencia_tramo": "Colón . Calera de Tango", "longitud_km": 4.38, "peajes": { "categoria_1y4": { "TBFP": 440.05, "TBP": null, "TS": null }, "categoria_2": { "TBFP": 880.10, "TBP": null, "TS": null }, "categoria_3": { "TBFP": 1320.16, "TBP": null, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": [], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA4", "referencia_tramo": "Colón - La Capilla", "longitud_km": 1.25, "peajes": { "categoria_1y4": { "TBFP": 125.58, "TBP": null, "TS": null }, "categoria_2": { "TBFP": 251.17, "TBP": null, "TS": null }, "categoria_3": { "TBFP": 376.75, "TBP": null, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": [], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA1", "referencia_tramo": "La Capilla - Los Guindos", "longitud_km": 7.68, "peajes": { "categoria_1y4": { "TBFP": 839.50, "TBP": null, "TS": null }, "categoria_2": { "TBFP": 1679.00, "TBP": null, "TS": null }, "categoria_3": { "TBFP": 2518.50, "TBP": null, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": [], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre_eje": "EJE GENERAL VELASQUEZ",
+          "direcciones": [
+            {
+              "sentido": "SUR-NORTE",
+              "porticos": [
+                { "portico_id": "PA19", "referencia_tramo": "Ruta 5 Sur - A. Vespucio", "longitud_km": 3.97, "peajes": { "categoria_1y4": { "TBFP": 398.86, "TBP": null, "TS": null }, "categoria_2": { "TBFP": 598.29, "TBP": null, "TS": null }, "categoria_3": { "TBFP": 797.72, "TBP": null, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": [], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA21", "referencia_tramo": "A. Vespucio - C. Valdovinos", "longitud_km": 4.93, "peajes": { "categoria_1y4": { "TBFP": 495.31, "TBP": null, "TS": null }, "categoria_2": { "TBFP": 742.96, "TBP": null, "TS": null }, "categoria_3": { "TBFP": 990.62, "TBP": null, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": [], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA23", "referencia_tramo": "C. Valdovinos - Alameda", "longitud_km": 2.77, "peajes": { "categoria_1y4": { "TBFP": 278.29, "TBP": 556.59, "TS": null }, "categoria_2": { "TBFP": 417.44, "TBP": 834.89, "TS": null }, "categoria_3": { "TBFP": 556.59, "TBP": 1113.19, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["07:00-09:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA25", "referencia_tramo": "Alameda - Río Mapocho", "longitud_km": 4.06, "peajes": { "categoria_1y4": { "TBFP": 407.90, "TBP": 815.80, "TS": 1223.71 }, "categoria_2": { "TBFP": 611.85, "TBP": 1223.71, "TS": 1835.56 }, "categoria_3": { "TBFP": 815.80, "TBP": 1631.61, "TS": 2447.42 } }, "horarios": { "saturacion_laboral_ts": ["07:30-08:00"], "punta_laboral_tbp": ["07:00-07:30", "08:00-09:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA28", "referencia_tramo": "Río Mapocho - Ruta 5 Norte", "longitud_km": 4.93, "peajes": { "categoria_1y4": { "TBFP": 495.31, "TBP": 990.62, "TS": 1485.93 }, "categoria_2": { "TBFP": 742.96, "TBP": 1485.93, "TS": 2228.90 }, "categoria_3": { "TBFP": 990.62, "TBP": 1981.24, "TS": 2971.87 } }, "horarios": { "saturacion_laboral_ts": ["09:00-09:30"], "punta_laboral_tbp": ["07:30-09:00", "09:30-11:00"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } }
+              ]
+            },
+            {
+              "sentido": "NORTE-SUR",
+              "porticos": [
+                { "portico_id": "PA29", "referencia_tramo": "Ruta 5 Norte - Río Mapocho", "longitud_km": 4.93, "peajes": { "categoria_1y4": { "TBFP": 495.31, "TBP": 990.62, "TS": null }, "categoria_2": { "TBFP": 742.96, "TBP": 1485.93, "TS": null }, "categoria_3": { "TBFP": 990.62, "TBP": 1981.24, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": ["17:00-18:00", "18:30-20:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA26", "referencia_tramo": "Río Mapocho - Alameda", "longitud_km": 4.06, "peajes": { "categoria_1y4": { "TBFP": 407.90, "TBP": 815.80, "TS": 1223.71 }, "categoria_2": { "TBFP": 611.85, "TBP": 1223.71, "TS": 1835.56 }, "categoria_3": { "TBFP": 815.80, "TBP": 1631.61, "TS": 2447.42 } }, "horarios": { "saturacion_laboral_ts": ["17:30-18:30"], "punta_laboral_tbp": ["18:30-20:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA24", "referencia_tramo": "Alameda - C. Valdovinos", "longitud_km": 2.77, "peajes": { "categoria_1y4": { "TBFP": 278.29, "TBP": 556.59, "TS": 834.89 }, "categoria_2": { "TBFP": 417.44, "TBP": 834.89, "TS": 1252.34 }, "categoria_3": { "TBFP": 556.59, "TBP": 1113.19, "TS": 1669.79 } }, "horarios": { "saturacion_laboral_ts": ["18:00-18:30"], "punta_laboral_tbp": ["17:00-18:00", "18:30-20:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA22", "referencia_tramo": "C. Valdovinos - A. Vespucio", "longitud_km": 4.93, "peajes": { "categoria_1y4": { "TBFP": 495.31, "TBP": null, "TS": null }, "categoria_2": { "TBFP": 742.96, "TBP": null, "TS": null }, "categoria_3": { "TBFP": 990.62, "TBP": null, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": [], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "PA20", "referencia_tramo": "A. Vespucio - Ruta 5 Sur", "longitud_km": 3.97, "peajes": { "categoria_1y4": { "TBFP": 398.86, "TBP": null, "TS": null }, "categoria_2": { "TBFP": 598.29, "TBP": null, "TS": null }, "categoria_3": { "TBFP": 797.72, "TBP": null, "TS": null } }, "horarios": { "saturacion_laboral_ts": [], "punta_laboral_tbp": [], "punta_sabado_festivos_tbp": [], "punta_domingo_festivos_tbp": [] } }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre_autopista": "Costanera Norte",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "categoria_1y4": "Motos y automóviles",
+          "categoria_2": "Buses y camiones",
+          "categoria_3": "Buses y camiones con remolque"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "EJE COSTANERA",
+          "direcciones": [
+            {
+              "sentido": "ORIENTE-PONIENTE",
+              "porticos": [
+                { "portico_id": "P0", "referencia_tramo": "Puente Padre Arteaga - P. San Francisco", "longitud_km": 1.40, "peajes": { "categoria_1y4": { "TBFP": 144.20, "TBP": 278.60, "TS": 422.80 }, "categoria_2": { "TBFP": 288.40, "TBP": 557.20, "TS": 845.60 }, "categoria_3": { "TBFP": 432.60, "TBP": 835.80, "TS": 1268.40 } }, "horarios": { "punta_laboral_tbp": ["07:00-7:30", "8:30-10:00", "12:00-13:00", "14:00-15:00"], "saturacion_laboral_ts": ["07:30-08:30", "13:00-14:00"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "15:00-00:00"] } },
+                { "portico_id": "P1", "referencia_tramo": "Puente La Dehesa - Gran Vía", "longitud_km": 4.20, "peajes": { "categoria_1y4": { "TBFP": 432.60, "TBP": 835.80, "TS": 1268.40 }, "categoria_2": { "TBFP": 865.20, "TBP": 1671.60, "TS": 2536.80 }, "categoria_3": { "TBFP": 1297.80, "TBP": 2507.40, "TS": 3805.20 } }, "horarios": { "punta_laboral_tbp": ["07:00-7:30", "8:30-10:00", "12:00-13:00", "14:00-15:00"], "saturacion_laboral_ts": ["07:30-08:30", "13:00-14:00"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "15:00-00:00"] } },
+                { "portico_id": "P2.1", "referencia_tramo": "Gran Vía - Centenario", "longitud_km": 3.98, "peajes": { "categoria_1y4": { "TBFP": 409.94, "TBP": 792.02, "TS": 1201.96 }, "categoria_2": { "TBFP": 819.88, "TBP": 1584.04, "TS": 2403.92 }, "categoria_3": { "TBFP": 1229.82, "TBP": 2376.06, "TS": 3605.88 } }, "horarios": { "punta_laboral_tbp": ["07:00-7:30", "8:30-10:00", "12:00-13:00", "14:00-15:00"], "saturacion_laboral_ts": ["07:30-08:30", "13:00-14:00"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "15:00-00:00"] } },
+                { "portico_id": "P2.2", "referencia_tramo": "Centenario - Puente Lo Saldes", "longitud_km": 2.47, "peajes": { "categoria_1y4": { "TBFP": 254.41, "TBP": 491.53, "TS": 745.94 }, "categoria_2": { "TBFP": 508.82, "TBP": 983.06, "TS": 1491.88 }, "categoria_3": { "TBFP": 763.23, "TBP": 1474.59, "TS": 2237.82 } }, "horarios": { "punta_laboral_tbp": ["07:00-7:30", "8:30-10:00", "12:00-13:00", "14:00-15:00"], "saturacion_laboral_ts": ["07:30-08:30", "13:00-14:00"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "15:00-00:00"] } },
+                { "portico_id": "SB", "referencia_tramo": "Salida Bellavista", "longitud_km": 2.185, "peajes": { "categoria_1y4": { "TBFP": 225.05, "TBP": 434.81, "TS": 659.87 }, "categoria_2": { "TBFP": 450.11, "TBP": 869.63, "TS": 1319.74 }, "categoria_3": { "TBFP": 675.16, "TBP": 1304.44, "TS": 1979.61 } }, "horarios": { "punta_laboral_tbp": ["07:00-7:30", "8:30-10:00", "12:00-13:00", "14:00-16:30", "19:30-21:00"], "saturacion_laboral_ts": ["07:30-08:30", "13:00-14:00", "16:30-19:30"], "punta_sabado_tbp": ["11:30-15:00", "18:00-19:00"], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "21:00-00:00"] } },
+                { "portico_id": "P3", "referencia_tramo": "Puente Lo Saldes - Vivaceta", "longitud_km": 6.72, "peajes": { "categoria_1y4": { "TBFP": 692.16, "TBP": 1337.28, "TS": 2029.44 }, "categoria_2": { "TBFP": 1384.32, "TBP": 2674.56, "TS": 4058.88 }, "categoria_3": { "TBFP": 2076.48, "TBP": 4011.84, "TS": 6088.32 } }, "horarios": { "punta_laboral_tbp": ["07:00-7:30", "8:30-10:00", "12:00-13:00", "14:00-16:30", "19:30-21:00"], "saturacion_laboral_ts": ["07:30-08:30", "13:00-14:00", "16:30-19:30"], "punta_sabado_tbp": ["11:30-15:00", "18:00-19:00"], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "21:00-00:00"] } },
+                { "portico_id": "EP", "referencia_tramo": "Entrada Purísima", "longitud_km": 2.110, "peajes": { "categoria_1y4": { "TBFP": 217.33, "TBP": 419.89, "TS": 637.22 }, "categoria_2": { "TBFP": 434.66, "TBP": 839.78, "TS": 1274.44 }, "categoria_3": { "TBFP": 651.99, "TBP": 1259.67, "TS": 1911.66 } }, "horarios": { "punta_laboral_tbp": ["07:00-7:30", "8:30-10:00", "12:00-13:00", "14:00-16:30", "19:30-21:00"], "saturacion_laboral_ts": ["07:30-08:30", "13:00-14:00", "16:30-19:30"], "punta_sabado_tbp": ["11:30-15:00", "18:00-19:00"], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "21:00-00:00"] } },
+                { "portico_id": "EV", "referencia_tramo": "Entrada Vivaceta", "longitud_km": 1.116, "peajes": { "categoria_1y4": { "TBFP": 114.94, "TBP": 222.08, "TS": 337.03 }, "categoria_2": { "TBFP": 229.89, "TBP": 444.16, "TS": 674.06 }, "categoria_3": { "TBFP": 344.84, "TBP": 666.25, "TS": 1011.09 } }, "horarios": { "punta_laboral_tbp": ["07:00-7:30", "8:30-10:00", "12:00-13:00", "14:00-16:30", "19:30-21:00"], "saturacion_laboral_ts": ["07:30-08:30", "13:00-14:00", "16:30-19:30"], "punta_sabado_tbp": ["11:30-15:00", "18:00-19:00"], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "21:00-00:00"] } },
+                { "portico_id": "P5", "referencia_tramo": "Vivaceta - Carrascal", "longitud_km": 6.69, "peajes": { "categoria_1y4": { "TBFP": 689.07, "TBP": 1331.31, "TS": null }, "categoria_2": { "TBFP": 1378.14, "TBP": 2662.62, "TS": null }, "categoria_3": { "TBFP": 2067.21, "TBP": 3993.93, "TS": null } }, "horarios": { "punta_laboral_tbp": ["12:00-15:00", "18:00-21:00"], "saturacion_laboral_ts": [], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-12:00", "15:00-18:00", "21:00-00:00"] } },
+                { "portico_id": "P6.1", "referencia_tramo": "Carrascal - Petersen", "longitud_km": 2.24, "peajes": { "categoria_1y4": { "TBFP": 230.72, "TBP": 445.76, "TS": null }, "categoria_2": { "TBFP": 461.44, "TBP": 891.52, "TS": null }, "categoria_3": { "TBFP": 692.16, "TBP": 1337.28, "TS": null } }, "horarios": { "punta_laboral_tbp": ["12:00-15:00", "18:00-21:00"], "saturacion_laboral_ts": [], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-12:00", "15:00-18:00", "21:00-00:00"] } },
+                { "portico_id": "P6.2", "referencia_tramo": "Petersen - Américo Vespucio Poniente", "longitud_km": 3.41, "peajes": { "categoria_1y4": { "TBFP": 351.23, "TBP": 678.59, "TS": null }, "categoria_2": { "TBFP": 702.46, "TBP": 1357.18, "TS": null }, "categoria_3": { "TBFP": 1053.69, "TBP": 2035.77, "TS": null } }, "horarios": { "punta_laboral_tbp": ["12:00-15:00", "18:00-21:00"], "saturacion_laboral_ts": [], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-12:00", "15:00-18:00", "21:00-00:00"] } },
+                { "portico_id": "P9", "referencia_tramo": "Américo Vespucio Poniente - Ruta 68", "longitud_km": 5.00, "peajes": { "categoria_1y4": { "TBFP": 515.00, "TBP": 995.00, "TS": null }, "categoria_2": { "TBFP": 1030.00, "TBP": 1990.00, "TS": null }, "categoria_3": { "TBFP": 1545.00, "TBP": 2985.00, "TS": null } }, "horarios": { "punta_laboral_tbp": ["12:00-15:00", "18:00-21:00"], "saturacion_laboral_ts": [], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-12:00", "15:00-18:00", "21:00-00:00"] } }
+              ]
+            },
+            {
+              "sentido": "PONIENTE-ORIENTE",
+              "porticos": [
+                { "portico_id": "P9", "referencia_tramo": "Ruta 68 - Américo Vespucio Poniente", "longitud_km": 5.00, "peajes": { "categoria_1y4": { "TBFP": 515.00, "TBP": 995.00, "TS": null }, "categoria_2": { "TBFP": 1030.00, "TBP": 1990.00, "TS": null }, "categoria_3": { "TBFP": 1545.00, "TBP": 2985.00, "TS": null } }, "horarios": { "punta_laboral_tbp": ["07:00-10:00", "12:00-15:00"], "saturacion_laboral_ts": [], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "15:00-00:00"] } },
+                { "portico_id": "P6.2", "referencia_tramo": "Américo Vespucio Poniente - Petersen", "longitud_km": 3.41, "peajes": { "categoria_1y4": { "TBFP": 351.23, "TBP": 678.59, "TS": 1029.82 }, "categoria_2": { "TBFP": 702.46, "TBP": 1357.18, "TS": 2059.64 }, "categoria_3": { "TBFP": 1053.69, "TBP": 2035.77, "TS": 3089.46 } }, "horarios": { "punta_laboral_tbp": ["07:00-07:30", "08:30-10:00", "12:00-15:00", "17:00-18:00"], "saturacion_laboral_ts": ["07:30-08:30", "18:00-19:00"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "15:00-17:00", "19:00-00:00"] } },
+                { "portico_id": "P6.1", "referencia_tramo": "Petersen - Carrascal", "longitud_km": 2.24, "peajes": { "categoria_1y4": { "TBFP": 230.72, "TBP": 445.76, "TS": 676.48 }, "categoria_2": { "TBFP": 461.44, "TBP": 891.52, "TS": 1352.96 }, "categoria_3": { "TBFP": 692.16, "TBP": 1337.28, "TS": 2029.44 } }, "horarios": { "punta_laboral_tbp": ["07:00-07:30", "08:30-10:00", "12:00-15:00", "17:00-18:00"], "saturacion_laboral_ts": ["07:30-08:30", "18:00-19:00"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "15:00-17:00", "19:00-00:00"] } },
+                { "portico_id": "P5", "referencia_tramo": "Carrascal - Vivaceta", "longitud_km": 6.69, "peajes": { "categoria_1y4": { "TBFP": 689.07, "TBP": 1331.31, "TS": 2020.38 }, "categoria_2": { "TBFP": 1378.14, "TBP": 2662.62, "TS": 4040.76 }, "categoria_3": { "TBFP": 2067.21, "TBP": 3993.93, "TS": 6061.14 } }, "horarios": { "punta_laboral_tbp": ["07:00-07:30", "08:30-10:00", "12:00-15:00", "17:00-18:00"], "saturacion_laboral_ts": ["07:30-08:30", "18:00-19:00"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "15:00-17:00", "19:00-00:00"] } },
+                { "portico_id": "P4", "referencia_tramo": "Vivaceta - Torres Tajamar", "longitud_km": 3.86, "peajes": { "categoria_1y4": { "TBFP": 397.58, "TBP": 768.14, "TS": 1165.72 }, "categoria_2": { "TBFP": 795.16, "TBP": 1536.28, "TS": 2331.44 }, "categoria_3": { "TBFP": 1192.74, "TBP": 2304.42, "TS": 3497.16 } }, "horarios": { "punta_laboral_tbp": ["12:00-12:30", "14:00-14:30", "15:00-16:30", "19:30-21:00"], "saturacion_laboral_ts": ["07:00-12:00", "12:30-14:00", "14:30-15:00", "16:30-19:30"], "punta_sabado_tbp": ["08:30-15:30"], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "21:00-00:00"] } },
+                { "portico_id": "P3", "referencia_tramo": "Torres Tajamar - Puente Lo Saldes", "longitud_km": 2.86, "peajes": { "categoria_1y4": { "TBFP": 294.58, "TBP": 569.14, "TS": 863.72 }, "categoria_2": { "TBFP": 589.16, "TBP": 1138.28, "TS": 1727.44 }, "categoria_3": { "TBFP": 883.74, "TBP": 1707.42, "TS": 2591.16 } }, "horarios": { "punta_laboral_tbp": ["12:00-12:30", "14:00-14:30", "15:00-16:30", "19:30-21:00"], "saturacion_laboral_ts": ["07:00-12:00", "12:30-14:00", "14:30-15:00", "16:30-19:30"], "punta_sabado_tbp": ["08:30-15:30"], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "21:00-00:00"] } },
+                { "portico_id": "P2.2", "referencia_tramo": "Puente Lo Saldes - Centenario", "longitud_km": 2.47, "peajes": { "categoria_1y4": { "TBFP": 254.41, "TBP": 491.53, "TS": 745.94 }, "categoria_2": { "TBFP": 508.82, "TBP": 983.06, "TS": 1491.88 }, "categoria_3": { "TBFP": 763.23, "TBP": 1474.59, "TS": 2237.82 } }, "horarios": { "punta_laboral_tbp": ["12:00-13:00", "14:00-15:00", "18:00-18:30", "19:30-21:00"], "saturacion_laboral_ts": ["13:00-14:00", "18:30-19:30"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-12:00", "15:00-18:00", "21:00-00:00"] } },
+                { "portico_id": "P2.1", "referencia_tramo": "Centenario - Gran Vía", "longitud_km": 3.98, "peajes": { "categoria_1y4": { "TBFP": 409.94, "TBP": 792.02, "TS": 1201.96 }, "categoria_2": { "TBFP": 819.88, "TBP": 1584.04, "TS": 2403.92 }, "categoria_3": { "TBFP": 1229.82, "TBP": 2376.06, "TS": 3605.88 } }, "horarios": { "punta_laboral_tbp": ["12:00-13:00", "14:00-15:00", "18:00-18:30", "19:30-21:00"], "saturacion_laboral_ts": ["13:00-14:00", "18:30-19:30"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-12:00", "15:00-18:00", "21:00-00:00"] } },
+                { "portico_id": "P1", "referencia_tramo": "Gran Vía - Puente La Dehesa", "longitud_km": 4.20, "peajes": { "categoria_1y4": { "TBFP": 432.60, "TBP": 835.80, "TS": 1268.40 }, "categoria_2": { "TBFP": 865.20, "TBP": 1671.60, "TS": 2536.80 }, "categoria_3": { "TBFP": 1297.80, "TBP": 2507.40, "TS": 3805.20 } }, "horarios": { "punta_laboral_tbp": ["12:00-13:00", "14:00-15:00", "18:00-18:30", "19:30-21:00"], "saturacion_laboral_ts": ["13:00-14:00", "18:30-19:30"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-12:00", "15:00-18:00", "21:00-00:00"] } },
+                { "portico_id": "P0", "referencia_tramo": "Puente Padre Arteaga - P. San Francisco", "longitud_km": 1.40, "peajes": { "categoria_1y4": { "TBFP": 144.20, "TBP": 278.60, "TS": 422.80 }, "categoria_2": { "TBFP": 288.40, "TBP": 557.20, "TS": 845.60 }, "categoria_3": { "TBFP": 432.60, "TBP": 835.80, "TS": 1268.40 } }, "horarios": { "punta_laboral_tbp": ["12:00-13:00", "14:00-15:00", "18:00-18:30", "19:30-21:00"], "saturacion_laboral_ts": ["13:00-14:00", "18:30-19:30"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-12:00", "15:00-18:00", "21:00-00:00"] } }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre_eje": "EJE KENNEDY",
+          "direcciones": [
+            {
+              "sentido": "ORIENTE-PONIENTE",
+              "porticos": [
+                { "portico_id": "P7", "referencia_tramo": "Estoril - Las Tranqueras", "longitud_km": 2.3385, "peajes": { "categoria_1y4": { "TBFP": 240.86, "TBP": 465.36, "TS": 706.22 }, "categoria_2": { "TBFP": 481.73, "TBP": 930.72, "TS": 1412.45 }, "categoria_3": { "TBFP": 722.59, "TBP": 1396.08, "TS": 2118.68 } }, "horarios": { "punta_laboral_tbp": ["07:00-7:30", "08:30-10:00", "12:00-13:00", "14:00-15:00", "17:00-20:00"], "saturacion_laboral_ts": ["07:30-08:30", "13:00-14:00"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "15:00-17:00", "20:00-00:00"] } },
+                { "portico_id": "P8.0", "referencia_tramo": "Las Tranqueras - Costanera Norte", "longitud_km": 5.4565, "peajes": { "categoria_1y4": { "TBFP": 562.01, "TBP": 1085.84, "TS": 1647.86 }, "categoria_2": { "TBFP": 1124.03, "TBP": 2171.68, "TS": 3295.72 }, "categoria_3": { "TBFP": 1686.05, "TBP": 3257.53, "TS": 4943.58 } }, "horarios": { "punta_laboral_tbp": ["07:00-7:30", "08:30-10:00", "12:00-13:00", "14:00-15:00", "17:00-20:00"], "saturacion_laboral_ts": ["07:30-08:30", "13:00-14:00"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "15:00-17:00", "20:00-00:00"] } },
+                { "portico_id": "P8.1", "referencia_tramo": "Las Tranqueras - Costanera Norte", "longitud_km": 5.4565, "peajes": { "categoria_1y4": { "TBFP": 562.01, "TBP": 1085.84, "TS": 1647.86 }, "categoria_2": { "TBFP": 1124.03, "TBP": 2171.68, "TS": 3295.72 }, "categoria_3": { "TBFP": 1686.05, "TBP": 3257.53, "TS": 4943.58 } }, "horarios": { "punta_laboral_tbp": ["07:00-7:30", "08:30-10:00", "12:00-13:00", "14:00-15:00", "17:00-20:00"], "saturacion_laboral_ts": ["07:30-08:30", "13:00-14:00"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "10:00-12:00", "15:00-17:00", "20:00-00:00"] } }
+              ]
+            },
+            {
+              "sentido": "PONIENTE-ORIENTE",
+              "porticos": [
+                { "portico_id": "P8.3", "referencia_tramo": "Costanera Norte - Las Tranqueras", "longitud_km": 5.4565, "peajes": { "categoria_1y4": { "TBFP": 562.01, "TBP": 1085.84, "TS": 1647.86 }, "categoria_2": { "TBFP": 1124.03, "TBP": 2171.68, "TS": 3295.72 }, "categoria_3": { "TBFP": 1686.05, "TBP": 3257.53, "TS": 4943.58 } }, "horarios": { "punta_laboral_tbp": ["07:00-09:30", "12:00-13:00", "14:00-15:00", "16:00-18:30", "19:30-21:00"], "saturacion_laboral_ts": ["13:00-14:00", "18:30-19:30"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "09:30-12:00", "15:00-16:00", "21:00-00:00"] } },
+                { "portico_id": "P8.2", "referencia_tramo": "Costanera Norte - Las Tranqueras", "longitud_km": 5.4565, "peajes": { "categoria_1y4": { "TBFP": 562.01, "TBP": 1085.84, "TS": 1647.86 }, "categoria_2": { "TBFP": 1124.03, "TBP": 2171.68, "TS": 3295.72 }, "categoria_3": { "TBFP": 1686.05, "TBP": 3257.53, "TS": 4943.58 } }, "horarios": { "punta_laboral_tbp": ["07:00-09:30", "12:00-13:00", "14:00-15:00", "16:00-18:30", "19:30-21:00"], "saturacion_laboral_ts": ["13:00-14:00", "18:30-19:30"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "09:30-12:00", "15:00-16:00", "21:00-00:00"] } },
+                { "portico_id": "P8.1", "referencia_tramo": "Costanera Norte - Las Tranqueras", "longitud_km": 5.4565, "peajes": { "categoria_1y4": { "TBFP": 562.01, "TBP": 1085.84, "TS": 1647.86 }, "categoria_2": { "TBFP": 1124.03, "TBP": 2171.68, "TS": 3295.72 }, "categoria_3": { "TBFP": 1686.05, "TBP": 3257.53, "TS": 4943.58 } }, "horarios": { "punta_laboral_tbp": ["07:00-09:30", "12:00-13:00", "14:00-15:00", "16:00-18:30", "19:30-21:00"], "saturacion_laboral_ts": ["13:00-14:00", "18:30-19:30"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "09:30-12:00", "15:00-16:00", "21:00-00:00"] } },
+                { "portico_id": "P8.0", "referencia_tramo": "Costanera Norte - Las Tranqueras", "longitud_km": 5.4565, "peajes": { "categoria_1y4": { "TBFP": 562.01, "TBP": 1085.84, "TS": 1647.86 }, "categoria_2": { "TBFP": 1124.03, "TBP": 2171.68, "TS": 3295.72 }, "categoria_3": { "TBFP": 1686.05, "TBP": 3257.53, "TS": 4943.58 } }, "horarios": { "punta_laboral_tbp": ["07:00-09:30", "12:00-13:00", "14:00-15:00", "16:00-18:30", "19:30-21:00"], "saturacion_laboral_ts": ["13:00-14:00", "18:30-19:30"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "09:30-12:00", "15:00-16:00", "21:00-00:00"] } },
+                { "portico_id": "P7", "referencia_tramo": "Las Tranqueras - Estoril", "longitud_km": 2.3385, "peajes": { "categoria_1y4": { "TBFP": 240.86, "TBP": 465.36, "TS": 706.22 }, "categoria_2": { "TBFP": 481.73, "TBP": 930.72, "TS": 1412.45 }, "categoria_3": { "TBFP": 722.59, "TBP": 1396.08, "TS": 2118.68 } }, "horarios": { "punta_laboral_tbp": ["07:00-09:30", "12:00-13:00", "14:00-15:00", "16:00-18:30", "19:30-21:00"], "saturacion_laboral_ts": ["13:00-14:00", "18:30-19:30"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [], "fuera_punta_laboral_tbfp": ["00:00-07:00", "09:30-12:00", "15:00-16:00", "21:00-00:00"] } }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre_autopista": "Autopista Vespucio Norte",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "categoria_1y4": "motos, autos y camionetas",
+          "categoria_2": "buses y camiones",
+          "categoria_3": "camiones con remolque"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "EJE PRINCIPAL",
+          "direcciones": [
+            {
+              "sentido": "ORIENTE-PONIENTE",
+              "porticos": [
+                { "portico_id": "P15", "referencia_tramo": "El Salto - Recoleta", "longitud_km": 1.40, "peajes": { "categoria_1y4": { "TBFP": 136.01, "TBP": 272.01, "TS": null }, "categoria_2": { "TBFP": 272.01, "TBP": 544.03, "TS": null }, "categoria_3": { "TBFP": 408.02, "TBP": 816.04, "TS": null } }, "horarios": { "punta_laboral_tbp": ["18:00-22:00"], "saturacion_laboral_ts": [], "punta_sabado_festivos_tbp": ["13:00-15:00", "20:00-22:00"], "punta_domingo_tbp": [] } },
+                { "portico_id": "P13", "referencia_tramo": "Recoleta - Pedro Fontova", "longitud_km": 4.10, "peajes": { "categoria_1y4": { "TBFP": 398.30, "TBP": 796.61, "TS": null }, "categoria_2": { "TBFP": 796.61, "TBP": 1593.22, "TS": null }, "categoria_3": { "TBFP": 1194.91, "TBP": 2389.83, "TS": null } }, "horarios": { "punta_laboral_tbp": ["18:00-22:00"], "saturacion_laboral_ts": [], "punta_sabado_festivos_tbp": ["13:00-15:00", "20:00-22:00"], "punta_domingo_tbp": [] } },
+                { "portico_id": "P11", "referencia_tramo": "Pedro Fontova - Ruta 5 Norte", "longitud_km": 3.00, "peajes": { "categoria_1y4": { "TBFP": 291.44, "TBP": 582.89, "TS": null }, "categoria_2": { "TBFP": 582.88, "TBP": 1165.77, "TS": null }, "categoria_3": { "TBFP": 874.32, "TBP": 1748.66, "TS": null } }, "horarios": { "punta_laboral_tbp": ["08:00-08:30", "18:00-19:00"], "saturacion_laboral_ts": [], "punta_sabado_festivos_tbp": ["13:00-15:00", "20:00-22:00"], "punta_domingo_tbp": ["21:00-23:00"] } },
+                { "portico_id": "P8", "referencia_tramo": "Ruta 5 Norte - Condell", "longitud_km": 6.50, "peajes": { "categoria_1y4": { "TBFP": 631.46, "TBP": 1262.92, "TS": null }, "categoria_2": { "TBFP": 1262.91, "TBP": 2525.84, "TS": null }, "categoria_3": { "TBFP": 1894.37, "TBP": 3788.75, "TS": null } }, "horarios": { "punta_laboral_tbp": ["07:30-09:30"], "saturacion_laboral_ts": [], "punta_sabado_festivos_tbp": ["13:00-15:00", "20:00-22:00"], "punta_domingo_tbp": ["21:00-23:00"] } },
+                { "portico_id": "P6", "referencia_tramo": "Condell - Costanera Norte", "longitud_km": 4.50, "peajes": { "categoria_1y4": { "TBFP": 437.16, "TBP": 874.33, "TS": null }, "categoria_2": { "TBFP": 874.32, "TBP": 1748.66, "TS": null }, "categoria_3": { "TBFP": 1311.48, "TBP": 2622.98, "TS": null } }, "horarios": { "punta_laboral_tbp": ["07:30-09:30"], "saturacion_laboral_ts": [], "punta_sabado_festivos_tbp": [], "punta_domingo_tbp": [] } },
+                { "portico_id": "P4", "referencia_tramo": "Costanera Norte - Ruta 68", "longitud_km": 3.50, "peajes": { "categoria_1y4": { "TBFP": 340.01, "TBP": 680.03, "TS": 1020.05 }, "categoria_2": { "TBFP": 680.03, "TBP": 1360.07, "TS": 2040.10 }, "categoria_3": { "TBFP": 1020.04, "TBP": 2040.10, "TS": 3060.15 } }, "horarios": { "punta_laboral_tbp": ["15:30-16:30", "19:30-20:00"], "saturacion_laboral_ts": ["16:30-19:30"], "punta_sabado_festivos_tbp": ["11:00-14:00", "19:00-22:00"], "punta_domingo_tbp": [] } },
+                { "portico_id": "P2", "referencia_tramo": "Ruta 68 - Los Mares", "longitud_km": 2.10, "peajes": { "categoria_1y4": { "TBFP": 204.01, "TBP": 408.02, "TS": 612.03 }, "categoria_2": { "TBFP": 408.02, "TBP": 816.04, "TS": 1224.06 }, "categoria_3": { "TBFP": 612.03, "TBP": 1224.06, "TS": 1836.09 } }, "horarios": { "punta_laboral_tbp": ["15:30-17:30", "19:30-20:00"], "saturacion_laboral_ts": ["17:30-19:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_tbp": [] } },
+                { "portico_id": "P17", "referencia_tramo": "Los Mares - Ruta 78", "longitud_km": 3.90, "peajes": { "categoria_1y4": { "TBFP": 378.87, "TBP": 757.75, "TS": 1136.63 }, "categoria_2": { "TBFP": 757.75, "TBP": 1515.50, "TS": 2273.26 }, "categoria_3": { "TBFP": 1136.62, "TBP": 2273.25, "TS": 3409.88 } }, "horarios": { "punta_laboral_tbp": ["15:30-17:30", "19:30-20:00"], "saturacion_laboral_ts": ["17:30-19:30"], "punta_sabado_festivos_tbp": [], "punta_domingo_tbp": [] } }
+              ]
+            },
+            {
+              "sentido": "PONIENTE-ORIENTE",
+              "porticos": [
+                { "portico_id": "P1", "referencia_tramo": "Ruta 78 - Santa Elena", "longitud_km": 1.20, "peajes": { "categoria_1y4": { "TBFP": 116.58, "TBP": 233.15, "TS": 349.73 }, "categoria_2": { "TBFP": 233.15, "TBP": 466.31, "TS": 699.46 }, "categoria_3": { "TBFP": 349.73, "TBP": 699.46, "TS": 1049.19 } }, "horarios": { "punta_laboral_tbp": ["06:30-07:00", "10:00-12:30"], "saturacion_laboral_ts": ["07:00-10:00"], "punta_sabado_festivos_tbp": [], "punta_domingo_tbp": [] } },
+                { "portico_id": "P16", "referencia_tramo": "Santa Elena - Ruta 68", "longitud_km": 4.80, "peajes": { "categoria_1y4": { "TBFP": 466.31, "TBP": 932.62, "TS": 1398.93 }, "categoria_2": { "TBFP": 932.61, "TBP": 1865.23, "TS": 2797.85 }, "categoria_3": { "TBFP": 1398.92, "TBP": 2797.85, "TS": 4196.78 } }, "horarios": { "punta_laboral_tbp": ["06:30-07:00", "10:00-12:30"], "saturacion_laboral_ts": ["07:00-10:00"], "punta_sabado_festivos_tbp": [], "punta_domingo_tbp": [] } },
+                { "portico_id": "P3", "referencia_tramo": "Ruta 68 - Costanera Norte", "longitud_km": 3.50, "peajes": { "categoria_1y4": { "TBFP": 340.01, "TBP": 680.03, "TS": null }, "categoria_2": { "TBFP": 680.03, "TBP": 1360.07, "TS": null }, "categoria_3": { "TBFP": 1020.04, "TBP": 2040.10, "TS": null } }, "horarios": { "punta_laboral_tbp": ["07:30-09:30"], "saturacion_laboral_ts": [], "punta_sabado_festivos_tbp": ["18:00-21:00"], "punta_domingo_tbp": ["19:00-22:00"] } },
+                { "portico_id": "P5", "referencia_tramo": "Costanera Norte - Condell", "longitud_km": 4.50, "peajes": { "categoria_1y4": { "TBFP": 437.16, "TBP": 874.33, "TS": null }, "categoria_2": { "TBFP": 874.32, "TBP": 1748.66, "TS": null }, "categoria_3": { "TBFP": 1311.48, "TBP": 2622.98, "TS": null } }, "horarios": { "punta_laboral_tbp": [], "saturacion_laboral_ts": [], "punta_sabado_festivos_tbp": ["18:00-21:00"], "punta_domingo_tbp": ["19:00-22:00"] } },
+                { "portico_id": "P7", "referencia_tramo": "Condell - Lo Echevers", "longitud_km": 1.04, "peajes": { "categoria_1y4": { "TBFP": 101.03, "TBP": 202.07, "TS": null }, "categoria_2": { "TBFP": 202.07, "TBP": 404.13, "TS": null }, "categoria_3": { "TBFP": 303.10, "TBP": 606.20, "TS": null } }, "horarios": { "punta_laboral_tbp": ["08:00-09:00", "11:00-12:30", "17:00-20:00"], "saturacion_laboral_ts": [], "punta_sabado_festivos_tbp": ["13:00-15:00", "18:00-21:00"], "punta_domingo_tbp": ["19:00-22:00"] } },
+                { "portico_id": "P9", "referencia_tramo": "Lo Echevers - Ruta 5 Norte", "longitud_km": 5.46, "peajes": { "categoria_1y4": { "TBFP": 530.42, "TBP": 1060.85, "TS": null }, "categoria_2": { "TBFP": 1060.85, "TBP": 2121.70, "TS": null }, "categoria_3": { "TBFP": 1591.27, "TBP": 3182.55, "TS": null } }, "horarios": { "punta_laboral_tbp": ["08:00-09:00", "11:00-12:30", "17:00-20:00"], "saturacion_laboral_ts": [], "punta_sabado_festivos_tbp": ["13:00-15:00", "18:00-21:00"], "punta_domingo_tbp": ["19:00-22:00"] } },
+                { "portico_id": "P10", "referencia_tramo": "Ruta 5 Norte - Pedro Fontova", "longitud_km": 3.00, "peajes": { "categoria_1y4": { "TBFP": 291.44, "TBP": 582.89, "TS": 874.33 }, "categoria_2": { "TBFP": 582.88, "TBP": 1165.77, "TS": 1748.66 }, "categoria_3": { "TBFP": 874.32, "TBP": 1748.66, "TS": 2622.99 } }, "horarios": { "punta_laboral_tbp": ["07:30-08:00", "09:00-10:00", "17:30-20:00"], "saturacion_laboral_ts": ["08:00-09:00"], "punta_sabado_festivos_tbp": ["18:00-21:00"], "punta_domingo_tbp": ["19:00-22:00"] } },
+                { "portico_id": "P12", "referencia_tramo": "Pedro Fontova - Guanaco", "longitud_km": 0.69, "peajes": { "categoria_1y4": { "TBFP": 67.03, "TBP": 134.06, "TS": null }, "categoria_2": { "TBFP": 134.06, "TBP": 268.13, "TS": null }, "categoria_3": { "TBFP": 201.09, "TBP": 402.19, "TS": null } }, "horarios": { "punta_laboral_tbp": ["07:30-10:00"], "saturacion_laboral_ts": [], "punta_sabado_festivos_tbp": [], "punta_domingo_tbp": [] } },
+                { "portico_id": "P14", "referencia_tramo": "Guanaco - El Salto", "longitud_km": 4.81, "peajes": { "categoria_1y4": { "TBFP": 467.28, "TBP": 934.56, "TS": null }, "categoria_2": { "TBFP": 934.55, "TBP": 1869.12, "TS": null }, "categoria_3": { "TBFP": 1401.83, "TBP": 2803.68, "TS": null } }, "horarios": { "punta_laboral_tbp": ["07:30-10:00"], "saturacion_laboral_ts": [], "punta_sabado_festivos_tbp": [], "punta_domingo_tbp": [] } }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre_autopista": "Autopista Vespucio Sur",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "categoria_1y4": "motos, autos y camionetas",
+          "categoria_2": "buses y camiones",
+          "categoria_3": "camiones con remolque"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "EJE PRINCIPAL",
+          "direcciones": [
+            {
+              "sentido": "PONIENTE-ORIENTE",
+              "porticos": [
+                { "portico_id": "1.3", "referencia_tramo": "2ª Transversal – Camino a Melipilla", "longitud_km": 5.30, "peajes": { "categoria_1y4": { "TBFP": 514.88, "TBP": 1029.76, "TS": 1544.65 }, "categoria_2": { "TBFP": 1029.76, "TBP": 2059.53, "TS": 3089.30 }, "categoria_3": { "TBFP": 1544.64, "TBP": 3089.29, "TS": 4633.94 } }, "horarios": { "punta_laboral_tbp": ["8:30-9:30"], "saturacion_laboral_ts": ["7:30-8:30"], "punta_sabado_tbp": ["18:00-21:00"], "punta_domingo_festivos_tbp": ["19:00-22:00"] } },
+                { "portico_id": "2.2", "referencia_tramo": "Gral. Velásquez – Ruta 5", "longitud_km": 2.50, "peajes": { "categoria_1y4": { "TBFP": 242.87, "TBP": 485.74, "TS": null }, "categoria_2": { "TBFP": 485.74, "TBP": 971.48, "TS": null }, "categoria_3": { "TBFP": 728.60, "TBP": 1457.21, "TS": null } }, "horarios": { "punta_laboral_tbp": ["18:00-18:30"], "saturacion_laboral_ts": [], "punta_sabado_tbp": ["18:00-21:00"], "punta_domingo_festivos_tbp": ["19:00-22:00"] } },
+                { "portico_id": "3.4", "referencia_tramo": "Ruta 5 – Gran Avenida", "longitud_km": 1.20, "peajes": { "categoria_1y4": { "TBFP": 116.58, "TBP": 233.15, "TS": 349.73 }, "categoria_2": { "TBFP": 233.15, "TBP": 466.31, "TS": 699.46 }, "categoria_3": { "TBFP": 349.73, "TBP": 699.46, "TS": 1049.19 } }, "horarios": { "punta_laboral_tbp": ["17:30-18:30", "19:30-20:00"], "saturacion_laboral_ts": ["18:30-19:30"], "punta_sabado_tbp": ["13:00-15:00", "18:00-21:00"], "punta_domingo_festivos_tbp": ["19:00-22:00"] } },
+                { "portico_id": "3.2", "referencia_tramo": "Gran Avenida – Santa Rosa", "longitud_km": 4.70, "peajes": { "categoria_1y4": { "TBFP": 456.59, "TBP": 913.19, "TS": 1369.78 }, "categoria_2": { "TBFP": 913.18, "TBP": 1826.37, "TS": 2739.56 }, "categoria_3": { "TBFP": 1369.77, "TBP": 2739.56, "TS": 4109.35 } }, "horarios": { "punta_laboral_tbp": ["17:30-18:30", "19:30-20:00"], "saturacion_laboral_ts": ["18:30-19:30"], "punta_sabado_tbp": ["13:00-15:00", "18:00-21:00"], "punta_domingo_festivos_tbp": ["19:00-22:00"] } },
+                { "portico_id": "4.3", "referencia_tramo": "Coronel – Santa Julia", "longitud_km": 0.45, "peajes": { "categoria_1y4": { "TBFP": 43.72, "TBP": 87.43, "TS": 131.15 }, "categoria_2": { "TBFP": 87.43, "TBP": 174.87, "TS": 262.30 }, "categoria_3": { "TBFP": 131.15, "TBP": 262.30, "TS": 393.45 } }, "horarios": { "punta_laboral_tbp": ["8:30-9:30"], "saturacion_laboral_ts": ["7:30-8:30"], "punta_sabado_tbp": ["18:00-21:00"], "punta_domingo_festivos_tbp": ["19:00-22:00"] } },
+                { "portico_id": "4.2", "referencia_tramo": "Gnmo. de Alderete – V. Mackenna", "longitud_km": 2.65, "peajes": { "categoria_1y4": { "TBFP": 257.44, "TBP": 514.88, "TS": 772.32 }, "categoria_2": { "TBFP": 514.88, "TBP": 1029.76, "TS": 1544.65 }, "categoria_3": { "TBFP": 772.32, "TBP": 1544.65, "TS": 2316.97 } }, "horarios": { "punta_laboral_tbp": ["8:30-9:30", "18:00-18:30", "19:30-20:00"], "saturacion_laboral_ts": ["7:30-8:30", "18:30-19:30"], "punta_sabado_tbp": ["18:00-21:00"], "punta_domingo_festivos_tbp": ["19:00-22:00"] } },
+                { "portico_id": "5.4", "referencia_tramo": "Las Torres – Quilín", "longitud_km": 3.81, "peajes": { "categoria_1y4": { "TBFP": 370.13, "TBP": 740.26, "TS": 1110.40 }, "categoria_2": { "TBFP": 740.26, "TBP": 1480.53, "TS": 2220.80 }, "categoria_3": { "TBFP": 1110.39, "TBP": 2220.79, "TS": 3331.19 } }, "horarios": { "punta_laboral_tbp": ["8:30-9:30"], "saturacion_laboral_ts": ["7:30-8:30"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "5.2", "referencia_tramo": "Quilín – Grecia", "longitud_km": 2.89, "peajes": { "categoria_1y4": { "TBFP": 280.75, "TBP": 561.51, "TS": 842.27 }, "categoria_2": { "TBFP": 561.51, "TBP": 1123.03, "TS": 1684.54 }, "categoria_3": { "TBFP": 842.26, "TBP": 1684.54, "TS": 2526.81 } }, "horarios": { "punta_laboral_tbp": ["8:30-9:30"], "saturacion_laboral_ts": ["7:30-8:30"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [] } }
+              ]
+            },
+            {
+              "sentido": "ORIENTE-PONIENTE",
+              "porticos": [
+                { "portico_id": "5.1", "referencia_tramo": "Grecia – Quilín", "longitud_km": 1.21, "peajes": { "categoria_1y4": { "TBFP": 117.55, "TBP": 235.10, "TS": 352.65 }, "categoria_2": { "TBFP": 235.10, "TBP": 470.19, "TS": 705.29 }, "categoria_3": { "TBFP": 352.64, "TBP": 705.29, "TS": 1057.94 } }, "horarios": { "punta_laboral_tbp": [], "saturacion_laboral_ts": ["19:00-20:00"], "punta_sabado_tbp": ["13:00-15:00", "20:00-22:00"], "punta_domingo_festivos_tbp": ["20:00-22:00"] } },
+                { "portico_id": "5.3", "referencia_tramo": "Quilín – Las Torres", "longitud_km": 5.49, "peajes": { "categoria_1y4": { "TBFP": 533.34, "TBP": 1066.68, "TS": 1600.02 }, "categoria_2": { "TBFP": 1066.67, "TBP": 2133.36, "TS": 3200.04 }, "categoria_3": { "TBFP": 1600.01, "TBP": 3200.04, "TS": 4800.07 } }, "horarios": { "punta_laboral_tbp": [], "saturacion_laboral_ts": ["19:00-20:00"], "punta_sabado_tbp": ["13:00-15:00", "20:00-22:00"], "punta_domingo_festivos_tbp": ["20:00-22:00"] } },
+                { "portico_id": "4.1", "referencia_tramo": "Gnmo.de Alderete – Santa Julia", "longitud_km": 3.10, "peajes": { "categoria_1y4": { "TBFP": 301.16, "TBP": 602.31, "TS": null }, "categoria_2": { "TBFP": 602.31, "TBP": 1204.63, "TS": null }, "categoria_3": { "TBFP": 903.47, "TBP": 1806.94, "TS": null } }, "horarios": { "punta_laboral_tbp": [], "saturacion_laboral_ts": [], "punta_sabado_tbp": ["13:00-15:00", "20:00-22:00"], "punta_domingo_festivos_tbp": ["21:00-23:00"] } },
+                { "portico_id": "3.1", "referencia_tramo": "Santa Rosa – Gran Avenida", "longitud_km": 3.31, "peajes": { "categoria_1y4": { "TBFP": 321.56, "TBP": 643.12, "TS": 964.68 }, "categoria_2": { "TBFP": 643.11, "TBP": 1286.23, "TS": 1929.35 }, "categoria_3": { "TBFP": 964.67, "TBP": 1929.35, "TS": 2894.03 } }, "horarios": { "punta_laboral_tbp": ["8:30-9:30"], "saturacion_laboral_ts": ["7:30-8:30"], "punta_sabado_tbp": ["13:00-15:00", "20:00-22:00"], "punta_domingo_festivos_tbp": ["21:00-23:00"] } },
+                { "portico_id": "3.3", "referencia_tramo": "Gran Avenida – Ruta 5", "longitud_km": 2.59, "peajes": { "categoria_1y4": { "TBFP": 251.61, "TBP": 503.22, "TS": 754.84 }, "categoria_2": { "TBFP": 503.22, "TBP": 1006.45, "TS": 1509.67 }, "categoria_3": { "TBFP": 754.83, "TBP": 1509.67, "TS": 2264.51 } }, "horarios": { "punta_laboral_tbp": ["8:30-9:30"], "saturacion_laboral_ts": ["7:30-8:30"], "punta_sabado_tbp": ["13:00-15:00", "20:00-22:00"], "punta_domingo_festivos_tbp": ["21:00-23:00"] } },
+                { "portico_id": "2.1", "referencia_tramo": "Ruta 5 – General Velásquez", "longitud_km": 2.50, "peajes": { "categoria_1y4": { "TBFP": 242.87, "TBP": 485.74, "TS": 728.61 }, "categoria_2": { "TBFP": 485.74, "TBP": 971.48, "TS": 1457.22 }, "categoria_3": { "TBFP": 728.60, "TBP": 1457.21, "TS": 2185.82 } }, "horarios": { "punta_laboral_tbp": ["8:30-9:30"], "saturacion_laboral_ts": ["7:30-8:30"], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [] } },
+                { "portico_id": "1.1", "referencia_tramo": "General Velásquez – Ruta 78", "longitud_km": 5.30, "peajes": { "categoria_1y4": { "TBFP": 514.88, "TBP": 1029.76, "TS": null }, "categoria_2": { "TBFP": 1029.76, "TBP": 2059.53, "TS": null }, "categoria_3": { "TBFP": 1544.64, "TBP": 3089.29, "TS": null } }, "horarios": { "punta_laboral_tbp": [], "saturacion_laboral_ts": [], "punta_sabado_tbp": ["11:00-14:00", "19:00-22:00"], "punta_domingo_festivos_tbp": [] } }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre_autopista": "Concesión Américo Vespucio Oriente (AVO I)",
+      "tramo_descripcion": "Av. El Salto – Príncipe de Gales",
+      "año_tarifas": 2025,
+      "metadata": {
+        "tarifas_base_por_km": {
+          "area_1": {
+            "descripcion": "Área 1",
+            "TBFP": { "categoria_1y4": 222, "categoria_2": 444, "categoria_3": 666 },
+            "TBP": { "categoria_1y4": 444.00, "categoria_2": 888.00, "categoria_3": 1332.00 }
+          },
+          "area_2": {
+            "descripcion": "Área 2",
+            "TBFP": { "categoria_1y4": 108.00, "categoria_2": 216.00, "categoria_3": 324.00 },
+            "TBP": { "categoria_1y4": 216.00, "categoria_2": 432.00, "categoria_3": 648.00 }
+          }
+        },
+        "categorias_vehiculos": {
+          "categoria_1y4": "Autos y camionetas con y sin remolque, Motos, cuatrimotos y motonetas",
+          "categoria_2": "Buses y Camiones",
+          "categoria_3": "Camiones con remolque"
+        },
+        "tarifas_especiales": {
+          "cobro_por_pasada": { "categoria_1y4": 16398, "categoria_2": null, "categoria_3": 19597 },
+          "pase_diario": { "categoria_1y4": 1871, "categoria_2": null, "categoria_3": 138388 },
+          "infractores_sin_tag": { "categoria_1y4": 112796, "categoria_2": 129592, "categoria_3": 138388 }
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "ÁREA 1. DIRECCIÓN PRÍNCIPE DE GALES - EL SALTO",
+          "tramos": [
+            { "portico_entrada": "P101 Bilbao", "portico_salida": "P103 Los Militares", "longitud_km": 2.35, "peajes": { "categoria_1y4": { "TBFP": 522, "TBP": 1043 }, "categoria_2": { "TBFP": 1043, "TBP": 2087 }, "categoria_3": { "TBFP": 1565, "TBP": 3130 } } },
+            { "portico_entrada": "P101 Bilbao", "portico_salida": "P111 Cerro Colorado", "longitud_km": 2.77, "peajes": { "categoria_1y4": { "TBFP": 616, "TBP": 1232 }, "categoria_2": { "TBFP": 1232, "TBP": 2463 }, "categoria_3": { "TBFP": 1848, "TBP": 3695 } } },
+            { "portico_entrada": "P101 Bilbao", "portico_salida": "P105 Salida Kennedy Oriente", "longitud_km": 3.88, "peajes": { "categoria_1y4": { "TBFP": 861, "TBP": 1722 }, "categoria_2": { "TBFP": 1722, "TBP": 3443 }, "categoria_3": { "TBFP": 2583, "TBP": 5165 } } },
+            { "portico_entrada": "P101 Bilbao", "portico_salida": "P106 Salida Kennedy Poniente", "longitud_km": 3.62, "peajes": { "categoria_1y4": { "TBFP": 805, "TBP": 1609 }, "categoria_2": { "TBFP": 1609, "TBP": 3219 }, "categoria_3": { "TBFP": 2414, "TBP": 4828 } } },
+            { "portico_entrada": "P101 Bilbao", "portico_salida": "P108 Espoz - C. Goyenechea", "longitud_km": 4.24, "peajes": { "categoria_1y4": { "TBFP": 941, "TBP": 1881 }, "categoria_2": { "TBFP": 1881, "TBP": 3762 }, "categoria_3": { "TBFP": 2822, "TBP": 5644 } } },
+            { "portico_entrada": "P101 Bilbao", "portico_salida": "P109 Pte. Centenario", "longitud_km": 5.47, "peajes": { "categoria_1y4": { "TBFP": 1214, "TBP": 2429 }, "categoria_2": { "TBFP": 2429, "TBP": 4858 }, "categoria_3": { "TBFP": 3643, "TBP": 7287 } } },
+            { "portico_entrada": "P102 Martín de Zamora", "portico_salida": "P103 Los Militares", "longitud_km": 1.09, "peajes": { "categoria_1y4": { "TBFP": 243, "TBP": 485 }, "categoria_2": { "TBFP": 485, "TBP": 971 }, "categoria_3": { "TBFP": 728, "TBP": 1456 } } },
+            { "portico_entrada": "P102 Martín de Zamora", "portico_salida": "P111 Cerro Colorado", "longitud_km": 1.52, "peajes": { "categoria_1y4": { "TBFP": 337, "TBP": 674 }, "categoria_2": { "TBFP": 674, "TBP": 1348 }, "categoria_3": { "TBFP": 1011, "TBP": 2022 } } },
+            { "portico_entrada": "P102 Martín de Zamora", "portico_salida": "P105 Salida Kennedy Oriente", "longitud_km": 2.62, "peajes": { "categoria_1y4": { "TBFP": 582, "TBP": 1164 }, "categoria_2": { "TBFP": 1164, "TBP": 2328 }, "categoria_3": { "TBFP": 1746, "TBP": 3492 } } },
+            { "portico_entrada": "P102 Martín de Zamora", "portico_salida": "P106 Salida Kennedy Poniente", "longitud_km": 2.37, "peajes": { "categoria_1y4": { "TBFP": 526, "TBP": 1052 }, "categoria_2": { "TBFP": 1052, "TBP": 2103 }, "categoria_3": { "TBFP": 1577, "TBP": 3155 } } },
+            { "portico_entrada": "P102 Martín de Zamora", "portico_salida": "P108 Espoz - C. Goyenechea", "longitud_km": 2.98, "peajes": { "categoria_1y4": { "TBFP": 662, "TBP": 1323 }, "categoria_2": { "TBFP": 1323, "TBP": 2647 }, "categoria_3": { "TBFP": 1985, "TBP": 3970 } } },
+            { "portico_entrada": "P102 Martín de Zamora", "portico_salida": "P109 Pte. Centenario", "longitud_km": 4.21, "peajes": { "categoria_1y4": { "TBFP": 936, "TBP": 1871 }, "categoria_2": { "TBFP": 1871, "TBP": 3742 }, "categoria_3": { "TBFP": 2807, "TBP": 5614 } } },
+            { "portico_entrada": "P104 Presidente Riesco", "portico_salida": "P105 Salida Kennedy Oriente", "longitud_km": 1.29, "peajes": { "categoria_1y4": { "TBFP": 287, "TBP": 575 }, "categoria_2": { "TBFP": 575, "TBP": 1150 }, "categoria_3": { "TBFP": 862, "TBP": 1724 } } },
+            { "portico_entrada": "P104 Presidente Riesco", "portico_salida": "P106 Salida Kennedy Poniente", "longitud_km": 1.04, "peajes": { "categoria_1y4": { "TBFP": 231, "TBP": 462 }, "categoria_2": { "TBFP": 462, "TBP": 925 }, "categoria_3": { "TBFP": 694, "TBP": 1387 } } },
+            { "portico_entrada": "P104 Presidente Riesco", "portico_salida": "P108 Espoz - C. Goyenechea", "longitud_km": 1.65, "peajes": { "categoria_1y4": { "TBFP": 367, "TBP": 734 }, "categoria_2": { "TBFP": 734, "TBP": 1469 }, "categoria_3": { "TBFP": 1101, "TBP": 2203 } } },
+            { "portico_entrada": "P104 Presidente Riesco", "portico_salida": "P109 Pte. Centenario", "longitud_km": 2.89, "peajes": { "categoria_1y4": { "TBFP": 641, "TBP": 1282 }, "categoria_2": { "TBFP": 1282, "TBP": 2564 }, "categoria_3": { "TBFP": 1923, "TBP": 3846 } } },
+            { "portico_entrada": "P107 Kennedy-Vespucio", "portico_salida": "P108 Espoz - C. Goyenechea", "longitud_km": 1.61, "peajes": { "categoria_1y4": { "TBFP": 358, "TBP": 716 }, "categoria_2": { "TBFP": 716, "TBP": 1432 }, "categoria_3": { "TBFP": 1074, "TBP": 2148 } } },
+            { "portico_entrada": "P107 Kennedy-Vespucio", "portico_salida": "P109 Pte. Centenario", "longitud_km": 2.85, "peajes": { "categoria_1y4": { "TBFP": 632, "TBP": 1264 }, "categoria_2": { "TBFP": 1264, "TBP": 2528 }, "categoria_3": { "TBFP": 1896, "TBP": 3791 } } }
+          ],
+          "horarios": { "punta_laboral_tbp": ["07:30-09:30", "17:30-19:30"], "saturacion_laboral_ts": [], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [] }
+        },
+        {
+          "nombre_eje": "ÁREA 2. LA PIRÁMIDE",
+          "tramos": [
+            { "portico_entrada": "P110 La Pirámide", "portico_salida": "", "longitud_km": 2.300, "peajes": { "categoria_1y4": { "TBFP": 248, "TBP": 497 }, "categoria_2": { "TBFP": 497, "TBP": 994 }, "categoria_3": { "TBFP": 745, "TBP": 1490 } } }
+          ],
+          "horarios": { "punta_laboral_tbp": ["07:30-09:30", "17:30-19:30"], "saturacion_laboral_ts": [], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [] }
+        },
+        {
+          "nombre_eje": "ÁREA 1. DIRECCIÓN EL SALTO - PRÍNCIPE DE GALES",
+          "tramos": [
+            { "portico_entrada": "P201 C. Empresarial - El Salto", "portico_salida": "P203 Costanera Norte Oriente", "longitud_km": 2.31, "peajes": { "categoria_1y4": { "TBFP": 513, "TBP": 1026 }, "categoria_2": { "TBFP": 1026, "TBP": 2052 }, "categoria_3": { "TBFP": 1539, "TBP": 3078 } } },
+            { "portico_entrada": "P201 C. Empresarial - El Salto", "portico_salida": "P212 Escrivá de Balaguer", "longitud_km": 3.30, "peajes": { "categoria_1y4": { "TBFP": 732, "TBP": 1464 }, "categoria_2": { "TBFP": 1464, "TBP": 2928 }, "categoria_3": { "TBFP": 2196, "TBP": 4391 } } },
+            { "portico_entrada": "P201 C. Empresarial - El Salto", "portico_salida": "P204 C. Goyenechea", "longitud_km": 3.71, "peajes": { "categoria_1y4": { "TBFP": 823, "TBP": 1646 }, "categoria_2": { "TBFP": 1646, "TBP": 3293 }, "categoria_3": { "TBFP": 2469, "TBP": 4939 } } },
+            { "portico_entrada": "P201 C. Empresarial - El Salto", "portico_salida": "P103 Los Militares", "longitud_km": 6.55, "peajes": { "categoria_1y4": { "TBFP": 1453, "TBP": 2907 }, "categoria_2": { "TBFP": 2907, "TBP": 5814 }, "categoria_3": { "TBFP": 4360, "TBP": 8721 } } },
+            { "portico_entrada": "P201 C. Empresarial - El Salto", "portico_salida": "P210 Isabel la Católica", "longitud_km": 7.90, "peajes": { "categoria_1y4": { "TBFP": 1755, "TBP": 3509 }, "categoria_2": { "TBFP": 3509, "TBP": 7018 }, "categoria_3": { "TBFP": 5264, "TBP": 10527 } } },
+            { "portico_entrada": "P201 C. Empresarial - El Salto", "portico_salida": "P211 Tobalaba", "longitud_km": 8.62, "peajes": { "categoria_1y4": { "TBFP": 1913, "TBP": 3826 }, "categoria_2": { "TBFP": 3826, "TBP": 7652 }, "categoria_3": { "TBFP": 5739, "TBP": 11477 } } },
+            { "portico_entrada": "P202 Viaducto", "portico_salida": "P203 Costanera Norte Oriente", "longitud_km": 3.03, "peajes": { "categoria_1y4": { "TBFP": 673, "TBP": 1347 }, "categoria_2": { "TBFP": 1347, "TBP": 2693 }, "categoria_3": { "TBFP": 2020, "TBP": 4040 } } },
+            { "portico_entrada": "P202 Viaducto", "portico_salida": "P212 Escrivá de Balaguer", "longitud_km": 4.02, "peajes": { "categoria_1y4": { "TBFP": 892, "TBP": 1784 }, "categoria_2": { "TBFP": 1784, "TBP": 3569 }, "categoria_3": { "TBFP": 2677, "TBP": 5353 } } },
+            { "portico_entrada": "P202 Viaducto", "portico_salida": "P204 C. Goyenechea", "longitud_km": 4.43, "peajes": { "categoria_1y4": { "TBFP": 983, "TBP": 1967 }, "categoria_2": { "TBFP": 1967, "TBP": 3934 }, "categoria_3": { "TBFP": 2950, "TBP": 5901 } } },
+            { "portico_entrada": "P202 Viaducto", "portico_salida": "P103 Los Militares", "longitud_km": 7.27, "peajes": { "categoria_1y4": { "TBFP": 1614, "TBP": 3228 }, "categoria_2": { "TBFP": 3228, "TBP": 6455 }, "categoria_3": { "TBFP": 4841, "TBP": 9683 } } },
+            { "portico_entrada": "P202 Viaducto", "portico_salida": "P210 Isabel la Católica", "longitud_km": 8.63, "peajes": { "categoria_1y4": { "TBFP": 1915, "TBP": 3830 }, "categoria_2": { "TBFP": 3830, "TBP": 7659 }, "categoria_3": { "TBFP": 5744, "TBP": 11489 } } },
+            { "portico_entrada": "P202 Viaducto", "portico_salida": "P211 Tobalaba", "longitud_km": 9.34, "peajes": { "categoria_1y4": { "TBFP": 2073, "TBP": 4146 }, "categoria_2": { "TBFP": 4146, "TBP": 8293 }, "categoria_3": { "TBFP": 6220, "TBP": 12439 } } },
+            { "portico_entrada": "P205 Vitacura", "portico_salida": "P103 Los Militares", "longitud_km": 2.02, "peajes": { "categoria_1y4": { "TBFP": 448, "TBP": 896 }, "categoria_2": { "TBFP": 896, "TBP": 1792 }, "categoria_3": { "TBFP": 1344, "TBP": 2688 } } },
+            { "portico_entrada": "P205 Vitacura", "portico_salida": "P210 Isabel la Católica", "longitud_km": 3.37, "peajes": { "categoria_1y4": { "TBFP": 749, "TBP": 1498 }, "categoria_2": { "TBFP": 1498, "TBP": 2996 }, "categoria_3": { "TBFP": 2247, "TBP": 4494 } } },
+            { "portico_entrada": "P205 Vitacura", "portico_salida": "P211 Tobalaba", "longitud_km": 4.09, "peajes": { "categoria_1y4": { "TBFP": 907, "TBP": 1815 }, "categoria_2": { "TBFP": 1815, "TBP": 3630 }, "categoria_3": { "TBFP": 2722, "TBP": 5445 } } },
+            { "portico_entrada": "P107 Kennedy-Vespucio", "portico_salida": "P103 Los Militares", "longitud_km": 2.20, "peajes": { "categoria_1y4": { "TBFP": 488, "TBP": 976 }, "categoria_2": { "TBFP": 976, "TBP": 1951 }, "categoria_3": { "TBFP": 1463, "TBP": 2927 } } },
+            { "portico_entrada": "P107 Kennedy-Vespucio", "portico_salida": "P210 Isabel la Católica", "longitud_km": 3.55, "peajes": { "categoria_1y4": { "TBFP": 789, "TBP": 1578 }, "categoria_2": { "TBFP": 1578, "TBP": 3155 }, "categoria_3": { "TBFP": 2367, "TBP": 4733 } } },
+            { "portico_entrada": "P107 Kennedy-Vespucio", "portico_salida": "P211 Tobalaba", "longitud_km": 4.27, "peajes": { "categoria_1y4": { "TBFP": 947, "TBP": 1894 }, "categoria_2": { "TBFP": 1894, "TBP": 3789 }, "categoria_3": { "TBFP": 2842, "TBP": 5683 } } },
+            { "portico_entrada": "P206 Kennedy-Vespucio Sur", "portico_salida": "P210 Isabel la Católica", "longitud_km": 2.78, "peajes": { "categoria_1y4": { "TBFP": 617, "TBP": 1234 }, "categoria_2": { "TBFP": 1234, "TBP": 2468 }, "categoria_3": { "TBFP": 1851, "TBP": 3701 } } },
+            { "portico_entrada": "P206 Kennedy-Vespucio Sur", "portico_salida": "P211 Tobalaba", "longitud_km": 3.49, "peajes": { "categoria_1y4": { "TBFP": 775, "TBP": 1550 }, "categoria_2": { "TBFP": 1550, "TBP": 3101 }, "categoria_3": { "TBFP": 2326, "TBP": 4651 } } },
+            { "portico_entrada": "P209 Cristobal Colón", "portico_salida": "P211 Tobalaba", "longitud_km": 1.20, "peajes": { "categoria_1y4": { "TBFP": 266, "TBP": 533 }, "categoria_2": { "TBFP": 533, "TBP": 1066 }, "categoria_3": { "TBFP": 799, "TBP": 1598 } } }
+          ],
+          "horarios": { "punta_laboral_tbp": ["07:30-09:30", "17:30-19:30"], "saturacion_laboral_ts": [], "punta_sabado_tbp": [], "punta_domingo_festivos_tbp": [] }
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Túnel San Cristóbal",
+      "tramo_descripcion": "Variante Vespucio - El Salto - Kennedy",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "categoria_1y4": "Motos - Autos - Camionetas",
+          "categoria_2": "Buses - Camiones",
+          "categoria_3": "Camiones con remolque"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "EJE PRINCIPAL",
+          "usuarios_con_tag": {
+            "tarifas_base_fuera_punta": [
+              { "sentido": "El Salto - Kennedy", "tipo_tarifa": "TBFP", "peajes": { "categoria_1y4": 546, "categoria_2": 1639, "categoria_3": 2732 } },
+              { "sentido": "Kennedy - El Salto", "tipo_tarifa": "TBFP", "peajes": { "categoria_1y4": 437, "categoria_2": 1312, "categoria_3": 2186 } }
+            ],
+            "tarifas_punta_saturacion": [
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Laboral", "horario": "07:00 a 07:30", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 874, "categoria_2": 2623, "categoria_3": 4372 } },
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Laboral", "horario": "07:30 a 09:30", "tipo_tarifa": "TS", "peajes": { "categoria_1y4": 1093, "categoria_2": 3279, "categoria_3": 5465 } },
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Laboral", "horario": "09:30 a 11:30", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 874, "categoria_2": 2623, "categoria_3": 4372 } },
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Laboral", "horario": "15:30 a 16:00", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 874, "categoria_2": 2623, "categoria_3": 4372 } },
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Laboral", "horario": "16:30 a 17:30", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 874, "categoria_2": 2623, "categoria_3": 4372 } },
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Laboral", "horario": "17:30 a 20:30", "tipo_tarifa": "TS", "peajes": { "categoria_1y4": 1093, "categoria_2": 3279, "categoria_3": 5465 } },
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Sábado", "horario": "10:00 a 14:00", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 874, "categoria_2": 2623, "categoria_3": 4372 } },
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Festivo", "horario": "10:00 a 14:00", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 874, "categoria_2": 2623, "categoria_3": 4372 } },
+              { "sentido": "Kennedy - El Salto", "tipo_dia": "Laboral", "horario": "07:00 a 10:00", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 656, "categoria_2": 1967, "categoria_3": 3279 } },
+              { "sentido": "Kennedy - El Salto", "tipo_dia": "Laboral", "horario": "17:30 a 20:30", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 656, "categoria_2": 1967, "categoria_3": 3279 } },
+              { "sentido": "Kennedy - El Salto", "tipo_dia": "Sábado", "horario": "10:00 a 14:00", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 656, "categoria_2": 1967, "categoria_3": 3279 } },
+              { "sentido": "Kennedy - El Salto", "tipo_dia": "Domingo", "horario": "17:00 a 21:00", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 656, "categoria_2": 1967, "categoria_3": 3279 } },
+              { "sentido": "Kennedy - El Salto", "tipo_dia": "Festivo", "horario": "10:00 a 14:00", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 656, "categoria_2": 1967, "categoria_3": 3279 } }
+            ]
+          },
+          "usuarios_sin_tag": {
+            "tarifas_base_fuera_punta": [
+              { "sentido": "El Salto - Kennedy", "tipo_tarifa": "TBFP", "peajes": { "categoria_1y4": 3058, "categoria_2": 9178, "categoria_3": 15299 } },
+              { "sentido": "Kennedy - El Salto", "tipo_tarifa": "TBFP", "peajes": { "categoria_1y4": 2447, "categoria_2": 7347, "categoria_3": 12242 } }
+            ],
+            "tarifas_punta_saturacion": [
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Laboral", "horario": "07:00 a 07:30", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 4894, "categoria_2": 14689, "categoria_3": 24483 } },
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Laboral", "horario": "07:30 a 09:30", "tipo_tarifa": "TS", "peajes": { "categoria_1y4": 6121, "categoria_2": 18362, "categoria_3": 30604 } },
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Laboral", "horario": "09:30 a 11:30", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 4894, "categoria_2": 14689, "categoria_3": 24483 } },
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Laboral", "horario": "15:30 a 16:00", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 4894, "categoria_2": 14689, "categoria_3": 24483 } },
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Laboral", "horario": "16:30 a 17:30", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 4894, "categoria_2": 14689, "categoria_3": 24483 } },
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Laboral", "horario": "17:30 a 20:30", "tipo_tarifa": "TS", "peajes": { "categoria_1y4": 6121, "categoria_2": 18362, "categoria_3": 30604 } },
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Sábado", "horario": "10:00 a 14:00", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 4894, "categoria_2": 14689, "categoria_3": 24483 } },
+              { "sentido": "El Salto - Kennedy", "tipo_dia": "Festivo", "horario": "10:00 a 14:00", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 4894, "categoria_2": 14689, "categoria_3": 24483 } },
+              { "sentido": "Kennedy - El Salto", "tipo_dia": "Laboral", "horario": "07:00 a 10:00", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 3674, "categoria_2": 11015, "categoria_3": 18362 } },
+              { "sentido": "Kennedy - El Salto", "tipo_dia": "Laboral", "horario": "17:30 a 20:30", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 3674, "categoria_2": 11015, "categoria_3": 18362 } },
+              { "sentido": "Kennedy - El Salto", "tipo_dia": "Sábado", "horario": "10:00 a 14:00", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 3674, "categoria_2": 11015, "categoria_3": 18362 } },
+              { "sentido": "Kennedy - El Salto", "tipo_dia": "Domingo", "horario": "17:00 a 21:00", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 3674, "categoria_2": 11015, "categoria_3": 18362 } },
+              { "sentido": "Kennedy - El Salto", "tipo_dia": "Festivo", "horario": "10:00 a 14:00", "tipo_tarifa": "TBP", "peajes": { "categoria_1y4": 3674, "categoria_2": 11015, "categoria_3": 18362 } }
+            ]
+          }
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Autovía Santiago - Lampa",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "autos_y_camionetas": "Autos y camionetas con remolque y sin remolque",
+          "buses_y_camiones": "Buses y camiones",
+          "buses_y_camiones_con_remolque": "Buses y camiones con remolque",
+          "motos_y_motonetas": "Motos y Motonetas"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "TARIFA BASE FUERA DE PUNTA (TBFP)",
+          "porticos": [
+            { "nombre": "Paso superior Lo Marcoleta", "peajes": { "autos_y_camionetas": 175, "buses_y_camiones": 315, "buses_y_camiones_con_remolque": 560, "motos_y_motonetas": 52.5 } },
+            { "nombre": "Enlace Buenaventura", "peajes": { "autos_y_camionetas": 211, "buses_y_camiones": 379.8, "buses_y_camiones_con_remolque": 675.2, "motos_y_motonetas": 63.3 } },
+            { "nombre": "Paso superior La Montaña", "peajes": { "autos_y_camionetas": 384, "buses_y_camiones": 691.2, "buses_y_camiones_con_remolque": 1228.8, "motos_y_motonetas": 115.2 } },
+            { "nombre": "Enlace Lo Pinto", "peajes": { "autos_y_camionetas": 470, "buses_y_camiones": 846, "buses_y_camiones_con_remolque": 1504, "motos_y_motonetas": 141 } }
+          ]
+        },
+        {
+          "nombre_eje": "TARIFA BASE PUNTA (TBP)",
+          "porticos": [
+            { "nombre": "Paso superior Lo Marcoleta", "peajes": { "autos_y_camionetas": 350, "buses_y_camiones": 630, "buses_y_camiones_con_remolque": 1120, "motos_y_motonetas": 105 } },
+            { "nombre": "Enlace Buenaventura", "peajes": { "autos_y_camionetas": 422, "buses_y_camiones": 759.6, "buses_y_camiones_con_remolque": 1350.4, "motos_y_motonetas": 126.6 } },
+            { "nombre": "Paso superior La Montaña", "peajes": { "autos_y_camionetas": 768, "buses_y_camiones": 1382.4, "buses_y_camiones_con_remolque": 2457.6, "motos_y_motonetas": 230.4 } },
+            { "nombre": "Enlace Lo Pinto", "peajes": { "autos_y_camionetas": 940, "buses_y_camiones": 1692, "buses_y_camiones_con_remolque": 3008, "motos_y_motonetas": 282 } }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Acceso Nororiente",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "autos_y_camionetas": "Autos y Camionetas, con y sin remolque",
+          "camiones_buses_dos_ejes": "Camiones y buses de dos ejes, camionetas de doble rueda trasera, maquinaria agrícola y maquinaria de construcción",
+          "camiones_buses_mas_dos_ejes": "Camiones y buses de más de dos ejes",
+          "motos": "Motos"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "SECTOR PONIENTE",
+          "tarifas": [
+            { "tipo": "NORMAL", "peajes": { "autos_y_camionetas": 2563, "camiones_buses_dos_ejes": 4613, "camiones_buses_mas_dos_ejes": 8201, "motos": 769 } },
+            { "tipo": "PUNTA", "peajes": { "autos_y_camionetas": 3844, "camiones_buses_dos_ejes": 6920, "camiones_buses_mas_dos_ejes": 12302, "motos": 1153 } }
+          ]
+        },
+        {
+          "nombre_eje": "SECTOR ORIENTE",
+          "tarifas": [
+            { "tipo": "NORMAL", "peajes": { "autos_y_camionetas": 3844, "camiones_buses_dos_ejes": 6920, "camiones_buses_mas_dos_ejes": 12302, "motos": 1153 } },
+            { "tipo": "PUNTA", "peajes": { "autos_y_camionetas": 5766, "camiones_buses_dos_ejes": 10379, "camiones_buses_mas_dos_ejes": 18452, "motos": 1730 } }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Acceso Vial AMB",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "autos_y_camionetas": "Autos y Camionetas con o sin remolque",
+          "camiones_y_buses": "Camiones y Buses",
+          "camiones_con_remolque": "Camiones con remolque",
+          "motos_y_motonetas": "Motos y Motonetas"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "TARIFA GENERAL",
+          "tarifas": [
+            {
+              "tipo_cobro": "PÓRTICO (TAG)",
+              "peajes": {
+                "autos_y_camionetas": 847,
+                "camiones_y_buses": 1694,
+                "camiones_con_remolque": 2541,
+                "motos_y_motonetas": 847
+              }
+            },
+            {
+              "tipo_cobro": "MANUAL",
+              "peajes": {
+                "autos_y_camionetas": 1700,
+                "camiones_y_buses": 2550,
+                "camiones_con_remolque": 3400,
+                "motos_y_motonetas": 1700
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre_autopista": "Ruta 5 Norte",
+      "tramo_descripcion": "Vallenar - Caldera",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos_y_motonetas": "Motos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas con y sin remolque",
+          "buses_dos_ejes": "Buses de dos ejes",
+          "camiones_dos_ejes_especial": "Camiones de dos ejes, camionetas de doble rueda trasera, maquinaria agrícola, maquinaria de construcción",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES TRONCALES",
+          "porticos": [
+            {
+              "nombre": "Puerto Viejo Troncal",
+              "peajes": {
+                "motos_y_motonetas": 450,
+                "autos_y_camionetas": 1550,
+                "buses_dos_ejes": 2800,
+                "camiones_dos_ejes_especial": 4700,
+                "buses_mas_dos_ejes": 5000,
+                "camiones_mas_dos_ejes": 6300
+              }
+            },
+            {
+              "nombre": "Totoral Troncal",
+              "peajes": {
+                "motos_y_motonetas": 750,
+                "autos_y_camionetas": 2600,
+                "buses_dos_ejes": 4700,
+                "camiones_dos_ejes_especial": 7850,
+                "buses_mas_dos_ejes": 8400,
+                "camiones_mas_dos_ejes": 10500
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre_autopista": "Ruta 5 Norte",
+      "tramo_descripcion": "La Serena - Vallenar",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos_y_motonetas": "Motos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas con y sin remolque",
+          "buses_dos_ejes": "Buses de dos ejes",
+          "camiones_dos_ejes_especial": "Camiones de dos ejes, camionetas de doble rueda trasera, maquinarias agrícolas, maquinarias de construcción",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes",
+          "vehiculos_sobredimensionados": "Vehículos que superan las dimensiones máximas permitidas"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES TRONCALES",
+          "porticos": [
+            {
+              "nombre": "Cachiyuyo Troncal",
+              "peajes": {
+                "motos_y_motonetas": 850,
+                "autos_y_camionetas": 2900,
+                "buses_dos_ejes": 5200,
+                "camiones_dos_ejes_especial": 8700,
+                "buses_mas_dos_ejes": 9300,
+                "camiones_mas_dos_ejes": 11700,
+                "vehiculos_sobredimensionados": 23400
+              }
+            },
+            {
+              "nombre": "Punta Colorada",
+              "peajes": {
+                "motos_y_motonetas": 850,
+                "autos_y_camionetas": 2900,
+                "buses_dos_ejes": 5200,
+                "camiones_dos_ejes_especial": 8700,
+                "buses_mas_dos_ejes": 9300,
+                "camiones_mas_dos_ejes": 11700,
+                "vehiculos_sobredimensionados": 23400
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta 5 Norte",
+      "tramo_descripcion": "Los Vilos - La Serena",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos": "Motos, Cuatrimotos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas con o sin remolque, camionetas de doble rueda trasera",
+          "buses_dos_ejes": "Buses de dos ejes y casas rodantes",
+          "camiones_dos_ejes": "Camiones de dos ejes, maquinaria agrícola y maquinaria de construcción de dos ejes",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes, maquinaria agrícola y de construcción de más de dos ejes y vehículos con sobredimensión"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Laterales (Combarbalá / Ovalle / Tongoy / Guanaqueros)",
+              "tipo": "Lateral",
+              "peajes": {
+                "motos": 300,
+                "autos_y_camionetas": 1050,
+                "buses_dos_ejes": 1900,
+                "camiones_dos_ejes": 1900,
+                "buses_mas_dos_ejes": 3350,
+                "camiones_mas_dos_ejes": 3350
+              }
+            },
+            {
+              "nombre": "Troncales (Norte y Sur)",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos": 1200,
+                "autos_y_camionetas": 4050,
+                "buses_dos_ejes": 7300,
+                "camiones_dos_ejes": 7300,
+                "buses_mas_dos_ejes": 12950,
+                "camiones_mas_dos_ejes": 12950
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta 5 Norte",
+      "tramo_descripcion": "Santiago - Los Vilos",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "autos_y_camionetas_rsr": "Autos y camionetas con remolque y sin remolque",
+          "buses_y_camiones": "Buses y camiones",
+          "buses_y_camiones_cr": "Buses y camiones con remolque",
+          "motos_y_motonetas": "Motos y Motonetas",
+          "buses_y_camiones_2_ejes": "Buses y camiones de 2 ejes",
+          "buses_y_camiones_mas_2_ejes_csr": "Buses y camiones de más de 2 ejes, con o sin remolque"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "TARIFA BASE FUERA DE PUNTA (TBFP) - PÓRTICOS LATERALES",
+          "porticos": [
+            { "nombre": "Paso superior Lo Marcoleta", "peajes": { "autos_y_camionetas_rsr": 175, "buses_y_camiones": 315, "buses_y_camiones_cr": 560, "motos_y_motonetas": 52.5 } },
+            { "nombre": "Enlace Buenaventura", "peajes": { "autos_y_camionetas_rsr": 211, "buses_y_camiones": 379.8, "buses_y_camiones_cr": 675.2, "motos_y_motonetas": 63.3 } },
+            { "nombre": "Paso superior La Montaña", "peajes": { "autos_y_camionetas_rsr": 384, "buses_y_camiones": 691.2, "buses_y_camiones_cr": 1228.8, "motos_y_motonetas": 115.2 } },
+            { "nombre": "Enlace Lo Pinto", "peajes": { "autos_y_camionetas_rsr": 470, "buses_y_camiones": 846, "buses_y_camiones_cr": 1504, "motos_y_motonetas": 141 } }
+          ]
+        },
+        {
+          "nombre_eje": "TARIFA BASE PUNTA (TBP) - PÓRTICOS LATERALES",
+          "porticos": [
+            { "nombre": "Paso superior Lo Marcoleta", "peajes": { "autos_y_camionetas_rsr": 350, "buses_y_camiones": 630, "buses_y_camiones_cr": 1120, "motos_y_motonetas": 105 } },
+            { "nombre": "Enlace Buenaventura", "peajes": { "autos_y_camionetas_rsr": 422, "buses_y_camiones": 759.6, "buses_y_camiones_cr": 1350.4, "motos_y_motonetas": 126.6 } },
+            { "nombre": "Paso superior La Montaña", "peajes": { "autos_y_camionetas_rsr": 768, "buses_y_camiones": 1382.4, "buses_y_camiones_cr": 2457.6, "motos_y_motonetas": 230.4 } },
+            { "nombre": "Enlace Lo Pinto", "peajes": { "autos_y_camionetas_rsr": 940, "buses_y_camiones": 1692, "buses_y_camiones_cr": 3008, "motos_y_motonetas": 282 } }
+          ]
+        },
+        {
+          "nombre_eje": "TARIFA BASE PUNTA (TBP) - PLAZAS DE PEAJE TRONCAL",
+          "porticos": [
+            { "nombre": "Plaza de peaje Lampa", "peajes": { "autos_y_camionetas_rsr": 900, "buses_y_camiones_2_ejes": 1600, "buses_y_camiones_mas_2_ejes_csr": 2800, "motos_y_motonetas": 300 } },
+            { "nombre": "Plaza de peaje Las Vegas", "peajes": { "autos_y_camionetas_rsr": 2800, "buses_y_camiones_2_ejes": 5100, "buses_y_camiones_mas_2_ejes_csr": 9000, "motos_y_motonetas": 800 } },
+            { "nombre": "Plaza de peaje Pichidangui", "peajes": { "autos_y_camionetas_rsr": 2800, "buses_y_camiones_2_ejes": 5100, "buses_y_camiones_mas_2_ejes_csr": 9000, "motos_y_motonetas": 800 } }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Túnel El Melón",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "autos_y_camionetas": "Autos y camionetas (con y sin remolque)",
+          "buses_y_camiones_dos_ejes": "Buses y camiones de dos ejes",
+          "buses_y_camiones_mas_dos_ejes": "Buses y camiones de más de dos ejes, con o sin remolque",
+          "motos_y_motonetas": "Motos y motonetas"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJE PRINCIPAL",
+          "tarifas": [
+            {
+              "tipo": "Tarifa Única (Manual y electrónico)",
+              "peajes": {
+                "autos_y_camionetas": 2800,
+                "buses_y_camiones_dos_ejes": 5100,
+                "buses_y_camiones_mas_dos_ejes": 9000,
+                "motos_y_motonetas": 800
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta 5 Sur",
+      "tramo_descripcion": "Santiago - Talca",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos_y_motonetas": "Motos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas",
+          "autos_y_camionetas_con_remolque": "Autos y camionetas con remolque",
+          "buses_dos_ejes": "Buses de dos ejes",
+          "camiones_dos_ejes": "Camiones de dos ejes",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Troncal Ruta 5",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos_y_motonetas": 1100,
+                "autos_y_camionetas": 3700,
+                "autos_y_camionetas_con_remolque": 5500,
+                "buses_dos_ejes": 6700,
+                "camiones_dos_ejes": 6700,
+                "buses_mas_dos_ejes": 11800,
+                "camiones_mas_dos_ejes": 11800
+              }
+            },
+            {
+              "nombre": "Lateral Ruta 5",
+              "tipo": "Lateral",
+              "peajes": {
+                "motos_y_motonetas": 300,
+                "autos_y_camionetas": 900,
+                "autos_y_camionetas_con_remolque": 1300,
+                "buses_dos_ejes": 1600,
+                "camiones_dos_ejes": 1600,
+                "buses_mas_dos_ejes": 2800,
+                "camiones_mas_dos_ejes": 2800
+              }
+            },
+            {
+              "nombre": "Troncal Río Maipo",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos_y_motonetas": 300,
+                "autos_y_camionetas": 1300,
+                "autos_y_camionetas_con_remolque": 1800,
+                "buses_dos_ejes": 2300,
+                "camiones_dos_ejes": 2300,
+                "buses_mas_dos_ejes": 4000,
+                "camiones_mas_dos_ejes": 4000
+              }
+            },
+            {
+              "nombre": "Laterales Acceso Sur",
+              "tipo": "Lateral",
+              "peajes": {
+                "motos_y_motonetas": 200,
+                "autos_y_camionetas": 700,
+                "autos_y_camionetas_con_remolque": 1000,
+                "buses_dos_ejes": 1300,
+                "camiones_dos_ejes": 1300,
+                "buses_mas_dos_ejes": 2300,
+                "camiones_mas_dos_ejes": 2300
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta 5 Sur",
+      "tramo_descripcion": "Talca - Chillán",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos": "Motos, cuatrimotos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas",
+          "autos_y_camionetas_con_remolque": "Autos con remolque y camionetas con remolque",
+          "buses_dos_ejes": "Buses de dos ejes y casas rodantes",
+          "camiones_dos_ejes": "Camiones de dos ejes, maquinaria agrícola y maquinaria de construcción de dos ejes",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes, maquinaria agrícola de más de dos ejes, maquinaria de construcción de más de dos ejes y vehículos con sobredimensión"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Troncal",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos": 900,
+                "autos_y_camionetas": 3100,
+                "autos_y_camionetas_con_remolque": 4700,
+                "buses_dos_ejes": 5600,
+                "camiones_dos_ejes": 5600,
+                "buses_mas_dos_ejes": 10000,
+                "camiones_mas_dos_ejes": 10000
+              }
+            },
+            {
+              "nombre": "Lateral",
+              "tipo": "Lateral",
+              "peajes": {
+                "motos": 200,
+                "autos_y_camionetas": 800,
+                "autos_y_camionetas_con_remolque": 1200,
+                "buses_dos_ejes": 1400,
+                "camiones_dos_ejes": 1400,
+                "buses_mas_dos_ejes": 2500,
+                "camiones_mas_dos_ejes": 2500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta 5 Sur",
+      "tramo_descripcion": "Chillán - Collipulli",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos": "Motos, cuatrimotos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas",
+          "autos_y_camionetas_con_remolque": "Autos y camionetas con remolque",
+          "buses_dos_ejes": "Buses de dos ejes y casas rodantes",
+          "camiones_dos_ejes": "Camiones de dos ejes",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Troncales",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos": 1000,
+                "autos_y_camionetas": 3200,
+                "autos_y_camionetas_con_remolque": 4800,
+                "buses_dos_ejes": 5800,
+                "camiones_dos_ejes": 5800,
+                "buses_mas_dos_ejes": 10300,
+                "camiones_mas_dos_ejes": 10300
+              }
+            },
+            {
+              "nombre": "Laterales",
+              "tipo": "Lateral",
+              "peajes": {
+                "motos": 200,
+                "autos_y_camionetas": 800,
+                "autos_y_camionetas_con_remolque": 1200,
+                "buses_dos_ejes": 1500,
+                "camiones_dos_ejes": 1500,
+                "buses_mas_dos_ejes": 2600,
+                "camiones_mas_dos_ejes": 2600
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta 5 Sur",
+      "tramo_descripcion": "Collipulli - Temuco",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos_y_motonetas": "Motos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas",
+          "autos_y_camionetas_con_remolque": "Autos y camionetas con remolque",
+          "buses_dos_ejes": "Buses de dos ejes",
+          "camiones_dos_ejes": "Camiones de dos ejes",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Lateral",
+              "tipo": "Lateral",
+              "peajes": {
+                "motos_y_motonetas": 300,
+                "autos_y_camionetas": 800,
+                "autos_y_camionetas_con_remolque": 1300,
+                "buses_dos_ejes": 1500,
+                "camiones_dos_ejes": 1500,
+                "buses_mas_dos_ejes": 2700,
+                "camiones_mas_dos_ejes": 2700
+              }
+            },
+            {
+              "nombre": "Troncal",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos_y_motonetas": 1000,
+                "autos_y_camionetas": 3400,
+                "autos_y_camionetas_con_remolque": 5000,
+                "buses_dos_ejes": 6200,
+                "camiones_dos_ejes": 6200,
+                "buses_mas_dos_ejes": 11000,
+                "camiones_mas_dos_ejes": 11000
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta 5 Sur",
+      "tramo_descripcion": "Temuco - Río Bueno",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "autos_y_camionetas": "Autos, camionetas y station wagons con uno o más ejes adicionales",
+          "camiones_y_buses_dos_ejes": "Camiones y buses de dos ejes, maquinaria agrícola, maquinaria de construcción y camionetas de doble rueda trasera",
+          "camiones_y_buses_mas_dos_ejes": "Camiones y buses de más de dos ejes",
+          "motos": "Motos"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Lateral",
+              "tipo": "Lateral",
+              "peajes": {
+                "autos_y_camionetas": 900,
+                "camiones_y_buses_dos_ejes": 1600,
+                "camiones_y_buses_mas_dos_ejes": 2800,
+                "motos": 300
+              }
+            },
+            {
+              "nombre": "Troncal",
+              "tipo": "Troncal",
+              "peajes": {
+                "autos_y_camionetas": 3500,
+                "camiones_y_buses_dos_ejes": 6300,
+                "camiones_y_buses_mas_dos_ejes": 11200,
+                "motos": 1100
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre_autopista": "Ruta 5 Sur",
+      "tramo_descripcion": "Río Bueno - Puerto Montt",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "autos_y_camionetas": "Autos, camionetas y station wagons con uno o más ejes adicionales",
+          "camiones_y_buses_dos_ejes": "Camiones y buses de dos ejes, maquinaria agrícola, maquinaria de construcción y camionetas de doble rueda trasera",
+          "camiones_y_buses_mas_dos_ejes": "Camiones y buses de más de dos ejes",
+          "motos": "Motos"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Lateral",
+              "tipo": "Lateral",
+              "peajes": {
+                "autos_y_camionetas": 900,
+                "camiones_y_buses_dos_ejes": 1600,
+                "camiones_y_buses_mas_dos_ejes": 2800,
+                "motos": 300
+              }
+            },
+            {
+              "nombre": "Troncal",
+              "tipo": "Troncal",
+              "peajes": {
+                "autos_y_camionetas": 3500,
+                "camiones_y_buses_dos_ejes": 6300,
+                "camiones_y_buses_mas_dos_ejes": 11200,
+                "motos": 1100
+              }
+            },
+            {
+              "nombre": "Troncal By Pass Puerto Montt",
+              "tipo": "Troncal",
+              "peajes": {
+                "autos_y_camionetas": 1100,
+                "camiones_y_buses_dos_ejes": 1900,
+                "camiones_y_buses_mas_dos_ejes": 3400,
+                "motos": 300
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta 5 Sur",
+      "tramo_descripcion": "Puerto Montt - Pargua",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos_y_motonetas": "Motos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas con y sin remolque",
+          "buses_dos_ejes": "Buses de dos ejes",
+          "camiones_dos_ejes_especial": "Camiones de dos ejes, camionetas de doble rueda trasera, maquinarias agrícolas y maquinarias de construcción",
+          "buses_mas_dos_ejes": "Buses de más dos ejes",
+          "camiones_mas_dos_ejes": "Camión de más dos ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Troncal",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos_y_motonetas": 900,
+                "autos_y_camionetas": 3000,
+                "buses_dos_ejes": 5400,
+                "camiones_dos_ejes_especial": 9000,
+                "buses_mas_dos_ejes": 9600,
+                "camiones_mas_dos_ejes": 12000
+              }
+            },
+            {
+              "nombre": "Trapén",
+              "tipo": "Lateral",
+              "peajes": {
+                "motos_y_motonetas": 250,
+                "autos_y_camionetas": 850,
+                "buses_dos_ejes": 1500,
+                "camiones_dos_ejes_especial": 2550,
+                "buses_mas_dos_ejes": 2700,
+                "camiones_mas_dos_ejes": 3400
+              }
+            },
+            {
+              "nombre": "Maullín",
+              "tipo": "Lateral",
+              "peajes": {
+                "motos_y_motonetas": 150,
+                "autos_y_camionetas": 600,
+                "buses_dos_ejes": 1150,
+                "camiones_dos_ejes_especial": 1900,
+                "buses_mas_dos_ejes": 2050,
+                "camiones_mas_dos_ejes": 2550
+              }
+            },
+            {
+              "nombre": "Calbuco",
+              "tipo": "Lateral",
+              "peajes": {
+                "motos_y_motonetas": 400,
+                "autos_y_camionetas": 1350,
+                "buses_dos_ejes": 2500,
+                "camiones_dos_ejes_especial": 4150,
+                "buses_mas_dos_ejes": 4450,
+                "camiones_mas_dos_ejes": 5550
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Rutas Transversales Antofagasta",
+      "tramo_descripcion": "Antofagasta",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos_y_motonetas": "Motos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas con y sin remolque",
+          "buses_dos_ejes": "Buses de dos ejes que no superen las dimensiones máximas permitidas",
+          "camiones_dos_ejes": "Camiones de dos de ejes, camionetas doble rueda trasera, maquinarias agrícolas y maquinarias de construcción que no superen las dimensiones máx. permitidas",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes que no superen las dimensiones máx. permitidas",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes que no superen las dimensiones máx. permitidas",
+          "vehiculos_sobredimensionados_1": "Vehículos que superan las dimensiones máx. permitidas, con ancho mayor a 2,6 mts. y ≤ 4,5 mts. y/o largo mayor a 23 mts. y ≤ 30 mts. independiente del nº de ejes",
+          "vehiculos_sobredimensionados_2": "Vehículos que superan las dimensiones máx. permitidas, con ancho mayor a 4,5 mts. y/o largo mayor a 30 mts. independiente del nº de ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Troncal Ruta 1",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos_y_motonetas": 750,
+                "autos_y_camionetas": 1650,
+                "buses_dos_ejes": 4750,
+                "camiones_dos_ejes": 8500,
+                "buses_mas_dos_ejes": 8500,
+                "camiones_mas_dos_ejes": 13300,
+                "vehiculos_sobredimensionados_1": 26600,
+                "vehiculos_sobredimensionados_2": 53250
+              }
+            },
+            {
+              "nombre": "Acceso Aeropuerto",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos_y_motonetas": 500,
+                "autos_y_camionetas": 1100,
+                "buses_dos_ejes": 3150,
+                "camiones_dos_ejes": 5650,
+                "buses_mas_dos_ejes": 5650,
+                "camiones_mas_dos_ejes": 8850,
+                "vehiculos_sobredimensionados_1": 17750,
+                "vehiculos_sobredimensionados_2": 35500
+              }
+            },
+            {
+              "nombre": "Troncal Ruta 5",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos_y_motonetas": 1300,
+                "autos_y_camionetas": 2750,
+                "buses_dos_ejes": 7950,
+                "camiones_dos_ejes": 14200,
+                "buses_mas_dos_ejes": 14200,
+                "camiones_mas_dos_ejes": 22200,
+                "vehiculos_sobredimensionados_1": 44400,
+                "vehiculos_sobredimensionados_2": 88800
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Acceso Iquique",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos_y_motonetas": "Motos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas con y sin remolque",
+          "buses_dos_ejes": "Buses de dos ejes",
+          "camiones_dos_ejes_especial": "Camiones de dos ejes, camionetas doble rueda trasera, maquinaria agrícola y maquinaria de construcción",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Troncal Ruta 1",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos_y_motonetas": 450,
+                "autos_y_camionetas": 1500,
+                "buses_dos_ejes": 2700,
+                "camiones_dos_ejes_especial": 4550,
+                "buses_mas_dos_ejes": 4850,
+                "camiones_mas_dos_ejes": 7600
+              }
+            },
+            {
+              "nombre": "Troncal Ruta 16",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos_y_motonetas": 650,
+                "autos_y_camionetas": 2250,
+                "buses_dos_ejes": 4100,
+                "camiones_dos_ejes_especial": 6800,
+                "buses_mas_dos_ejes": 7300,
+                "camiones_mas_dos_ejes": 11400
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Rutas del Loa",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos": "Motos, cuatrimotos y motonetas",
+          "autos_y_camionetas": "Autos, camionetas, station wagon, furgones y camionetas de doble rueda trasera, con o sin remolque",
+          "buses_dos_ejes": "Buses de dos ejes que no superen las dimensiones máximas permitidas",
+          "camiones_dos_ejes": "Camiones de dos ejes, maquinarias agrícolas y maquinarias de construcción que no superen las dimensiones máximas permitidas",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes que no superen las dimensiones máximas permitidas",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes que no superen las dimensiones máximas permitidas",
+          "vehiculos_sobredimensionados_1": "Vehículos que superan las dimensiones máximas permitidas, con ancho mayor a 2,6 metros y menor o igual a 4,5 metros o largo mayor a 23 metro y menor o igual a 30 metros independiente del número de ejes",
+          "vehiculos_sobredimensionados_2": "Vehículos que superan las dimensiones máximas permitidas, con ancho mayor a 4,5 metros o largo mayor a 30 metros independiente del número de ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "TARIFA ÚNICA",
+          "tarifas": [
+            {
+              "tipo": "Tarifa General",
+              "peajes": {
+                "motos": 1600,
+                "autos_y_camionetas": 3100,
+                "buses_dos_ejes": 9700,
+                "camiones_dos_ejes": 17250,
+                "buses_mas_dos_ejes": 17250,
+                "camiones_mas_dos_ejes": 26950,
+                "vehiculos_sobredimensionados_1": 53850,
+                "vehiculos_sobredimensionados_2": 107700
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta 43",
+      "tramo_descripcion": "La Serena - Ovalle",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos_y_motonetas": "Motos y Motonetas",
+          "autos_y_camionetas": "Autos y Camionetas con y sin remolque",
+          "buses_dos_ejes": "Buses de 2 Ejes",
+          "camiones_dos_ejes_especial": "Camiones de 2 Ejes, Camionetas doble rueda trasera, Maquinaria Agrícola y Maquinaria de Construcción",
+          "buses_mas_dos_ejes": "Buses de más de 2 Ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de 2 Ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJE TRONCAL",
+          "porticos": [
+            {
+              "nombre": "Troncal",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos_y_motonetas": 1100,
+                "autos_y_camionetas": 3600,
+                "buses_dos_ejes": 6450,
+                "camiones_dos_ejes_especial": 6450,
+                "buses_mas_dos_ejes": 6450,
+                "camiones_mas_dos_ejes": 11500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Camino Nogales - Puchuncaví",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "autos_y_camionetas": "Autos y camionetas",
+          "camionetas_doble_rueda_autos_remolque": "Camionetas doble rueda trasera y/o autos y camionetas con remolque",
+          "camiones_dos_ejes_maquinaria": "Camiones de dos ejes, maquinaria agrícola o de construcción",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes",
+          "buses_dos_ejes": "Buses de dos ejes",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes",
+          "motos_y_motonetas": "Motos y motonetas"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "TARIFA POR PASADA",
+          "tarifas": [
+            {
+              "tipo": "NORMAL",
+              "peajes": {
+                "autos_y_camionetas": 1900,
+                "camionetas_doble_rueda_autos_remolque": 2850,
+                "camiones_dos_ejes_maquinaria": 4150,
+                "camiones_mas_dos_ejes": 7200,
+                "buses_dos_ejes": 3800,
+                "buses_mas_dos_ejes": 5700,
+                "motos_y_motonetas": 750
+              }
+            },
+            {
+              "tipo": "PUNTA",
+              "peajes": {
+                "autos_y_camionetas": 3800,
+                "camionetas_doble_rueda_autos_remolque": 5700,
+                "camiones_dos_ejes_maquinaria": 12500,
+                "camiones_mas_dos_ejes": 17950,
+                "buses_dos_ejes": 7550,
+                "buses_mas_dos_ejes": 11350,
+                "motos_y_motonetas": 1500
+              }
+            }
+          ]
+        },
+        {
+          "nombre_eje": "TARIFA PASE DIARIO",
+          "tarifas": [
+            {
+              "tipo": "PASE DIARIO",
+              "peajes": {
+                "autos_y_camionetas": 11400,
+                "camionetas_doble_rueda_autos_remolque": 17100,
+                "camiones_dos_ejes_maquinaria": 24900,
+                "camiones_mas_dos_ejes": 43200,
+                "buses_dos_ejes": 22800,
+                "buses_mas_dos_ejes": 34200,
+                "motos_y_motonetas": 4500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta 60 CH",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos_y_motonetas": "Motos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas, sin y con remolque",
+          "camiones_y_buses_dos_ejes": "Camiones y buses de dos ejes",
+          "camiones_y_buses_mas_dos_ejes": "Camiones y buses con más de dos ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Troncal Quillota",
+              "tarifas": {
+                "normal": { "motos_y_motonetas": 1500, "autos_y_camionetas": 5000, "camiones_y_buses_dos_ejes": 9050, "camiones_y_buses_mas_dos_ejes": 16050 },
+                "punta": { "motos_y_motonetas": 2250, "autos_y_camionetas": 7550, "camiones_y_buses_dos_ejes": 13550, "camiones_y_buses_mas_dos_ejes": 24100 }
+              }
+            },
+            {
+              "nombre": "Quillota Lateral",
+              "tarifas": {
+                "normal": { "motos_y_motonetas": 850, "autos_y_camionetas": 2850, "camiones_y_buses_dos_ejes": 5150, "camiones_y_buses_mas_dos_ejes": 9200 },
+                "punta": { "motos_y_motonetas": 1300, "autos_y_camionetas": 4300, "camiones_y_buses_dos_ejes": 7750, "camiones_y_buses_mas_dos_ejes": 13800 }
+              }
+            },
+            {
+              "nombre": "Laterales",
+              "tarifas": {
+                "normal": { "motos_y_motonetas": 600, "autos_y_camionetas": 1900, "camiones_y_buses_dos_ejes": 3450, "camiones_y_buses_mas_dos_ejes": 6150 },
+                "punta": { "motos_y_motonetas": 850, "autos_y_camionetas": 2900, "camiones_y_buses_dos_ejes": 5200, "camiones_y_buses_mas_dos_ejes": 9200 }
+              }
+            },
+            {
+              "nombre": "Panquehue",
+              "tarifas": {
+                "normal": { "motos_y_motonetas": 650, "autos_y_camionetas": 2150, "camiones_y_buses_dos_ejes": 3900, "camiones_y_buses_mas_dos_ejes": 6900 },
+                "punta": { "motos_y_motonetas": 950, "autos_y_camionetas": 3250, "camiones_y_buses_dos_ejes": 5800, "camiones_y_buses_mas_dos_ejes": 10350 }
+              }
+            },
+            {
+              "nombre": "Monasterio",
+              "tarifas": {
+                "normal": { "motos_y_motonetas": 350, "autos_y_camionetas": 1200, "camiones_y_buses_dos_ejes": 2150, "camiones_y_buses_mas_dos_ejes": 3800 },
+                "punta": { "motos_y_motonetas": 550, "autos_y_camionetas": 1800, "camiones_y_buses_dos_ejes": 3200, "camiones_y_buses_mas_dos_ejes": 5750 }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Autopista Los Libertadores",
+      "tramo_descripcion": "Santiago - Colina - Los Andes",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "autos_y_camionetas": "Autos, camionetas y station wagon con uno o más ejes adicionales",
+          "camiones_y_buses_dos_ejes": "Camiones y buses de dos ejes, maquinaria agrícola, de construcción y camionetas con doble rueda trasera",
+          "camiones_y_buses_mas_dos_ejes": "Camiones y buses con más de dos ejes",
+          "motos_y_motonetas": "Motos y motonetas"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Chacabuco",
+              "peajes": {
+                "autos_y_camionetas": 3200,
+                "camiones_y_buses_dos_ejes": 5800,
+                "camiones_y_buses_mas_dos_ejes": 10200,
+                "motos_y_motonetas": 1000
+              }
+            },
+            {
+              "nombre": "San Luis Chicureo",
+              "peajes": {
+                "autos_y_camionetas": 1100,
+                "camiones_y_buses_dos_ejes": 2100,
+                "camiones_y_buses_mas_dos_ejes": 3600,
+                "motos_y_motonetas": 300
+              }
+            },
+            {
+              "nombre": "Las Canteras San José",
+              "peajes": {
+                "autos_y_camionetas": 1400,
+                "camiones_y_buses_dos_ejes": 2400,
+                "camiones_y_buses_mas_dos_ejes": 4400,
+                "motos_y_motonetas": 400
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta 68",
+      "tramo_descripcion": "Santiago - Valparaíso - Viña",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "autos_y_camionetas": "Autos, camionetas y Station Wagon; Autos, camionetas y Station Wagon con uno o más ejes adicionales",
+          "camiones_y_buses_dos_ejes": "Camiones y buses de dos ejes, Maquinaria Agrícola, de construcción y camionetas con doble rueda trasera",
+          "camiones_y_buses_mas_dos_ejes": "Camiones y Buses de más de dos ejes",
+          "motos": "Motos"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES (USUARIOS CON TAG O PAGO MANUAL)",
+          "porticos": [
+            {
+              "nombre": "Accesos y Troncal Sur",
+              "tarifas": {
+                "unica": { "autos_y_camionetas": 1100, "camiones_y_buses_dos_ejes": 2000, "camiones_y_buses_mas_dos_ejes": 3500, "motos": 300 }
+              }
+            },
+            {
+              "nombre": "Troncal",
+              "tarifas": {
+                "normal": { "autos_y_camionetas": 2700, "camiones_y_buses_dos_ejes": 4900, "camiones_y_buses_mas_dos_ejes": 8800, "motos": 800 },
+                "punta": { "autos_y_camionetas": 4100, "camiones_y_buses_dos_ejes": 7400, "camiones_y_buses_mas_dos_ejes": 13200, "motos": 1200 }
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre_autopista": "Ruta 78",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos": "Motos, cuatrimotos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas",
+          "autos_y_camionetas_con_remolque": "Autos con remolque y camionetas con remolque",
+          "buses_dos_ejes": "Buses de dos ejes y casas rodantes",
+          "camiones_dos_ejes": "Camiones de dos ejes, maquinaria agrícola y maquinaria de construcción de dos ejes",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes, maquinaria agrícola de más de dos ejes, maquinaria de construcción de más de dos ejes y vehículos con sobredimensión"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES PARA USUARIOS CON TAG HABILITADO",
+          "porticos": [
+            {
+              "nombre": "Américo Vespucio",
+              "tarifas": {
+                "normal": { "motos": 206.10, "autos_y_camionetas": 687.00, "autos_y_camionetas_con_remolque": 687.00, "buses_dos_ejes": 1374.00, "camiones_dos_ejes": 1374.00, "buses_mas_dos_ejes": 2404.50, "camiones_mas_dos_ejes": 2404.50 },
+                "punta": { "motos": 412.20, "autos_y_camionetas": 1030.50, "autos_y_camionetas_con_remolque": 1030.50, "buses_dos_ejes": 2748.00, "camiones_dos_ejes": 2748.00, "buses_mas_dos_ejes": 4809.00, "camiones_mas_dos_ejes": 4809.00 }
+              }
+            },
+            {
+              "nombre": "Rinconada",
+              "tarifas": {
+                "normal": { "motos": 94.80, "autos_y_camionetas": 316.00, "autos_y_camionetas_con_remolque": 316.00, "buses_dos_ejes": 632.00, "camiones_dos_ejes": 632.00, "buses_mas_dos_ejes": 1106.00, "camiones_mas_dos_ejes": 1106.00 },
+                "punta": { "motos": 189.60, "autos_y_camionetas": 474.00, "autos_y_camionetas_con_remolque": 474.00, "buses_dos_ejes": 1264.00, "camiones_dos_ejes": 1264.00, "buses_mas_dos_ejes": 2212.00, "camiones_mas_dos_ejes": 2212.00 }
+              }
+            },
+            {
+              "nombre": "Padre Hurtado",
+              "tarifas": {
+                "normal": { "motos": 64.50, "autos_y_camionetas": 215.00, "autos_y_camionetas_con_remolque": 215.00, "buses_dos_ejes": 430.00, "camiones_dos_ejes": 430.00, "buses_mas_dos_ejes": 752.50, "camiones_mas_dos_ejes": 752.50 },
+                "punta": { "motos": 129.00, "autos_y_camionetas": 322.50, "autos_y_camionetas_con_remolque": 322.50, "buses_dos_ejes": 860.00, "camiones_dos_ejes": 860.00, "buses_mas_dos_ejes": 1505.00, "camiones_mas_dos_ejes": 1505.00 }
+              }
+            },
+            {
+              "nombre": "Malloco",
+              "tarifas": {
+                "normal": { "motos": 64.50, "autos_y_camionetas": 215.00, "autos_y_camionetas_con_remolque": 215.00, "buses_dos_ejes": 430.00, "camiones_dos_ejes": 430.00, "buses_mas_dos_ejes": 752.50, "camiones_mas_dos_ejes": 752.50 },
+                "punta": { "motos": 129.00, "autos_y_camionetas": 322.50, "autos_y_camionetas_con_remolque": 322.50, "buses_dos_ejes": 860.00, "camiones_dos_ejes": 860.00, "buses_mas_dos_ejes": 1505.00, "camiones_mas_dos_ejes": 1505.00 }
+              }
+            },
+            {
+              "nombre": "Talagante",
+              "tarifas": {
+                "normal": { "motos": 107.70, "autos_y_camionetas": 359.00, "autos_y_camionetas_con_remolque": 359.00, "buses_dos_ejes": 718.00, "camiones_dos_ejes": 718.00, "buses_mas_dos_ejes": 1256.50, "camiones_mas_dos_ejes": 1256.50 },
+                "punta": { "motos": 215.40, "autos_y_camionetas": 538.50, "autos_y_camionetas_con_remolque": 538.50, "buses_dos_ejes": 1436.00, "camiones_dos_ejes": 1436.00, "buses_mas_dos_ejes": 2513.00, "camiones_mas_dos_ejes": 2513.00 }
+              }
+            },
+            {
+              "nombre": "El Paico",
+              "tarifas": {
+                "normal": { "motos": 107.70, "autos_y_camionetas": 359.00, "autos_y_camionetas_con_remolque": 359.00, "buses_dos_ejes": 718.00, "camiones_dos_ejes": 718.00, "buses_mas_dos_ejes": 1256.50, "camiones_mas_dos_ejes": 1256.50 },
+                "punta": { "motos": 215.40, "autos_y_camionetas": 538.50, "autos_y_camionetas_con_remolque": 538.50, "buses_dos_ejes": 1436.00, "camiones_dos_ejes": 1436.00, "buses_mas_dos_ejes": 2513.00, "camiones_mas_dos_ejes": 2513.00 }
+              }
+            },
+            {
+              "nombre": "Pomaire",
+              "tarifas": {
+                "normal": { "motos": 171.90, "autos_y_camionetas": 573.00, "autos_y_camionetas_con_remolque": 573.00, "buses_dos_ejes": 1146.00, "camiones_dos_ejes": 1146.00, "buses_mas_dos_ejes": 2005.50, "camiones_mas_dos_ejes": 2005.50 },
+                "punta": { "motos": 343.80, "autos_y_camionetas": 859.50, "autos_y_camionetas_con_remolque": 859.50, "buses_dos_ejes": 2292.00, "camiones_dos_ejes": 2292.00, "buses_mas_dos_ejes": 4011.00, "camiones_mas_dos_ejes": 4011.00 }
+              }
+            },
+            {
+              "nombre": "Puangue",
+              "tarifas": {
+                "normal": { "motos": 333.30, "autos_y_camionetas": 1111.00, "autos_y_camionetas_con_remolque": 1111.00, "buses_dos_ejes": 2222.00, "camiones_dos_ejes": 2222.00, "buses_mas_dos_ejes": 3888.50, "camiones_mas_dos_ejes": 3888.50 },
+                "punta": { "motos": 666.60, "autos_y_camionetas": 1666.50, "autos_y_camionetas_con_remolque": 1666.50, "buses_dos_ejes": 4444.00, "camiones_dos_ejes": 4444.00, "buses_mas_dos_ejes": 7777.00, "camiones_mas_dos_ejes": 7777.00 }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Red Vial Litoral Central",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos_y_motonetas": "Motos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas",
+          "autos_y_camionetas_con_remolque": "Autos y camionetas con remolque",
+          "buses_dos_ejes": "Buses de dos ejes",
+          "camiones_dos_ejes": "Camiones de dos ejes",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Troncal Ruta F/90",
+              "tarifas": {
+                "normal": { "motos_y_motonetas": 550, "autos_y_camionetas": 1850, "autos_y_camionetas_con_remolque": 1850, "buses_dos_ejes": 3750, "camiones_dos_ejes": 3750, "buses_mas_dos_ejes": 5600, "camiones_mas_dos_ejes": 5600 },
+                "punta": { "motos_y_motonetas": 850, "autos_y_camionetas": 2800, "autos_y_camionetas_con_remolque": 2800, "buses_dos_ejes": 5600, "camiones_dos_ejes": 7500, "buses_mas_dos_ejes": 8400, "camiones_mas_dos_ejes": 11200 }
+              }
+            },
+            {
+              "nombre": "Troncal F/965 G",
+              "tarifas": {
+                "unica": { "motos_y_motonetas": 400, "autos_y_camionetas": 1250, "autos_y_camionetas_con_remolque": 1250, "buses_dos_ejes": 2500, "camiones_dos_ejes": 2500, "buses_mas_dos_ejes": 3750, "camiones_mas_dos_ejes": 3750 }
+              }
+            },
+            {
+              "nombre": "Troncal Sector 1 F-94",
+              "tarifas": {
+                "unica": { "motos_y_motonetas": 1200, "autos_y_camionetas": 4000, "autos_y_camionetas_con_remolque": 4000, "buses_dos_ejes": 7950, "camiones_dos_ejes": 7950, "buses_mas_dos_ejes": 11950, "camiones_mas_dos_ejes": 11950 }
+              }
+            },
+            {
+              "nombre": "Las Cruces G-984",
+              "tarifas": {
+                "unica": { "motos_y_motonetas": 250, "autos_y_camionetas": 800, "autos_y_camionetas_con_remolque": 800, "buses_dos_ejes": 1650, "camiones_dos_ejes": 1650, "buses_mas_dos_ejes": 2450, "camiones_mas_dos_ejes": 2450 }
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre_autopista": "Variante Melipilla",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos": "Motos",
+          "autos_y_camionetas": "Autos y camionetas",
+          "autos_y_camionetas_con_remolque": "Autos y camionetas con remolque",
+          "buses_dos_ejes": "Buses de dos ejes",
+          "camiones_dos_ejes": "Camiones de dos ejes",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJE TRONCAL",
+          "tarifas": [
+            {
+              "tipo": "NORMAL",
+              "peajes": {
+                "motos": 1100,
+                "autos_y_camionetas": 3650,
+                "autos_y_camionetas_con_remolque": 5450,
+                "buses_dos_ejes": 6550,
+                "camiones_dos_ejes": 6550,
+                "buses_mas_dos_ejes": 11700,
+                "camiones_mas_dos_ejes": 11700
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta 66 - Camino de la Fruta",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos": "Motos, cuatrimotos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas, con o sin remolque, camionetas de doble rueda trasera, minibuses y casas rodantes",
+          "buses_dos_ejes": "Buses de dos ejes",
+          "camiones_dos_ejes": "Camiones de dos ejes, maquinarias agrícolas y maquinarias de construcción",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "TARIFAS PARA USUARIOS CON TAG HABILITADO",
+          "porticos": [
+            {
+              "nombre": "Troncal Las Arañas",
+              "peajes": {
+                "motos": 600,
+                "autos_y_camionetas": 1950,
+                "buses_dos_ejes": 3500,
+                "camiones_dos_ejes": 5850,
+                "buses_mas_dos_ejes": 625,
+                "camiones_mas_dos_ejes": 9750
+              }
+            },
+            {
+              "nombre": "Troncal San Pedro",
+              "peajes": {
+                "motos": 300,
+                "autos_y_camionetas": 1050,
+                "buses_dos_ejes": 1900,
+                "camiones_dos_ejes": 3150,
+                "buses_mas_dos_ejes": 3350,
+                "camiones_mas_dos_ejes": 5250
+              }
+            }
+          ]
+        },
+        {
+          "nombre_eje": "TARIFAS PARA USUARIOS SIN TAG O CON TAG INHABILITADO",
+          "porticos": [
+            {
+              "nombre": "Troncal Las Arañas",
+              "peajes": {
+                "motos": 750,
+                "autos_y_camionetas": 2450,
+                "buses_dos_ejes": 4400,
+                "camiones_dos_ejes": 7300,
+                "buses_mas_dos_ejes": 7800,
+                "camiones_mas_dos_ejes": 12200
+              }
+            },
+            {
+              "nombre": "Troncal San Pedro",
+              "peajes": {
+                "motos": 400,
+                "autos_y_camionetas": 1300,
+                "buses_dos_ejes": 2400,
+                "camiones_dos_ejes": 3950,
+                "buses_mas_dos_ejes": 4200,
+                "camiones_mas_dos_ejes": 6550
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta del Itata",
+      "tramo_descripcion": "Acceso Norte a Concepción",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos_y_motonetas": "Motos y motonetas",
+          "autos_y_camionetas": "Autos y camionetas",
+          "autocarro": "Autocarro",
+          "buses_dos_ejes": "Buses de dos ejes",
+          "camiones_dos_ejes": "Camiones de dos ejes",
+          "buses_mas_dos_ejes": "Buses de más de dos ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de dos ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Agua Amarilla",
+              "peajes": {
+                "motos_y_motonetas": 2100,
+                "autos_y_camionetas": 4300,
+                "autocarro": 6400,
+                "buses_dos_ejes": 9400,
+                "camiones_dos_ejes": 9400,
+                "buses_mas_dos_ejes": 12800,
+                "camiones_mas_dos_ejes": 19200
+              }
+            },
+            {
+              "nombre": "Rafael",
+              "peajes": {
+                "motos_y_motonetas": 800,
+                "autos_y_camionetas": 1600,
+                "autocarro": 2500,
+                "buses_dos_ejes": 3600,
+                "camiones_dos_ejes": 3600,
+                "buses_mas_dos_ejes": 4900,
+                "camiones_mas_dos_ejes": 7400
+              }
+            },
+            {
+              "nombre": "Nueva Aldea",
+              "peajes": {
+                "motos_y_motonetas": 500,
+                "autos_y_camionetas": 1000,
+                "autocarro": 1500,
+                "buses_dos_ejes": 2200,
+                "camiones_dos_ejes": 2200,
+                "buses_mas_dos_ejes": 2900,
+                "camiones_mas_dos_ejes": 4400
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta Interportuaria",
+      "tramo_descripcion": "Talcahuano - Penco",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "autos_y_camionetas": "Autos, Camionetas y Station Wagon con uno o más ejes adicionales",
+          "camiones_y_buses_dos_ejes": "Camiones y Buses de dos ejes, Maquinaria Agrícola, de Construcción y Camionetas con doble rueda trasera",
+          "camiones_y_buses_mas_dos_ejes": "Camiones y Buses con más de dos ejes",
+          "motos": "Motos"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES POR TRAMO",
+          "porticos": [
+            {
+              "nombre": "Tramo Talcahuano - Penco",
+              "tarifas": {
+                "normal": { "autos_y_camionetas": 1650, "camiones_y_buses_dos_ejes": 3000, "camiones_y_buses_mas_dos_ejes": 5300, "motos": 500 },
+                "punta": { "autos_y_camionetas": 2350, "camiones_y_buses_dos_ejes": 4250, "camiones_y_buses_mas_dos_ejes": 7550, "motos": 700 }
+              }
+            },
+            {
+              "nombre": "Tramo Penco - Aeropuerto",
+              "tarifas": {
+                "normal": { "autos_y_camionetas": 1150, "camiones_y_buses_dos_ejes": 2100, "camiones_y_buses_mas_dos_ejes": 3750, "motos": 350 },
+                "punta": { "autos_y_camionetas": 1650, "camiones_y_buses_dos_ejes": 3000, "camiones_y_buses_mas_dos_ejes": 5300, "motos": 500 }
+              }
+            },
+            {
+              "nombre": "Tramo Talcahuano - Aeropuerto",
+              "tarifas": {
+                "normal": { "autos_y_camionetas": 1650, "camiones_y_buses_dos_ejes": 3000, "camiones_y_buses_mas_dos_ejes": 5300, "motos": 500 },
+                "punta": { "autos_y_camionetas": 2350, "camiones_y_buses_dos_ejes": 4250, "camiones_y_buses_mas_dos_ejes": 7550, "motos": 700 }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta Concepción - Cabrero",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos_y_motonetas": "Motos y Motonetas",
+          "autos_y_camionetas": "Autos y Camionetas con y sin remolque",
+          "buses_dos_ejes": "Buses de 2 Ejes",
+          "camiones_dos_ejes_especial": "Camiones de 2 Ejes, Camionetas doble rueda trasera, Maquinaria Agrícola y Maquinaria de Construcción",
+          "buses_mas_dos_ejes": "Buses de más de 2 Ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de 2 Ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Troncal 1 Huinanco",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos_y_motonetas": 1100,
+                "autos_y_camionetas": 3600,
+                "buses_dos_ejes": 6500,
+                "camiones_dos_ejes_especial": 10800,
+                "buses_mas_dos_ejes": 11600,
+                "camiones_mas_dos_ejes": 18100
+              }
+            },
+            {
+              "nombre": "Troncal 2 Puentes Negros",
+              "tipo": "Troncal",
+              "peajes": {
+                "motos_y_motonetas": 150,
+                "autos_y_camionetas": 500,
+                "buses_dos_ejes": 900,
+                "camiones_dos_ejes_especial": 1500,
+                "buses_mas_dos_ejes": 1600,
+                "camiones_mas_dos_ejes": 2500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "nombre_autopista": "Ruta 160",
+      "año_tarifas": 2025,
+      "metadata": {
+        "categorias_vehiculos": {
+          "motos_y_motonetas": "Motos y Motonetas",
+          "autos_y_camionetas_sin_remolque": "Autos y Camionetas sin remolque",
+          "autos_y_camionetas_con_remolque": "Autos y Camionetas con remolque",
+          "buses_dos_ejes": "Buses de 2 Ejes",
+          "camiones_dos_ejes_especial": "Camión 2 Ejes, Camioneta doble rueda trasera, Maquinaria Agrícola y de Const.",
+          "buses_mas_dos_ejes": "Buses de más de 2 Ejes",
+          "camiones_mas_dos_ejes": "Camiones de más de 2 Ejes"
+        }
+      },
+      "ejes": [
+        {
+          "nombre_eje": "PEAJES",
+          "porticos": [
+            {
+              "nombre": "Chivilingo",
+              "peajes": {
+                "motos_y_motonetas": 800,
+                "autos_y_camionetas_sin_remolque": 2650,
+                "autos_y_camionetas_con_remolque": 2650,
+                "buses_dos_ejes": 2650,
+                "camiones_dos_ejes_especial": 9000,
+                "buses_mas_dos_ejes": 2650,
+                "camiones_mas_dos_ejes": 15000
+              }
+            },
+            {
+              "nombre": "Curanilahue",
+              "peajes": {
+                "motos_y_motonetas": 600,
+                "autos_y_camionetas_sin_remolque": 0,
+                "autos_y_camionetas_con_remolque": 0,
+                "buses_dos_ejes": 0,
+                "camiones_dos_ejes_especial": 7500,
+                "buses_mas_dos_ejes": 0,
+                "camiones_mas_dos_ejes": 12550
+              }
+            },
+            {
+              "nombre": "Pilpilco",
+              "peajes": {
+                "motos_y_motonetas": 600,
+                "autos_y_camionetas_sin_remolque": 600,
+                "autos_y_camionetas_con_remolque": 600,
+                "buses_dos_ejes": 2200,
+                "camiones_dos_ejes_especial": 7500,
+                "buses_mas_dos_ejes": 2200,
+                "camiones_mas_dos_ejes": 12550
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
