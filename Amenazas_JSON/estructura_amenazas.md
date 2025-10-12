@@ -56,10 +56,10 @@ Contiene información geolocalizada de sismos recientes (últimas 24 horas) con 
 
 ---
 
-## 4. apagones.geojson
+## 4. trafico_vehicular.geojson
 
 ### Descripción
-Interrupciones del suministro eléctrico (programadas y no programadas) reportadas por el Coordinador Eléctrico Nacional.
+Información de congestión vehicular en tiempo real en segmentos clave de una ruta predeterminada, obtenida desde Google Maps Directions API.
 
 ### Estructura
 
@@ -67,29 +67,31 @@ Interrupciones del suministro eléctrico (programadas y no programadas) reportad
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generado": "2025-10-10T12:00:00Z",
-    "fuente": "SIPUB - Coordinador Eléctrico Nacional",
-    "total": 15
+    "generado": "2025-10-10T12:30:00Z",
+    "fuente": "Google Maps Directions API",
+    "total": 5,
+    "descripcion": "Congestión vehicular en tiempo real en segmentos clave de la ruta"
   },
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-70.6693, -33.4489]
+        "coordinates": [-70.6519, -33.4430]
       },
       "properties": {
-        "tipo_amenaza": "apagon",
-        "tipo_interrupcion": "no_programada",
-        "region": "Metropolitana",
-        "comuna": "Santiago",
-        "sector": "Centro",
-        "clientes_afectados": 1500,
-        "fecha_inicio": "2025-10-10T11:20:00Z",
-        "fecha_estimada_fin": "2025-10-10T15:00:00Z",
-        "nivel_alerta": "rojo",
-        "causa": "Falla en subestación eléctrica",
-        "fuente": "SIPUB Coordinador Eléctrico"
+        "tipo_amenaza": "congestion_vehicular",
+        "nombre_segmento": "Alameda - Plaza Italia",
+        "distancia_km": 2.5,
+        "duracion_normal_min": 8.0,
+        "duracion_con_trafico_min": 14.0,
+        "retraso_min": 6.0,
+        "indice_congestion": 1.75,
+        "nivel_alerta": "amarillo",
+        "factor_costo_adicional": 0.38,
+        "descripcion": "Congestionado - Retraso de 6.0 min respecto a condiciones normales",
+        "timestamp": "2025-10-10T12:30:00Z",
+        "fuente": "Google Maps Directions API"
       }
     }
   ]
@@ -100,17 +102,54 @@ Interrupciones del suministro eléctrico (programadas y no programadas) reportad
 
 | Campo | Tipo | Descripción |
 |-------|------|-------------|
-| `tipo_amenaza` | string | Siempre "apagon" |
-| `tipo_interrupcion` | string | "programada" o "no_programada" |
-| `region` | string | Región administrativa afectada |
-| `comuna` | string | Comuna afectada |
-| `sector` | string | Sector específico afectado |
-| `clientes_afectados` | integer | Número de clientes sin suministro |
-| `fecha_inicio` | string | Fecha/hora de inicio del corte |
-| `fecha_estimada_fin` | string | Fecha/hora estimada de restablecimiento |
-| `nivel_alerta` | string | "rojo" (no programada) o "amarillo" (programada) |
-| `causa` | string | Causa de la interrupción |
+| `tipo_amenaza` | string | Siempre "congestion_vehicular" |
+| `nombre_segmento` | string | Nombre identificador del segmento de ruta |
+| `distancia_km` | float | Distancia del segmento en kilómetros |
+| `duracion_normal_min` | float | Tiempo de recorrido en condiciones normales (min) |
+| `duracion_con_trafico_min` | float | Tiempo de recorrido actual con tráfico (min) |
+| `retraso_min` | float | Retraso adicional debido al tráfico (min) |
+| `indice_congestion` | float | IC = duración_con_tráfico / duración_normal |
+| `nivel_alerta` | string | "verde", "amarillo" o "rojo" según IC |
+| `factor_costo_adicional` | float | Factor de incremento en costo de combustible |
+| `descripcion` | string | Descripción legible del estado del tráfico |
+| `timestamp` | string | Momento de la consulta (UTC) |
 | `fuente` | string | Fuente de los datos |
+
+### Criterios de nivel_alerta
+
+- **verde**: IC < 1.3 (tráfico fluido)
+- **amarillo**: 1.3 ≤ IC < 2.0 (tráfico moderado a congestionado)
+- **rojo**: IC ≥ 2.0 (muy congestionado)
+
+### Cálculo del Factor de Costo Adicional
+
+El factor de costo adicional se calcula como:
+```
+factor_costo_adicional = (IC - 1) * 0.5
+```
+
+Esto significa:
+- IC = 1.0 → factor = 0 (sin aumento de costo)
+- IC = 1.5 → factor = 0.25 (25% más costo de combustible)
+- IC = 2.0 → factor = 0.50 (50% más costo de combustible)
+- IC = 3.0 → factor = 1.00 (100% más costo de combustible)
+
+### Segmentos Monitoreados
+
+La ruta predeterminada incluye los siguientes segmentos clave:
+
+1. **Alameda - Plaza Italia**: Eje central de Santiago
+2. **Providencia - Tobalaba**: Av. Providencia
+3. **Las Condes - El Golf**: Sector oriente
+4. **Costanera Norte Tramo 1**: Autopista urbana
+5. **Av. Vicuña Mackenna**: Eje sur
+
+### Notas Importantes
+
+- **Actualización**: Los datos deben actualizarse cada 10-15 minutos para reflejar condiciones actuales
+- **API Key requerida**: Necesita una API Key válida de Google Cloud Platform
+- **Departure time**: Usa `departure_time=now` para obtener datos en tiempo real
+- **Costo por consulta**: Google Maps cobra por cada llamada a la API
 
 ---
 
