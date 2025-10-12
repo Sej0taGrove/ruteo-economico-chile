@@ -1,11 +1,12 @@
 import requests
 import json
+import os
 
 # --- ADVERTENCIA DE SEGURIDAD ---
 # Reemplaza el texto de abajo con tu NUEVA y SEGURA clave de API.
 # Mantenla siempre en privado.
 
-API_KEY = "AIzaSyDGZkrGCQT3rtvAEqX-lVl8exmNt881af4 "
+API_KEY = os.getenv('GOOGLE_MAPS_API_KEY')
 
 # Puntos de la ruta especificada
 # Es buena práctica ser lo más específico posible con la dirección.
