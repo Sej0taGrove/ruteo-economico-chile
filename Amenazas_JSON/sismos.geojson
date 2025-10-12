@@ -1,0 +1,274 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generado": "2025-10-12T03:06:37.315711+00:00Z",
+    "fuente": "USGS Earthquake API",
+    "total": 12
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8514,
+          -30.6637,
+          19.467
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "sismo",
+        "magnitud": 5.4,
+        "profundidad_km": 19.467,
+        "lugar": "62 km W of Ovalle, Chile",
+        "timestamp_utc": 1759401835573,
+        "fecha_legible": "2025-10-02 07:43:55 UTC",
+        "nivel_alerta": "verde",
+        "url_detalle": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000re62",
+        "fuente": "USGS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3284,
+          -19.5034,
+          106.938
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "sismo",
+        "magnitud": 5.3,
+        "profundidad_km": 106.938,
+        "lugar": "23 km SSE of Camiña, Chile",
+        "timestamp_utc": 1758823903772,
+        "fecha_legible": "2025-09-25 15:11:43 UTC",
+        "nivel_alerta": "verde",
+        "url_detalle": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rcw8",
+        "fuente": "USGS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1031,
+          -23.8183,
+          103.061
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "sismo",
+        "magnitud": 5.2,
+        "profundidad_km": 103.061,
+        "lugar": "133 km E of Antofagasta, Chile",
+        "timestamp_utc": 1758689819150,
+        "fecha_legible": "2025-09-24 01:56:59 UTC",
+        "nivel_alerta": "verde",
+        "url_detalle": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rcgd",
+        "fuente": "USGS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9702,
+          -40.1291,
+          9.65
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "sismo",
+        "magnitud": 5.2,
+        "profundidad_km": 9.65,
+        "lugar": "134 km W of Corral, Chile",
+        "timestamp_utc": 1758598607911,
+        "fecha_legible": "2025-09-23 00:36:47 UTC",
+        "nivel_alerta": "verde",
+        "url_detalle": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rc7s",
+        "fuente": "USGS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.2907,
+          -20.2187,
+          93.77
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "sismo",
+        "magnitud": 5.5,
+        "profundidad_km": 93.77,
+        "lugar": "40 km ENE of La Tirana, Chile",
+        "timestamp_utc": 1758257756549,
+        "fecha_legible": "2025-09-19 01:55:56 UTC",
+        "nivel_alerta": "verde",
+        "url_detalle": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000qx7a",
+        "fuente": "USGS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.1572,
+          -24.1304,
+          182
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "sismo",
+        "magnitud": 5.9,
+        "profundidad_km": 182,
+        "lugar": "85 km W of San Antonio de los Cobres, Argentina",
+        "timestamp_utc": 1756959019917,
+        "fecha_legible": "2025-09-04 00:10:19 UTC",
+        "nivel_alerta": "verde",
+        "url_detalle": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtpj",
+        "fuente": "USGS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0928,
+          -24.3102,
+          172.477
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "sismo",
+        "magnitud": 5,
+        "profundidad_km": 172.477,
+        "lugar": "79 km W of San Antonio de los Cobres, Argentina",
+        "timestamp_utc": 1756959008732,
+        "fecha_legible": "2025-09-04 00:10:08 UTC",
+        "nivel_alerta": "verde",
+        "url_detalle": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtpi",
+        "fuente": "USGS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.311,
+          -22.6794,
+          241.728
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "sismo",
+        "magnitud": 5,
+        "profundidad_km": 241.728,
+        "lugar": "63 km W of Abra Pampa, Argentina",
+        "timestamp_utc": 1755457780604,
+        "fecha_legible": "2025-08-17 15:09:40 UTC",
+        "nivel_alerta": "verde",
+        "url_detalle": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1ri",
+        "fuente": "USGS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.648,
+          -22.1968,
+          106.106
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "sismo",
+        "magnitud": 5.2,
+        "profundidad_km": 106.106,
+        "lugar": "40 km NE of Calama, Chile",
+        "timestamp_utc": 1753317980620,
+        "fecha_legible": "2025-07-23 20:46:20 UTC",
+        "nivel_alerta": "verde",
+        "url_detalle": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000quiv",
+        "fuente": "USGS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.552,
+          -24.2908,
+          83.535
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "sismo",
+        "magnitud": 5.1,
+        "profundidad_km": 83.535,
+        "lugar": "111 km SE of Antofagasta, Chile",
+        "timestamp_utc": 1752784290957,
+        "fecha_legible": "2025-07-17 16:31:30 UTC",
+        "nivel_alerta": "verde",
+        "url_detalle": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000qdaj",
+        "fuente": "USGS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7496,
+          -24.1879,
+          182.238
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "sismo",
+        "magnitud": 5,
+        "profundidad_km": 182.238,
+        "lugar": null,
+        "timestamp_utc": 1752386218916,
+        "fecha_legible": "2025-07-13 01:56:58 UTC",
+        "nivel_alerta": "verde",
+        "url_detalle": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000qcd6",
+        "fuente": "USGS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.059,
+          -18.9676,
+          122.615
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "sismo",
+        "magnitud": 5,
+        "profundidad_km": 122.615,
+        "lugar": null,
+        "timestamp_utc": 1752139565437,
+        "fecha_legible": "2025-07-10 05:26:05 UTC",
+        "nivel_alerta": "verde",
+        "url_detalle": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000qbrz",
+        "fuente": "USGS"
+      }
+    }
+  ]
+}

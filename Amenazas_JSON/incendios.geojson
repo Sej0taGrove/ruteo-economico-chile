@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generado": "2025-10-11T03:38:15.121687Z",
+    "fuente": "NASA EONET Wildfires API",
+    "total": 9
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.21520645292038,
+          -38.41490336043092
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "incendio_forestal",
+        "titulo": "Wildfire in Chile 1023627",
+        "descripcion": null,
+        "fecha_inicio": "2025-03-21T19:00:00Z",
+        "nivel_alerta": "rojo",
+        "categoria": "wildfires",
+        "fuente": "NASA EONET",
+        "url_detalle": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_13050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.61242317507185,
+          -38.31283399220279
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "incendio_forestal",
+        "titulo": "Wildfire in Chile 1023624",
+        "descripcion": null,
+        "fecha_inicio": "2025-03-21T19:00:00Z",
+        "nivel_alerta": "rojo",
+        "categoria": "wildfires",
+        "fuente": "NASA EONET",
+        "url_detalle": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_13051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3812024170825,
+          -38.90761176297662
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "incendio_forestal",
+        "titulo": "Wildfire in Chile 1023628",
+        "descripcion": null,
+        "fecha_inicio": "2025-03-20T19:00:00Z",
+        "nivel_alerta": "rojo",
+        "categoria": "wildfires",
+        "fuente": "NASA EONET",
+        "url_detalle": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_13052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.27855558190157,
+          -39.549283063006605
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "incendio_forestal",
+        "titulo": "Wildfire in Argentina 1023466",
+        "descripcion": null,
+        "fecha_inicio": "2025-01-29T19:00:00Z",
+        "nivel_alerta": "rojo",
+        "categoria": "wildfires",
+        "fuente": "NASA EONET",
+        "url_detalle": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_12603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.57446270555205,
+          -41.87159400914621
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "incendio_forestal",
+        "titulo": "Wildfire in Argentina 1023484",
+        "descripcion": null,
+        "fecha_inicio": "2025-01-29T19:00:00Z",
+        "nivel_alerta": "rojo",
+        "categoria": "wildfires",
+        "fuente": "NASA EONET",
+        "url_detalle": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_12650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53338735597129,
+          -44.11259937851845
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "incendio_forestal",
+        "titulo": "Wildfire in Argentina 1023469",
+        "descripcion": null,
+        "fecha_inicio": "2025-01-28T19:00:00Z",
+        "nivel_alerta": "rojo",
+        "categoria": "wildfires",
+        "fuente": "NASA EONET",
+        "url_detalle": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_12607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.80214481008075,
+          -37.923025622132336
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "incendio_forestal",
+        "titulo": "Wildfire in Chile 1023388",
+        "descripcion": null,
+        "fecha_inicio": "2025-01-18T19:00:00Z",
+        "nivel_alerta": "rojo",
+        "categoria": "wildfires",
+        "fuente": "NASA EONET",
+        "url_detalle": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_12505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.71514727835157,
+          -35.95567608521341
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "incendio_forestal",
+        "titulo": "Wildfire in Argentina 1023260",
+        "descripcion": null,
+        "fecha_inicio": "2025-01-07T19:00:00Z",
+        "nivel_alerta": "rojo",
+        "categoria": "wildfires",
+        "fuente": "NASA EONET",
+        "url_detalle": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_12356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.97974863629905,
+          -29.46440237167865
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "incendio_forestal",
+        "titulo": "Wildfire in Argentina 1020723",
+        "descripcion": null,
+        "fecha_inicio": "2024-08-01T19:00:00Z",
+        "nivel_alerta": "rojo",
+        "categoria": "wildfires",
+        "fuente": "NASA EONET",
+        "url_detalle": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_9449"
+      }
+    }
+  ]
+}
