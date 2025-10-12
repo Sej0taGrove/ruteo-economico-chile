@@ -7,7 +7,7 @@ import os
 
 class ProcesadorPrecios:
     def __init__(self):
-        self.output_dir = "../database"
+        self.output_dir = "../../database"
         os.makedirs(self.output_dir, exist_ok=True)
     
     def procesar_precios_manuales(self):

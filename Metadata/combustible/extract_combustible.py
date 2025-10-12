@@ -8,7 +8,7 @@ import os
 
 class ExtractorCombustibleCNE:
     def __init__(self):
-        self.output_dir = "../database"
+        self.output_dir = "../../database"
         self.token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmNuZS5jbC9hcGkvbG9naW4iLCJpYXQiOjE3NjAxNTEzNzQsImV4cCI6MTc2MDE1NDk3NCwibmJmIjoxNzYwMTUxMzc0LCJqdGkiOiJFdFllMUFjNFJ6Y201ZDN5Iiwic3ViIjoiMzc0MSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.9EdGubB-K41wTomswM0zwdHVa3NBOy9vR95eu_-GBIo"
         self.url_api = f"https://api.cne.cl/api/v4/estaciones?token={self.token}"
         os.makedirs(self.output_dir, exist_ok=True)

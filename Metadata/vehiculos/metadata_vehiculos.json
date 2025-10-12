@@ -1,0 +1,5698 @@
+[
+    {
+        "modelo_base": "2025 Dongfeng Aeolus Gs Cross",
+        "version": "1.5 Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.6,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 19.0,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Dongfeng Aeolus Y3",
+        "version": "1.5",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.6,
+            "consumo_urbano_kml": 10.8,
+            "consumo_extraurbano_kml": 18.2,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Dongfeng Aeolus Y3",
+        "version": "1.5 Auto Comfort",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.6,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 19.0,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Dongfeng Aeolus Y3",
+        "version": "1.5 Auto Luxury",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.6,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 19.0,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Sail Hb",
+        "version": "1.5 LT R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.0,
+            "consumo_urbano_kml": 11.3,
+            "consumo_extraurbano_kml": 18.6,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Sail Hb",
+        "version": "1.5 LTZ R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.0,
+            "consumo_urbano_kml": 11.3,
+            "consumo_extraurbano_kml": 18.6,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Sail Hb",
+        "version": "1.5 LTZ R CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.7,
+            "consumo_urbano_kml": 10.6,
+            "consumo_extraurbano_kml": 18.9,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC Js6",
+        "version": "1.5T Luxury SE DCT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.0,
+            "consumo_urbano_kml": 9.2,
+            "consumo_extraurbano_kml": 14.5,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC Js6",
+        "version": "1.5T Advance XE DCT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.0,
+            "consumo_urbano_kml": 9.2,
+            "consumo_extraurbano_kml": 14.5,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC Js6",
+        "version": "1.5T Comfort CE DCT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.0,
+            "consumo_urbano_kml": 9.2,
+            "consumo_extraurbano_kml": 14.5,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 JAC Js4",
+        "version": "1.5T Luxury BT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.5,
+            "consumo_urbano_kml": 11.0,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC Js4",
+        "version": "1.5T Luxury",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.5,
+            "consumo_urbano_kml": 11.0,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC Js4",
+        "version": "1.6 Comfort",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.5,
+            "consumo_urbano_kml": 11.0,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC Js4",
+        "version": "1.5T Luxury CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.4,
+            "consumo_urbano_kml": 9.8,
+            "consumo_extraurbano_kml": 14.6,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC Js4",
+        "version": "1.5T Advance CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.4,
+            "consumo_urbano_kml": 9.8,
+            "consumo_extraurbano_kml": 14.6,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 JAC Js4",
+        "version": "1.5T Luxury CVT BT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.4,
+            "consumo_urbano_kml": 9.8,
+            "consumo_extraurbano_kml": 14.6,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 JAC Js4",
+        "version": "1.5T Advance CVT BT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.4,
+            "consumo_urbano_kml": 9.8,
+            "consumo_extraurbano_kml": 14.6,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 JAC Js4",
+        "version": "1.6 Comfort BT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.5,
+            "consumo_urbano_kml": 11.0,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Sail",
+        "version": "1.5 LT S",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.0,
+            "consumo_urbano_kml": 11.3,
+            "consumo_extraurbano_kml": 18.6,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Sail",
+        "version": "1.5 LTZ R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.0,
+            "consumo_urbano_kml": 11.3,
+            "consumo_extraurbano_kml": 18.6,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Sail",
+        "version": "1.5 LTZ R CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.7,
+            "consumo_urbano_kml": 10.6,
+            "consumo_extraurbano_kml": 18.9,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC E-Js1",
+        "version": "BEV 30KWh Luxury Auto",
+        "especificaciones_clave": {
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Chevrolet Tracker",
+        "version": "1.2T LS R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.7,
+            "consumo_urbano_kml": 12.8,
+            "consumo_extraurbano_kml": 20.0,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Tracker",
+        "version": "1.2T LTZ S Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.1,
+            "consumo_urbano_kml": 10.4,
+            "consumo_extraurbano_kml": 17.5,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Tracker",
+        "version": "1.2T LTZ R Auto R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.1,
+            "consumo_urbano_kml": 10.4,
+            "consumo_extraurbano_kml": 17.5,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Chevrolet Tracker",
+        "version": "1.2T Premier R Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.1,
+            "consumo_urbano_kml": 10.4,
+            "consumo_extraurbano_kml": 17.5,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Partner",
+        "version": "1.5 BlueHDI 100 L1",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.0,
+            "consumo_urbano_kml": 19.4,
+            "consumo_extraurbano_kml": 23.0,
+            "capacidad_estanque_litros": 53.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Partner",
+        "version": "1.5 BlueHDI 100 L2",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.0,
+            "consumo_urbano_kml": 19.4,
+            "consumo_extraurbano_kml": 23.0,
+            "capacidad_estanque_litros": 53.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Partner",
+        "version": "L1 EV",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": null,
+            "consumo_urbano_kml": null,
+            "consumo_extraurbano_kml": null,
+            "capacidad_estanque_litros": null,
+            "motor_litros": null,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot 208",
+        "version": "1.2 Puretech 75HP Active",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.8,
+            "consumo_urbano_kml": 12.9,
+            "consumo_extraurbano_kml": 20.5,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot 208",
+        "version": "1.2T Puretech 130 HP Allure Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 21.1,
+            "consumo_urbano_kml": 18.2,
+            "consumo_extraurbano_kml": 23.3,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Peugeot 208",
+        "version": "1.2 Puretech Auto 130HP GT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 21.1,
+            "consumo_urbano_kml": 18.2,
+            "consumo_extraurbano_kml": 23.3,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Foton Midi",
+        "version": "1.2 CS",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.3,
+            "consumo_urbano_kml": 10.5,
+            "consumo_extraurbano_kml": 15.4,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Foton Midi",
+        "version": "1.2 DC",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.3,
+            "consumo_urbano_kml": 10.5,
+            "consumo_extraurbano_kml": 15.4,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Mokka",
+        "version": "1.2T Edition Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 20.8,
+            "consumo_urbano_kml": 18.4,
+            "consumo_extraurbano_kml": 22.5,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Mokka",
+        "version": "1.2T Edition Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 20.8,
+            "consumo_urbano_kml": 16.9,
+            "consumo_extraurbano_kml": 23.8,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Mokka",
+        "version": "1.2T GS Plus Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 20.8,
+            "consumo_urbano_kml": 16.9,
+            "consumo_extraurbano_kml": 23.8,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 JAC Js2",
+        "version": "JS2 1.5 Comfort BTono",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.6,
+            "consumo_urbano_kml": 11.6,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 42.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC Js2",
+        "version": "JS2 1.5 Luxury CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.1,
+            "consumo_urbano_kml": 13.2,
+            "consumo_extraurbano_kml": 18.2,
+            "capacidad_estanque_litros": 42.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 JAC Js2",
+        "version": "JS2 1.5 Comfort",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.6,
+            "consumo_urbano_kml": 11.6,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 42.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 JAC Js2",
+        "version": "JS2 1.5 Luxury BTono",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.6,
+            "consumo_urbano_kml": 11.6,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 42.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC Js2",
+        "version": "JS2 1.5 Luxury",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.6,
+            "consumo_urbano_kml": 11.6,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 42.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Hyundai Santa Fe",
+        "version": "2.5 Auto Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.8,
+            "consumo_urbano_kml": 8.6,
+            "consumo_extraurbano_kml": 14.9,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Santa Fe",
+        "version": "2.5T Calligraphy Auto 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 10.6,
+            "consumo_urbano_kml": 7.4,
+            "consumo_extraurbano_kml": 14.1,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Santa Fe",
+        "version": "2.5 Design Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.6,
+            "consumo_urbano_kml": 8.7,
+            "consumo_extraurbano_kml": 14.3,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Santa Fe",
+        "version": "2.5T Limited Auto 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 10.6,
+            "consumo_urbano_kml": 7.4,
+            "consumo_extraurbano_kml": 14.1,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Hyundai Santa Fe",
+        "version": "2.2 CRDI Auto Value 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.7,
+            "consumo_urbano_kml": 12.0,
+            "consumo_extraurbano_kml": 16.7,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Hyundai Santa Fe",
+        "version": "2.2 CRDI Auto Limited 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.7,
+            "consumo_urbano_kml": 12.0,
+            "consumo_extraurbano_kml": 16.7,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Hyundai Santa Fe",
+        "version": "2.5 Auto Value",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.8,
+            "consumo_urbano_kml": 8.6,
+            "consumo_extraurbano_kml": 14.9,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Hyundai Santa Fe",
+        "version": "2.5 Auto Value 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.5,
+            "consumo_urbano_kml": 8.5,
+            "consumo_extraurbano_kml": 14.3,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Hyundai Santa Fe",
+        "version": "2.2 CRDI Auto Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.7,
+            "consumo_urbano_kml": 12.0,
+            "consumo_extraurbano_kml": 16.7,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Hyundai Santa Fe",
+        "version": "2.5 Auto Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.8,
+            "consumo_urbano_kml": 8.6,
+            "consumo_extraurbano_kml": 14.9,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Corsa",
+        "version": "1.2 Edition",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 21.7,
+            "consumo_urbano_kml": 19.2,
+            "consumo_extraurbano_kml": 23.0,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Corsa",
+        "version": "1.2T Auto Edition",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.2,
+            "consumo_urbano_kml": 19.0,
+            "consumo_extraurbano_kml": 24.6,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Corsa",
+        "version": "1.2T Auto GS Line",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.2,
+            "consumo_urbano_kml": 19.0,
+            "consumo_extraurbano_kml": 24.6,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Suzuki Baleno",
+        "version": "1.4 GLS",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.0,
+            "consumo_urbano_kml": 14.5,
+            "consumo_extraurbano_kml": 20.8,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Suzuki Baleno",
+        "version": "1.5 GLX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.0,
+            "consumo_urbano_kml": 14.5,
+            "consumo_extraurbano_kml": 20.8,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Suzuki Baleno",
+        "version": "1.5 GLX Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.6,
+            "consumo_urbano_kml": 14.6,
+            "consumo_extraurbano_kml": 20.0,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Suzuki Baleno",
+        "version": "1.5 GLS Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.6,
+            "consumo_urbano_kml": 14.6,
+            "consumo_extraurbano_kml": 20.0,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Foton Tm3",
+        "version": "1.6 SC",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.8,
+            "consumo_urbano_kml": 8.7,
+            "consumo_extraurbano_kml": 14.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Foton Tm3",
+        "version": "1.6 DC",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.8,
+            "consumo_urbano_kml": 8.7,
+            "consumo_extraurbano_kml": 14.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Suzuki S-Presso",
+        "version": "1.0 GLX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 19.1,
+            "consumo_urbano_kml": 16.5,
+            "consumo_extraurbano_kml": 21.1,
+            "capacidad_estanque_litros": 29.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Changan Alsvin",
+        "version": "1.4 Comfort",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.9,
+            "consumo_urbano_kml": 14.3,
+            "consumo_extraurbano_kml": 23.4,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Changan Alsvin",
+        "version": "1.4 Luxury",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.9,
+            "consumo_urbano_kml": 14.3,
+            "consumo_extraurbano_kml": 23.4,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Changan Alsvin",
+        "version": "1.4 Elite Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.2,
+            "consumo_urbano_kml": 11.7,
+            "consumo_extraurbano_kml": 20.9,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Foton K1",
+        "version": "2.8D Cargo",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 10.4,
+            "consumo_urbano_kml": 8.9,
+            "consumo_extraurbano_kml": 11.5,
+            "capacidad_estanque_litros": 65.0,
+            "motor_litros": 2.8,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan X-Trail E-Power",
+        "version": "1.5 EREV Exclusive 3R 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.4,
+            "consumo_urbano_kml": 17.5,
+            "consumo_extraurbano_kml": 17.3,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan X-Trail E-Power",
+        "version": "1.5 EREV Advance 3R 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.4,
+            "consumo_urbano_kml": 17.5,
+            "consumo_extraurbano_kml": 17.3,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Dongfeng T5 Evo",
+        "version": "1.5T Auto Noble",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.5,
+            "consumo_urbano_kml": 10.8,
+            "consumo_extraurbano_kml": 18.2,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Dongfeng T5 Evo",
+        "version": "1.5T Auto Noble",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.5,
+            "consumo_urbano_kml": 10.8,
+            "consumo_extraurbano_kml": 18.2,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Combo",
+        "version": "1.5 TD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.9,
+            "consumo_urbano_kml": 16.5,
+            "consumo_extraurbano_kml": 20.7,
+            "capacidad_estanque_litros": 53.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Suzuki Swift",
+        "version": "1.2 GL",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.4,
+            "consumo_urbano_kml": 15.1,
+            "consumo_extraurbano_kml": 21.0,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Suzuki Swift",
+        "version": "1.2 GL Sport",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.4,
+            "consumo_urbano_kml": 15.1,
+            "consumo_extraurbano_kml": 21.0,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Suzuki Swift",
+        "version": "1.2 Auto GL Sport",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.6,
+            "consumo_urbano_kml": 15.7,
+            "consumo_extraurbano_kml": 21.0,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Suzuki Swift",
+        "version": "1.2 GLX Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 20.5,
+            "consumo_urbano_kml": 16.3,
+            "consumo_extraurbano_kml": 24.0,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Onix Sedan",
+        "version": "1.2 LS P",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.4,
+            "consumo_urbano_kml": 12.7,
+            "consumo_extraurbano_kml": 19.8,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Onix Sedan",
+        "version": "1.0 Turbo LT R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.0,
+            "consumo_urbano_kml": 13.1,
+            "consumo_extraurbano_kml": 22.9,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Onix Sedan",
+        "version": "1.0T LTZ R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.0,
+            "consumo_urbano_kml": 13.1,
+            "consumo_extraurbano_kml": 22.9,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Onix Sedan",
+        "version": "1.0 Turbo Auto Premier S",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.0,
+            "consumo_urbano_kml": 11.6,
+            "consumo_extraurbano_kml": 20.5,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Dongfeng T5",
+        "version": "1.6",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.6,
+            "consumo_urbano_kml": 10.6,
+            "consumo_extraurbano_kml": 16.3,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Haval Jolion",
+        "version": "1.5T Active",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.0,
+            "consumo_urbano_kml": 9.8,
+            "consumo_extraurbano_kml": 16.1,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Haval Jolion",
+        "version": "1.5T Elite",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.0,
+            "consumo_urbano_kml": 9.8,
+            "consumo_extraurbano_kml": 16.1,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Haval Jolion",
+        "version": "1.5T Elite DCT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.0,
+            "consumo_urbano_kml": 9.8,
+            "consumo_extraurbano_kml": 16.1,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Haval Jolion",
+        "version": "1.5T Deluxe DCT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.0,
+            "consumo_urbano_kml": 9.8,
+            "consumo_extraurbano_kml": 16.1,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Ev6",
+        "version": "BEV 77.4KWh GT-Line 4WD",
+        "especificaciones_clave": {
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 JAC Sunray",
+        "version": "1.9TD 11+1",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.4,
+            "consumo_urbano_kml": 10.5,
+            "consumo_extraurbano_kml": 13.2,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 1.9,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC Sunray",
+        "version": "2.7TD 14+1",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": null,
+            "consumo_urbano_kml": 9.1,
+            "consumo_extraurbano_kml": null,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.7,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC Sunray",
+        "version": "2.7TD 16+1",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": null,
+            "consumo_urbano_kml": 9.1,
+            "consumo_extraurbano_kml": null,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.7,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC Sunray",
+        "version": "2.7TD 17+1",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": null,
+            "consumo_urbano_kml": 9.1,
+            "consumo_extraurbano_kml": null,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.7,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC Sunray",
+        "version": "2.7TD 13+1",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": null,
+            "consumo_urbano_kml": 9.1,
+            "consumo_extraurbano_kml": null,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.7,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 SKODA Kodiaq",
+        "version": "1.4 MHEV Auto Selection",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.2,
+            "consumo_urbano_kml": 13.9,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 SKODA Kodiaq",
+        "version": "2.0 TSI Auto Design 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": null,
+            "consumo_urbano_kml": 12.6,
+            "consumo_extraurbano_kml": 14.4,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Dongfeng T5l",
+        "version": "1.8T",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.7,
+            "consumo_urbano_kml": 9.6,
+            "consumo_extraurbano_kml": 15.4,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.8,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Grandland",
+        "version": "1.2 Turbo GS",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.5,
+            "consumo_urbano_kml": 16.0,
+            "consumo_extraurbano_kml": 20.3,
+            "capacidad_estanque_litros": 53.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Grandland",
+        "version": "1.2T MHEV GS Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 20.4,
+            "consumo_urbano_kml": 23.3,
+            "consumo_extraurbano_kml": 18.9,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Grandland",
+        "version": "1.5 Diesel Auto GS",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.9,
+            "consumo_urbano_kml": 21.5,
+            "consumo_extraurbano_kml": 23.8,
+            "capacidad_estanque_litros": 53.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Grandland",
+        "version": "1.2T MHEV GS Line Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 20.4,
+            "consumo_urbano_kml": 23.3,
+            "consumo_extraurbano_kml": 18.9,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Seat Ateca",
+        "version": "1.4 TSI Auto Style",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.8,
+            "consumo_urbano_kml": 13.3,
+            "consumo_extraurbano_kml": 19.8,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Seat Ateca",
+        "version": "1.4 TSI Auto X-Perience",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.8,
+            "consumo_urbano_kml": 13.3,
+            "consumo_extraurbano_kml": 19.8,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Movano",
+        "version": "2.2 D L2 Chasis Cabina",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.1,
+            "consumo_urbano_kml": 11.0,
+            "consumo_extraurbano_kml": 12.9,
+            "capacidad_estanque_litros": 90.0,
+            "motor_litros": 2.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Crossland",
+        "version": "1.2 Turbo Edition",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 19.5,
+            "consumo_urbano_kml": 16.8,
+            "consumo_extraurbano_kml": 21.5,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Crossland",
+        "version": "1.2 Turbo Auto Edition",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 19.5,
+            "consumo_urbano_kml": 16.8,
+            "consumo_extraurbano_kml": 21.5,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Crossland",
+        "version": "1.5T Diesel Edition",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 26.6,
+            "consumo_urbano_kml": 23.1,
+            "consumo_extraurbano_kml": 29.1,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Volkswagen T-Cross",
+        "version": "1.0 Trendline",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.9,
+            "consumo_urbano_kml": 12.2,
+            "consumo_extraurbano_kml": 19.2,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Volkswagen T-Cross",
+        "version": "1.0 Comfortline",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.9,
+            "consumo_urbano_kml": 12.2,
+            "consumo_extraurbano_kml": 19.2,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Volkswagen T-Cross",
+        "version": "1.0 Auto Comfortline",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.7,
+            "consumo_urbano_kml": 10.2,
+            "consumo_extraurbano_kml": 16.9,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Volkswagen T-Cross",
+        "version": "1.0 Auto Highline",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.7,
+            "consumo_urbano_kml": 10.2,
+            "consumo_extraurbano_kml": 16.9,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Morning",
+        "version": "1.0 EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 19.6,
+            "consumo_urbano_kml": 14.6,
+            "consumo_extraurbano_kml": 24.4,
+            "capacidad_estanque_litros": 35.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Morning",
+        "version": "1.2 EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.6,
+            "consumo_urbano_kml": 14.1,
+            "consumo_extraurbano_kml": 22.9,
+            "capacidad_estanque_litros": 35.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Morning",
+        "version": "1.2 EX Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.6,
+            "consumo_urbano_kml": 14.1,
+            "consumo_extraurbano_kml": 22.9,
+            "capacidad_estanque_litros": 35.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Morning",
+        "version": "1.2 EX ABS AC",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.6,
+            "consumo_urbano_kml": 14.1,
+            "consumo_extraurbano_kml": 22.9,
+            "capacidad_estanque_litros": 35.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Morning",
+        "version": "1.2 Auto EX Full SRF",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.2,
+            "consumo_urbano_kml": 12.9,
+            "consumo_extraurbano_kml": 21.1,
+            "capacidad_estanque_litros": 35.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Morning",
+        "version": "1.2 Auto EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.2,
+            "consumo_urbano_kml": 12.9,
+            "consumo_extraurbano_kml": 21.1,
+            "capacidad_estanque_litros": 35.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Carnival",
+        "version": "2.2 DSL Auto Limited",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.5,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 72.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Carnival",
+        "version": "3.5 Auto EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.8,
+            "consumo_urbano_kml": 7.0,
+            "consumo_extraurbano_kml": 12.9,
+            "capacidad_estanque_litros": 72.0,
+            "motor_litros": 3.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Carnival",
+        "version": "2.2 DSL Auto Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.5,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 72.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Carnival",
+        "version": "3.5 Auto Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.8,
+            "consumo_urbano_kml": 7.0,
+            "consumo_extraurbano_kml": 12.9,
+            "capacidad_estanque_litros": 72.0,
+            "motor_litros": 3.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Carnival",
+        "version": "2.2 DSL Auto EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.5,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 72.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 SKODA Scala",
+        "version": "1.5 TSI Auto Selection",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.9,
+            "consumo_urbano_kml": 15.2,
+            "consumo_extraurbano_kml": 21.7,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 SKODA Scala",
+        "version": "1.5 TSI Auto Design",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.9,
+            "consumo_urbano_kml": 15.2,
+            "consumo_extraurbano_kml": 21.7,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 SKODA Scala",
+        "version": "1.0 TSI Auto Ambition",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 19.2,
+            "consumo_urbano_kml": 16.7,
+            "consumo_extraurbano_kml": 21.3,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 SKODA Scala",
+        "version": "1.5 TSI Auto Montecarlo",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.9,
+            "consumo_urbano_kml": 15.2,
+            "consumo_extraurbano_kml": 21.7,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC X200",
+        "version": "2.0 CRDI DC",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.9,
+            "consumo_urbano_kml": 7.7,
+            "consumo_extraurbano_kml": 11.9,
+            "capacidad_estanque_litros": 65.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC X200",
+        "version": "2.0 CRDI SC",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.9,
+            "consumo_urbano_kml": 7.7,
+            "consumo_extraurbano_kml": 11.9,
+            "capacidad_estanque_litros": 65.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Ev9",
+        "version": "BEV 99.8KWh GT-Line 7P 4WD",
+        "especificaciones_clave": {
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Ev9",
+        "version": "BEV 99.8KWh GT-Line 6P3 4WD",
+        "especificaciones_clave": {
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Ev9",
+        "version": "BEV 99.8KWh GT-Line 6P2 4WD",
+        "especificaciones_clave": {
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Ev9",
+        "version": "BEV 99.8KWh GT-Line 6P1 4WD",
+        "especificaciones_clave": {
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Suburban",
+        "version": "5.3 Z71 Auto 4WD P",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 8.9,
+            "consumo_urbano_kml": 6.7,
+            "consumo_extraurbano_kml": 11.0,
+            "capacidad_estanque_litros": 110.0,
+            "motor_litros": 5.3,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Volkswagen Jetta",
+        "version": "1.4 Auto TSI Comfortline Sky",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.6,
+            "consumo_urbano_kml": 12.0,
+            "consumo_extraurbano_kml": 18.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Volkswagen Jetta",
+        "version": "1.4 Auto TSI Comfortline",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.6,
+            "consumo_urbano_kml": 12.0,
+            "consumo_extraurbano_kml": 18.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Volkswagen Jetta",
+        "version": "1.4 TSI Comfortline",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.1,
+            "consumo_urbano_kml": 12.0,
+            "consumo_extraurbano_kml": 20.0,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Volkswagen Jetta",
+        "version": "2.0 TSI DSG GLI",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.3,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 17.5,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Citroën C4",
+        "version": "1.2 Puretech 130 Auto Feel",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 19.6,
+            "consumo_urbano_kml": 17.2,
+            "consumo_extraurbano_kml": 21.4,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Citroën C4",
+        "version": "1.2 MHEV 136 hp Auto Max",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.4,
+            "consumo_urbano_kml": 21.4,
+            "consumo_extraurbano_kml": 26.3,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Citroën C4",
+        "version": "1.5 BlueHDI 130 Auto Feel",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 28.0,
+            "consumo_urbano_kml": 25.1,
+            "consumo_extraurbano_kml": 30.1,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Citroën C4",
+        "version": "1.5 BlueHDI 130 Auto Shine",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 28.0,
+            "consumo_urbano_kml": 25.1,
+            "consumo_extraurbano_kml": 30.1,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Citroën Jumpy",
+        "version": "2.0 BlueHDI 150 XL",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.7,
+            "consumo_urbano_kml": 14.0,
+            "consumo_extraurbano_kml": 18.8,
+            "capacidad_estanque_litros": 69.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Citroën Berlingo Multispace",
+        "version": "1.5 BlueHDI 130 EAT8 XL",
+        "especificaciones_clave": {
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai I20",
+        "version": "1.4 Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.5,
+            "consumo_urbano_kml": 12.7,
+            "consumo_extraurbano_kml": 19.9,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai I20",
+        "version": "1.0T Design DCT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.5,
+            "consumo_urbano_kml": 15.1,
+            "consumo_extraurbano_kml": 21.2,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai I20",
+        "version": "1.4 Plus Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.5,
+            "consumo_urbano_kml": 12.7,
+            "consumo_extraurbano_kml": 19.9,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Hyundai I20",
+        "version": "1.4 Value",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.5,
+            "consumo_urbano_kml": 12.7,
+            "consumo_extraurbano_kml": 19.9,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Hyundai I20",
+        "version": "1.4 Funk Edition",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.5,
+            "consumo_urbano_kml": 12.7,
+            "consumo_extraurbano_kml": 19.9,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Kicks",
+        "version": "Play Sense MT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.6,
+            "consumo_urbano_kml": 12.2,
+            "consumo_extraurbano_kml": 18.9,
+            "capacidad_estanque_litros": 41.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Kicks",
+        "version": "Play Advance CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.6,
+            "consumo_urbano_kml": 12.5,
+            "consumo_extraurbano_kml": 18.5,
+            "capacidad_estanque_litros": 41.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Kicks",
+        "version": "Play Advance MT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.6,
+            "consumo_urbano_kml": 12.2,
+            "consumo_extraurbano_kml": 18.9,
+            "capacidad_estanque_litros": 41.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Foton Tm5",
+        "version": "1.6 SC",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 10.3,
+            "consumo_urbano_kml": 7.7,
+            "consumo_extraurbano_kml": 12.8,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Foton Tm5",
+        "version": "1.6 DC",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 10.3,
+            "consumo_urbano_kml": 7.7,
+            "consumo_extraurbano_kml": 12.8,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan X-Trail",
+        "version": "2.5 CVT Auto Sense 7A",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.3,
+            "consumo_urbano_kml": 9.4,
+            "consumo_extraurbano_kml": 14.8,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan X-Trail",
+        "version": "2.5 CVT Auto Advance",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.3,
+            "consumo_urbano_kml": 9.4,
+            "consumo_extraurbano_kml": 14.8,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan X-Trail",
+        "version": "2.5 CVT Auto Exclusive 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.3,
+            "consumo_urbano_kml": 9.4,
+            "consumo_extraurbano_kml": 14.8,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan X-Trail",
+        "version": "2.5 CVT Auto Sense 5A",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.3,
+            "consumo_urbano_kml": 9.4,
+            "consumo_extraurbano_kml": 14.8,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Qashqai",
+        "version": "1.3 CVT Advance",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.0,
+            "consumo_urbano_kml": 13.4,
+            "consumo_extraurbano_kml": 18.0,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.3,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Qashqai",
+        "version": "1.3 CVT Advance Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.0,
+            "consumo_urbano_kml": 13.4,
+            "consumo_extraurbano_kml": 18.0,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.3,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Qashqai",
+        "version": "1.3 CVT Exclusive 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.0,
+            "consumo_urbano_kml": 13.4,
+            "consumo_extraurbano_kml": 18.0,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.3,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Qashqai",
+        "version": "1.3 Sense",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.8,
+            "consumo_urbano_kml": 14.5,
+            "consumo_extraurbano_kml": 20.4,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.3,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Qashqai",
+        "version": "1.3 Advance",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.8,
+            "consumo_urbano_kml": 14.5,
+            "consumo_extraurbano_kml": 20.4,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.3,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Great Wall Poer",
+        "version": "2.0 TD Elite",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.8,
+            "consumo_urbano_kml": 8.3,
+            "consumo_extraurbano_kml": 10.9,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Great Wall Poer",
+        "version": "2.0 TD Deluxe",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.8,
+            "consumo_urbano_kml": 8.3,
+            "consumo_extraurbano_kml": 10.9,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Great Wall Poer",
+        "version": "2.0 TD Elite 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.8,
+            "consumo_urbano_kml": 8.0,
+            "consumo_extraurbano_kml": 11.4,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Great Wall Poer",
+        "version": "2.0 TD Deluxe 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.8,
+            "consumo_urbano_kml": 8.0,
+            "consumo_extraurbano_kml": 11.4,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2023 Nissan Pathfinder",
+        "version": "3.5 Auto Sense",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 10.4,
+            "consumo_urbano_kml": 7.5,
+            "consumo_extraurbano_kml": 13.5,
+            "capacidad_estanque_litros": 70.0,
+            "motor_litros": 3.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2023 Nissan Pathfinder",
+        "version": "3.5 Auto Advance 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 10.0,
+            "consumo_urbano_kml": 7.1,
+            "consumo_extraurbano_kml": 13.0,
+            "capacidad_estanque_litros": 70.0,
+            "motor_litros": 3.5,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2023 Nissan Pathfinder",
+        "version": "3.5 Auto Exclusive 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 10.0,
+            "consumo_urbano_kml": 7.1,
+            "consumo_extraurbano_kml": 13.0,
+            "capacidad_estanque_litros": 70.0,
+            "motor_litros": 3.5,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2023 Nissan Pathfinder",
+        "version": "3.5 Auto Advance",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 10.4,
+            "consumo_urbano_kml": 7.5,
+            "consumo_extraurbano_kml": 13.5,
+            "capacidad_estanque_litros": 70.0,
+            "motor_litros": 3.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Renault Kwid",
+        "version": "1.0 Intens",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.9,
+            "consumo_urbano_kml": 13.7,
+            "consumo_extraurbano_kml": 21.6,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Renault Kwid",
+        "version": "1.0 Outsider",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.9,
+            "consumo_urbano_kml": 13.7,
+            "consumo_extraurbano_kml": 21.6,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Toyota C-Hr",
+        "version": "1.8 VVT I-Hybrid Luxury Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 24.0,
+            "consumo_urbano_kml": 28.7,
+            "consumo_extraurbano_kml": 23.3,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.8,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Accent",
+        "version": "1.5 Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.4,
+            "consumo_urbano_kml": 11.7,
+            "consumo_extraurbano_kml": 18.9,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Accent",
+        "version": "1.5 Auto Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.7,
+            "consumo_urbano_kml": 12.9,
+            "consumo_extraurbano_kml": 20.2,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Accent",
+        "version": "1.5 Auto Design",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.7,
+            "consumo_urbano_kml": 12.9,
+            "consumo_extraurbano_kml": 20.2,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Accent",
+        "version": "1.5 Design",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.4,
+            "consumo_urbano_kml": 11.7,
+            "consumo_extraurbano_kml": 18.9,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Toyota Corolla",
+        "version": "2.0 XEI CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.4,
+            "consumo_urbano_kml": 12.5,
+            "consumo_extraurbano_kml": 19.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Toyota Corolla",
+        "version": "2.0 XEI",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.1,
+            "consumo_urbano_kml": 11.2,
+            "consumo_extraurbano_kml": 18.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Corolla",
+        "version": "1.8 SEG Hybrid CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.2,
+            "consumo_urbano_kml": 24.8,
+            "consumo_extraurbano_kml": 22.4,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.8,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Corolla",
+        "version": "1.8 XLI Hybrid CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.2,
+            "consumo_urbano_kml": 24.8,
+            "consumo_extraurbano_kml": 22.4,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.8,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Corolla",
+        "version": "1.8 XEI Hybrid CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.2,
+            "consumo_urbano_kml": 24.8,
+            "consumo_extraurbano_kml": 22.4,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.8,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Toyota Corolla Cross",
+        "version": "2.0 SEG CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.9,
+            "consumo_urbano_kml": 13.2,
+            "consumo_extraurbano_kml": 18.2,
+            "capacidad_estanque_litros": 47.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Corolla Cross",
+        "version": "1.8 HEV SEG CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.6,
+            "consumo_urbano_kml": 25.0,
+            "consumo_extraurbano_kml": 21.6,
+            "capacidad_estanque_litros": 36.0,
+            "motor_litros": 1.8,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Corolla Cross",
+        "version": "1.8 HEV XEI CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.6,
+            "consumo_urbano_kml": 25.0,
+            "consumo_extraurbano_kml": 21.6,
+            "capacidad_estanque_litros": 36.0,
+            "motor_litros": 1.8,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Changan Cs15",
+        "version": "1.5 Luxury",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.6,
+            "consumo_urbano_kml": 11.2,
+            "consumo_extraurbano_kml": 17.7,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Changan Cs15",
+        "version": "1.5 Elite",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.6,
+            "consumo_urbano_kml": 11.2,
+            "consumo_extraurbano_kml": 17.7,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Changan Cs15",
+        "version": "1.5 Auto Elite",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.4,
+            "consumo_urbano_kml": 10.1,
+            "consumo_extraurbano_kml": 16.4,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Creta Grand",
+        "version": "2.0 Value Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.9,
+            "consumo_urbano_kml": 10.7,
+            "consumo_extraurbano_kml": 16.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Creta Grand",
+        "version": "2.0 Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.9,
+            "consumo_urbano_kml": 10.7,
+            "consumo_extraurbano_kml": 16.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Grand I10",
+        "version": "1.2 Plus FL",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.9,
+            "consumo_urbano_kml": 14.5,
+            "consumo_extraurbano_kml": 20.8,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Grand I10",
+        "version": "1.2 Auto Plus FL",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.9,
+            "consumo_urbano_kml": 14.5,
+            "consumo_extraurbano_kml": 20.8,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Grand I10",
+        "version": "1.2 Design FL",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.9,
+            "consumo_urbano_kml": 14.5,
+            "consumo_extraurbano_kml": 20.8,
+            "capacidad_estanque_litros": 37.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Toyota Hiace",
+        "version": "2.8 Turismo L1H1 GL",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.6,
+            "consumo_urbano_kml": 9.2,
+            "consumo_extraurbano_kml": 13.8,
+            "capacidad_estanque_litros": 65.0,
+            "motor_litros": 2.8,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2024 Toyota Hiace",
+        "version": "2.8 Turismo L2H2 GL",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.1,
+            "consumo_urbano_kml": 9.0,
+            "consumo_extraurbano_kml": 12.9,
+            "capacidad_estanque_litros": 65.0,
+            "motor_litros": 2.8,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Changan Cs55",
+        "version": "1.5T Auto Elite Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.8,
+            "consumo_urbano_kml": 10.0,
+            "consumo_extraurbano_kml": 20.5,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Changan Cs55",
+        "version": "1.5T Auto Luxury Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.8,
+            "consumo_urbano_kml": 10.0,
+            "consumo_extraurbano_kml": 20.5,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Tucson",
+        "version": "1.6T HEV Auto Design",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 20.4,
+            "consumo_urbano_kml": 18.8,
+            "consumo_extraurbano_kml": 21.5,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Tucson",
+        "version": "1.6T Auto Design",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.9,
+            "consumo_urbano_kml": 12.3,
+            "consumo_extraurbano_kml": 16.8,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Tucson",
+        "version": "1.6T HEV Auto Limited",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 20.4,
+            "consumo_urbano_kml": 18.8,
+            "consumo_extraurbano_kml": 21.5,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Tucson",
+        "version": "2.0 Auto Value",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.4,
+            "consumo_urbano_kml": 9.1,
+            "consumo_extraurbano_kml": 15.6,
+            "capacidad_estanque_litros": 62.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Tucson",
+        "version": "2.0 Go",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.0,
+            "consumo_urbano_kml": 10.2,
+            "consumo_extraurbano_kml": 15.6,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Tucson",
+        "version": "2.0 Auto Plus 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.6,
+            "consumo_urbano_kml": 8.5,
+            "consumo_extraurbano_kml": 14.7,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Tucson",
+        "version": "1.6T Auto Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.9,
+            "consumo_urbano_kml": 12.3,
+            "consumo_extraurbano_kml": 16.8,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Tucson",
+        "version": "2.0 Auto Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.4,
+            "consumo_urbano_kml": 9.1,
+            "consumo_extraurbano_kml": 15.6,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Tucson",
+        "version": "1.6T Auto Limited 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.2,
+            "consumo_urbano_kml": 11.7,
+            "consumo_extraurbano_kml": 16.3,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Venue",
+        "version": "1.6 Auto Premium",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.4,
+            "consumo_urbano_kml": 10.2,
+            "consumo_extraurbano_kml": 16.5,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Venue",
+        "version": "1.6 Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.0,
+            "consumo_urbano_kml": 10.7,
+            "consumo_extraurbano_kml": 17.0,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Venue",
+        "version": "1.6 Plus Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.4,
+            "consumo_urbano_kml": 10.2,
+            "consumo_extraurbano_kml": 16.5,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Hyundai Venue",
+        "version": "1.6 Auto Value",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.4,
+            "consumo_urbano_kml": 10.2,
+            "consumo_extraurbano_kml": 16.5,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Hyundai Venue",
+        "version": "1.6 Value",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.0,
+            "consumo_urbano_kml": 10.7,
+            "consumo_extraurbano_kml": 17.0,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Creta",
+        "version": "1.5 CVT Premium",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.6,
+            "consumo_urbano_kml": 12.7,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Creta",
+        "version": "1.5 CVT Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.6,
+            "consumo_urbano_kml": 12.7,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Creta",
+        "version": "1.5 Go",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.2,
+            "consumo_urbano_kml": 11.9,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Creta",
+        "version": "1.5 Design",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.2,
+            "consumo_urbano_kml": 11.9,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Creta",
+        "version": "1.5 Plus",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.2,
+            "consumo_urbano_kml": 11.9,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Creta",
+        "version": "1.5 CVT Design",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.6,
+            "consumo_urbano_kml": 12.7,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Toyota Land Cruiser Prado",
+        "version": "4.0 VX Auto 5P 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 8.7,
+            "consumo_urbano_kml": 6.4,
+            "consumo_extraurbano_kml": 11.0,
+            "capacidad_estanque_litros": 87.0,
+            "motor_litros": 4.0,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Toyota Land Cruiser Prado",
+        "version": "4.0 VX-Limited 5P Auto 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 8.7,
+            "consumo_urbano_kml": 6.4,
+            "consumo_extraurbano_kml": 11.0,
+            "capacidad_estanque_litros": 87.0,
+            "motor_litros": 4.0,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Audi Q5",
+        "version": "2.0 45 MHEV TFSI S Tronic Quattro",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.7,
+            "consumo_urbano_kml": 11.0,
+            "consumo_extraurbano_kml": 15.9,
+            "capacidad_estanque_litros": 70.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Audi Q5",
+        "version": "2.0 45 TFSI MHEV S Tronic Sport Quattro",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.7,
+            "consumo_urbano_kml": 11.0,
+            "consumo_extraurbano_kml": 15.9,
+            "capacidad_estanque_litros": 70.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Ioniq 5",
+        "version": "BEV 77.4 KWh Limited",
+        "especificaciones_clave": {
+            "transmision": "Automática",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Ioniq 5",
+        "version": "BEV 77.4 KWh Limited 4WD",
+        "especificaciones_clave": {
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Ioniq 5",
+        "version": "BEV 77.4 KWh Premium",
+        "especificaciones_clave": {
+            "transmision": "Automática",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Porter Hr",
+        "version": "2.5 CRDI DC AC GLS",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 10.2,
+            "consumo_urbano_kml": 7.9,
+            "consumo_extraurbano_kml": 12.3,
+            "capacidad_estanque_litros": 65.0,
+            "motor_litros": 2.5,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Porter Hr",
+        "version": "2.5 CRDI Pick Up AC GLS",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 10.2,
+            "consumo_urbano_kml": 7.9,
+            "consumo_extraurbano_kml": 12.3,
+            "capacidad_estanque_litros": 65.0,
+            "motor_litros": 2.5,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Raize",
+        "version": "1.2 I",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.9,
+            "consumo_urbano_kml": 15.4,
+            "consumo_extraurbano_kml": 21.3,
+            "capacidad_estanque_litros": 36.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Raize",
+        "version": "1.2 E",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.9,
+            "consumo_urbano_kml": 15.4,
+            "consumo_extraurbano_kml": 21.3,
+            "capacidad_estanque_litros": 36.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Raize",
+        "version": "1.2 E CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.9,
+            "consumo_urbano_kml": 14.5,
+            "consumo_extraurbano_kml": 20.8,
+            "capacidad_estanque_litros": 36.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Raize",
+        "version": "1.2 G CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.9,
+            "consumo_urbano_kml": 14.5,
+            "consumo_extraurbano_kml": 20.8,
+            "capacidad_estanque_litros": 36.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Toyota Rav4",
+        "version": "2.5 Auto Adventure 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.5,
+            "consumo_urbano_kml": 10.5,
+            "consumo_extraurbano_kml": 16.2,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Rav4",
+        "version": "2.0 CVT XLE",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.7,
+            "consumo_urbano_kml": 10.6,
+            "consumo_extraurbano_kml": 16.6,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Rav4",
+        "version": "2.0 LE",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.8,
+            "consumo_urbano_kml": 11.0,
+            "consumo_extraurbano_kml": 16.2,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Rav4",
+        "version": "2.0 CVT LE",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.7,
+            "consumo_urbano_kml": 10.6,
+            "consumo_extraurbano_kml": 16.6,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Rav4",
+        "version": "2.5 Hybrid XLE CVT HV",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 21.7,
+            "consumo_urbano_kml": 21.3,
+            "consumo_extraurbano_kml": 21.3,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Rav4",
+        "version": "2.5 Hybrid Limited CVT HV 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.7,
+            "consumo_urbano_kml": 21.7,
+            "consumo_extraurbano_kml": 21.7,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Rav4",
+        "version": "2.0 LE 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.8,
+            "consumo_urbano_kml": 11.0,
+            "consumo_extraurbano_kml": 16.2,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Rav4",
+        "version": "2.5 Hybrid XSE CVT HV",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 21.7,
+            "consumo_urbano_kml": 21.3,
+            "consumo_extraurbano_kml": 21.3,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Yaris Sport",
+        "version": "1.6 Turbo GR",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": null,
+            "consumo_urbano_kml": null,
+            "consumo_extraurbano_kml": null,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Yaris Sport",
+        "version": "1.5 Sport",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.1,
+            "consumo_urbano_kml": 13.6,
+            "consumo_extraurbano_kml": 20.0,
+            "capacidad_estanque_litros": 42.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Yaris Sport",
+        "version": "1.5 Sport CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.1,
+            "consumo_urbano_kml": 13.7,
+            "consumo_extraurbano_kml": 19.9,
+            "capacidad_estanque_litros": 42.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Yaris Sport",
+        "version": "1.5 E",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.1,
+            "consumo_urbano_kml": 13.6,
+            "consumo_extraurbano_kml": 20.0,
+            "capacidad_estanque_litros": 42.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Yaris Sport",
+        "version": "1.5 E CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.1,
+            "consumo_urbano_kml": 13.7,
+            "consumo_extraurbano_kml": 19.9,
+            "capacidad_estanque_litros": 42.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Palisade",
+        "version": "2.2 CRDI Auto Premium 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.6,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 16.0,
+            "capacidad_estanque_litros": 71.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Palisade",
+        "version": "2.2 CRDI Auto Limited 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.6,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 16.0,
+            "capacidad_estanque_litros": 71.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Palisade",
+        "version": "3.5 Auto Premium 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.2,
+            "consumo_urbano_kml": 6.5,
+            "consumo_extraurbano_kml": 12.0,
+            "capacidad_estanque_litros": 71.0,
+            "motor_litros": 3.5,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Kona",
+        "version": "BEV 64KWH Premium",
+        "especificaciones_clave": {
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Kona",
+        "version": "BEV 39KWH Value",
+        "especificaciones_clave": {
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Yaris",
+        "version": "1.5 E",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.9,
+            "consumo_urbano_kml": 13.3,
+            "consumo_extraurbano_kml": 20.4,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Yaris",
+        "version": "1.5 I",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.9,
+            "consumo_urbano_kml": 13.3,
+            "consumo_extraurbano_kml": 20.4,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Yaris",
+        "version": "1.5 E Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.5,
+            "consumo_urbano_kml": 14.8,
+            "consumo_extraurbano_kml": 21.5,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota 4Runner",
+        "version": "2.4 SR5 MV Auto 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.3,
+            "consumo_urbano_kml": 7.2,
+            "consumo_extraurbano_kml": 11.3,
+            "capacidad_estanque_litros": 72.0,
+            "motor_litros": 2.4,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota 4Runner",
+        "version": "2.4 Limited Auto 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.3,
+            "consumo_urbano_kml": 7.2,
+            "consumo_extraurbano_kml": 11.3,
+            "capacidad_estanque_litros": 72.0,
+            "motor_litros": 2.4,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota 4Runner",
+        "version": "4.0 SR5 MV Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 8.7,
+            "consumo_urbano_kml": 6.5,
+            "consumo_extraurbano_kml": 10.8,
+            "capacidad_estanque_litros": 87.0,
+            "motor_litros": 4.0,
+            "transmision": "Automática",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2024 Toyota Hilux",
+        "version": "2.4D DX TTS 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.0,
+            "consumo_urbano_kml": 11.8,
+            "consumo_extraurbano_kml": 15.7,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.4,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Toyota Hilux",
+        "version": "2.4D DX SC",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.0,
+            "consumo_urbano_kml": 11.8,
+            "consumo_extraurbano_kml": 15.7,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.4,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Hilux",
+        "version": "2.4D DX 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.0,
+            "consumo_urbano_kml": 11.8,
+            "consumo_extraurbano_kml": 15.7,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.4,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Hilux",
+        "version": "2.4D SR 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.0,
+            "consumo_urbano_kml": 11.8,
+            "consumo_extraurbano_kml": 15.7,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.4,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Hilux",
+        "version": "2.7 SR",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 8.9,
+            "consumo_urbano_kml": 7.0,
+            "consumo_extraurbano_kml": 10.0,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.7,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Hilux",
+        "version": "2.4D DX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.0,
+            "consumo_urbano_kml": 11.8,
+            "consumo_extraurbano_kml": 15.7,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.4,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Hilux",
+        "version": "2.4D SR",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.0,
+            "consumo_urbano_kml": 11.8,
+            "consumo_extraurbano_kml": 15.7,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.4,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Hilux",
+        "version": "2.8D GR-S Auto 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.1,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 14.7,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.8,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Hilux",
+        "version": "2.8D SR 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.1,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 14.7,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.8,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Hilux",
+        "version": "2.8D SRV Auto 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.1,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 14.7,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.8,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Staria",
+        "version": "2.2 CRDI 9P Auto Luxury 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.9,
+            "consumo_urbano_kml": 9.2,
+            "consumo_extraurbano_kml": 14.3,
+            "capacidad_estanque_litros": 75.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Staria",
+        "version": "2.2 CRDI 7P Auto Luxury 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.9,
+            "consumo_urbano_kml": 9.2,
+            "consumo_extraurbano_kml": 14.3,
+            "capacidad_estanque_litros": 75.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Hyundai Staria",
+        "version": "2.2 CRDI 9P Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.9,
+            "consumo_urbano_kml": 9.2,
+            "consumo_extraurbano_kml": 14.3,
+            "capacidad_estanque_litros": 75.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Hyundai Staria",
+        "version": "2.2 CRDI 11P",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.3,
+            "consumo_urbano_kml": 10.4,
+            "consumo_extraurbano_kml": 15.9,
+            "capacidad_estanque_litros": 75.0,
+            "motor_litros": 2.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Toyota Fortuner",
+        "version": "2.7 Auto SRX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.1,
+            "consumo_urbano_kml": 7.3,
+            "consumo_extraurbano_kml": 10.7,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.7,
+            "transmision": "Automática",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Fortuner",
+        "version": "2.8D Auto GR-S 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.8,
+            "consumo_urbano_kml": 9.3,
+            "consumo_extraurbano_kml": 13.9,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.8,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Fortuner",
+        "version": "2.8D Auto SRX 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.8,
+            "consumo_urbano_kml": 9.3,
+            "consumo_extraurbano_kml": 13.9,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.8,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Fortuner",
+        "version": "2.7 Auto SR5",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.1,
+            "consumo_urbano_kml": 7.3,
+            "consumo_extraurbano_kml": 10.7,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.7,
+            "transmision": "Automática",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Fortuner",
+        "version": "2.8D SR5 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.8,
+            "consumo_urbano_kml": 9.3,
+            "consumo_extraurbano_kml": 13.9,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.8,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Fortuner",
+        "version": "2.8D Auto SR5 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.8,
+            "consumo_urbano_kml": 9.3,
+            "consumo_extraurbano_kml": 13.9,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.8,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Yaris Cross",
+        "version": "1.5 HEV XI eCVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 26.3,
+            "consumo_urbano_kml": 32.3,
+            "consumo_extraurbano_kml": 24.5,
+            "capacidad_estanque_litros": 36.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Yaris Cross",
+        "version": "1.5 CVT XG",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.3,
+            "consumo_urbano_kml": 14.7,
+            "consumo_extraurbano_kml": 19.2,
+            "capacidad_estanque_litros": 42.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Yaris Cross",
+        "version": "1.5 XI",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.4,
+            "consumo_urbano_kml": 12.2,
+            "consumo_extraurbano_kml": 18.2,
+            "capacidad_estanque_litros": 42.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Toyota Yaris Cross",
+        "version": "1.5 XI Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.3,
+            "consumo_urbano_kml": 14.7,
+            "consumo_extraurbano_kml": 19.2,
+            "capacidad_estanque_litros": 42.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC T8 Pro",
+        "version": "2.0D Advance 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.7,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 14.1,
+            "capacidad_estanque_litros": 76.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC T8 Pro",
+        "version": "2.0D Luxury",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.7,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 14.1,
+            "capacidad_estanque_litros": 76.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC T8 Pro",
+        "version": "2.0D Luxury 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.7,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 14.1,
+            "capacidad_estanque_litros": 76.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Cerato",
+        "version": "1.6 EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.2,
+            "consumo_urbano_kml": 10.5,
+            "consumo_extraurbano_kml": 17.7,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Cerato",
+        "version": "1.6 EX Auto Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.2,
+            "consumo_urbano_kml": 10.5,
+            "consumo_extraurbano_kml": 17.7,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Sportage",
+        "version": "2.0 DSL X-Line Full 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": null,
+            "consumo_urbano_kml": null,
+            "consumo_extraurbano_kml": null,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Sportage",
+        "version": "2.0 GSL LX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.4,
+            "consumo_urbano_kml": 9.6,
+            "consumo_extraurbano_kml": 14.3,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Sportage",
+        "version": "1.6T GSL X-Line Full 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.3,
+            "consumo_urbano_kml": 8.8,
+            "consumo_extraurbano_kml": 14.8,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Sportage",
+        "version": "2.0 GSL Auto EX BS",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.2,
+            "consumo_urbano_kml": 9.1,
+            "consumo_extraurbano_kml": 15.4,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Sportage",
+        "version": "2.0 DSL LX Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": null,
+            "consumo_urbano_kml": null,
+            "consumo_extraurbano_kml": null,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Sportage",
+        "version": "2.0 GSL Auto EX 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.3,
+            "consumo_urbano_kml": 9.1,
+            "consumo_extraurbano_kml": 15.4,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Sportage",
+        "version": "2.0 DSL Auto EX CI",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.4,
+            "consumo_urbano_kml": 12.5,
+            "consumo_extraurbano_kml": 20.0,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Sportage",
+        "version": "2.0 GSL LX Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.4,
+            "consumo_urbano_kml": 9.6,
+            "consumo_extraurbano_kml": 14.3,
+            "capacidad_estanque_litros": 54.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia K3",
+        "version": "1.6 EX Full Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.6,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 18.2,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia K3",
+        "version": "1.6 EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.2,
+            "consumo_urbano_kml": 11.4,
+            "consumo_extraurbano_kml": 18.8,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia K3",
+        "version": "1.6 EX Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.6,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 18.2,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia K3",
+        "version": "1.4 EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.6,
+            "consumo_urbano_kml": 11.8,
+            "consumo_extraurbano_kml": 19.2,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia K3",
+        "version": "1.6 EX Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.2,
+            "consumo_urbano_kml": 11.4,
+            "consumo_extraurbano_kml": 18.8,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 SKODA Octavia",
+        "version": "1.4 TSI Auto Selection",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.2,
+            "consumo_urbano_kml": 14.5,
+            "consumo_extraurbano_kml": 21.3,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 SKODA Octavia",
+        "version": "1.4 TSI Auto Design",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.2,
+            "consumo_urbano_kml": 14.5,
+            "consumo_extraurbano_kml": 21.3,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Volkswagen Taos",
+        "version": "1.4 250 TSI Comfortline Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.3,
+            "consumo_urbano_kml": 10.1,
+            "consumo_extraurbano_kml": 16.7,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Volkswagen Taos",
+        "version": "1.4 250 TSI Highline Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.3,
+            "consumo_urbano_kml": 10.1,
+            "consumo_extraurbano_kml": 16.7,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Volkswagen Taos",
+        "version": "1.4 250 TSI Comfortline Sky Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.3,
+            "consumo_urbano_kml": 10.1,
+            "consumo_extraurbano_kml": 16.7,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Volkswagen Nivus",
+        "version": "1.0 TSI Comfortline",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.2,
+            "consumo_urbano_kml": 11.0,
+            "consumo_extraurbano_kml": 19.8,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Volkswagen Nivus",
+        "version": "1.0 TSI Auto Comfortline",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.0,
+            "consumo_urbano_kml": 11.2,
+            "consumo_extraurbano_kml": 18.7,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Volkswagen Nivus",
+        "version": "1.0 TSI Auto Highline",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.0,
+            "consumo_urbano_kml": 11.2,
+            "consumo_extraurbano_kml": 18.7,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC T8",
+        "version": "2.0D Comfort",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.7,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 14.1,
+            "capacidad_estanque_litros": 76.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC T8",
+        "version": "2.0D Advance",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.7,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 14.1,
+            "capacidad_estanque_litros": 76.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2024 JAC T8",
+        "version": "2.0D Comfort 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.7,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 14.1,
+            "capacidad_estanque_litros": 76.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 JAC T8",
+        "version": "2.0D Advance 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.7,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 14.1,
+            "capacidad_estanque_litros": 76.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia K3 Cross",
+        "version": "1.6 EX Full Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.6,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 18.2,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia K3 Cross",
+        "version": "1.6 EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.2,
+            "consumo_urbano_kml": 11.4,
+            "consumo_extraurbano_kml": 18.8,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia K3 Cross",
+        "version": "1.6 EX Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.6,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 18.2,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia K3 Cross",
+        "version": "1.4 EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.6,
+            "consumo_urbano_kml": 11.8,
+            "consumo_extraurbano_kml": 19.2,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia K3 Cross",
+        "version": "1.6 EX Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.2,
+            "consumo_urbano_kml": 11.4,
+            "consumo_extraurbano_kml": 18.8,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Cerato 5",
+        "version": "1.6 Auto EX Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.2,
+            "consumo_urbano_kml": 10.5,
+            "consumo_extraurbano_kml": 17.7,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Traverse",
+        "version": "2.5T LT BE S Auto 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.9,
+            "consumo_urbano_kml": 7.8,
+            "consumo_extraurbano_kml": 11.8,
+            "capacidad_estanque_litros": 82.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Traverse",
+        "version": "3.6 RS Auto 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 7.4,
+            "consumo_urbano_kml": 5.4,
+            "consumo_extraurbano_kml": 9.4,
+            "capacidad_estanque_litros": 82.0,
+            "motor_litros": 3.6,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Traverse",
+        "version": "3.6 Premier Auto 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 7.4,
+            "consumo_urbano_kml": 5.4,
+            "consumo_extraurbano_kml": 9.4,
+            "capacidad_estanque_litros": 82.0,
+            "motor_litros": 3.6,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Rio 4",
+        "version": "1.4 EX Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.5,
+            "consumo_urbano_kml": 13.6,
+            "consumo_extraurbano_kml": 21.0,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Rio 4",
+        "version": "1.4 Auto EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.2,
+            "consumo_urbano_kml": 12.3,
+            "consumo_extraurbano_kml": 19.9,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Rio 4",
+        "version": "1.4 Auto RI EX Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.2,
+            "consumo_urbano_kml": 12.3,
+            "consumo_extraurbano_kml": 19.9,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Rio 4",
+        "version": "1.4 LX AC",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.5,
+            "consumo_urbano_kml": 13.6,
+            "consumo_extraurbano_kml": 21.0,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Rio 5",
+        "version": "1.4 LX AC CI",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.5,
+            "consumo_urbano_kml": 13.6,
+            "consumo_extraurbano_kml": 21.0,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Rio 5",
+        "version": "1.4 Auto EX Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.2,
+            "consumo_urbano_kml": 12.3,
+            "consumo_extraurbano_kml": 19.9,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Rio 5",
+        "version": "1.6 Manual EX Sport",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.0,
+            "consumo_urbano_kml": 11.2,
+            "consumo_extraurbano_kml": 18.7,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Tahoe",
+        "version": "5.3 Z71 Auto 4WD R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 8.9,
+            "consumo_urbano_kml": 6.7,
+            "consumo_extraurbano_kml": 11.0,
+            "capacidad_estanque_litros": 110.0,
+            "motor_litros": 5.3,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2023 Chevrolet Blazer",
+        "version": "3.6 RS Auto 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.7,
+            "consumo_urbano_kml": 7.1,
+            "consumo_extraurbano_kml": 12.2,
+            "capacidad_estanque_litros": 82.0,
+            "motor_litros": 3.6,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Blazer",
+        "version": "3.6 RS Auto 4WD P",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.7,
+            "consumo_urbano_kml": 7.1,
+            "consumo_extraurbano_kml": 12.2,
+            "capacidad_estanque_litros": 82.0,
+            "motor_litros": 3.6,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Onix Hb",
+        "version": "1.0T LTZ HB R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.0,
+            "consumo_urbano_kml": 13.1,
+            "consumo_extraurbano_kml": 22.9,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Onix Hb",
+        "version": "1.0T RS HB R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.0,
+            "consumo_urbano_kml": 13.1,
+            "consumo_extraurbano_kml": 22.9,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Onix Hb",
+        "version": "1.0T Auto Premier S HB",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.0,
+            "consumo_urbano_kml": 11.6,
+            "consumo_extraurbano_kml": 20.5,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Soluto",
+        "version": "1.4 LX GPS",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.0,
+            "consumo_urbano_kml": 13.1,
+            "consumo_extraurbano_kml": 20.7,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Soluto",
+        "version": "1.4 LX Full E6",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.0,
+            "consumo_urbano_kml": 13.1,
+            "consumo_extraurbano_kml": 20.7,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Soluto",
+        "version": "1.4 LX AC",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.0,
+            "consumo_urbano_kml": 13.1,
+            "consumo_extraurbano_kml": 20.7,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Soluto",
+        "version": "1.4 LX Ful GPSl",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.0,
+            "consumo_urbano_kml": 13.1,
+            "consumo_extraurbano_kml": 20.7,
+            "capacidad_estanque_litros": 43.0,
+            "motor_litros": 1.4,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Frontier",
+        "version": "2.5 CRDI LX C/C",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.7,
+            "consumo_urbano_kml": 7.7,
+            "consumo_extraurbano_kml": 11.4,
+            "capacidad_estanque_litros": 65.0,
+            "motor_litros": 2.5,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Frontier",
+        "version": "2.5 CRDI LX C/C AB",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.7,
+            "consumo_urbano_kml": 7.7,
+            "consumo_extraurbano_kml": 11.4,
+            "capacidad_estanque_litros": 65.0,
+            "motor_litros": 2.5,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Stinger",
+        "version": "3.3 T-GDI Auto 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 8.8,
+            "consumo_urbano_kml": 6.3,
+            "consumo_extraurbano_kml": 11.8,
+            "capacidad_estanque_litros": 60.0,
+            "motor_litros": 3.3,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 SKODA Kamiq",
+        "version": "1.0 TSI Auto Selection",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 19.6,
+            "consumo_urbano_kml": 16.7,
+            "consumo_extraurbano_kml": 21.7,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 SKODA Kamiq",
+        "version": "1.5 TSI Auto Design",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.5,
+            "consumo_urbano_kml": 15.2,
+            "consumo_extraurbano_kml": 21.3,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 SKODA Karoq",
+        "version": "1.4T Selection Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.9,
+            "consumo_urbano_kml": 12.8,
+            "consumo_extraurbano_kml": 18.5,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 SKODA Karoq",
+        "version": "1.4T Design Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.9,
+            "consumo_urbano_kml": 12.8,
+            "consumo_extraurbano_kml": 18.5,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Montana",
+        "version": "1.2T LT S",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.8,
+            "consumo_urbano_kml": 11.3,
+            "consumo_extraurbano_kml": 17.6,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Montana",
+        "version": "1.2T Premier R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.8,
+            "consumo_urbano_kml": 11.3,
+            "consumo_extraurbano_kml": 17.6,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Montana",
+        "version": "1.2T LTZ S Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.7,
+            "consumo_urbano_kml": 10.1,
+            "consumo_extraurbano_kml": 17.4,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Montana",
+        "version": "1.2T Auto RS",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.7,
+            "consumo_urbano_kml": 10.1,
+            "consumo_extraurbano_kml": 17.4,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Volkswagen Tiguan",
+        "version": "1.4 TSI DSG Comfortline 7A",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.9,
+            "consumo_urbano_kml": 9.0,
+            "consumo_extraurbano_kml": 14.7,
+            "capacidad_estanque_litros": 58.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Volkswagen Tiguan",
+        "version": "1.4 TSI DSG Highline 7A",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.9,
+            "consumo_urbano_kml": 9.0,
+            "consumo_extraurbano_kml": 14.7,
+            "capacidad_estanque_litros": 58.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Volkswagen Tiguan",
+        "version": "2.0 TSI DSG R-Line Black Ed. 7A 4Motion",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.0,
+            "consumo_urbano_kml": 8.9,
+            "consumo_extraurbano_kml": 12.7,
+            "capacidad_estanque_litros": 58.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Volkswagen Tiguan",
+        "version": "2.0 TSI DSG R-Line 7A 4Motion",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.0,
+            "consumo_urbano_kml": 8.9,
+            "consumo_extraurbano_kml": 12.7,
+            "capacidad_estanque_litros": 58.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 SKODA Fabia",
+        "version": "1.0 110 HP Ambition",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 19.3,
+            "consumo_urbano_kml": 15.9,
+            "consumo_extraurbano_kml": 22.0,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 SKODA Fabia",
+        "version": "1.0 110 HP Style",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 19.3,
+            "consumo_urbano_kml": 15.9,
+            "consumo_extraurbano_kml": 22.0,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Sonet",
+        "version": "1.5 EX Full IVT Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.7,
+            "consumo_urbano_kml": 12.6,
+            "consumo_extraurbano_kml": 18.3,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Sonet",
+        "version": "1.5 EX IVT Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.7,
+            "consumo_urbano_kml": 12.6,
+            "consumo_extraurbano_kml": 18.3,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Sonet",
+        "version": "1.5 EX Plus 6AB",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.5,
+            "consumo_urbano_kml": 11.2,
+            "consumo_extraurbano_kml": 17.5,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Sonet",
+        "version": "1.5 EX Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.6,
+            "consumo_urbano_kml": 11.3,
+            "consumo_extraurbano_kml": 17.6,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Captiva",
+        "version": "1.5 LTZ CVT R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.3,
+            "consumo_urbano_kml": 8.5,
+            "consumo_extraurbano_kml": 13.9,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Captiva",
+        "version": "1.5 Premier CVT R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.3,
+            "consumo_urbano_kml": 8.5,
+            "consumo_extraurbano_kml": 13.9,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Sorento",
+        "version": "3.5 GSL Auto Ex Full 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 9.8,
+            "consumo_urbano_kml": 7.1,
+            "consumo_extraurbano_kml": 12.7,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 3.5,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Sorento",
+        "version": "2.5 GSL Auto EX Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.3,
+            "consumo_urbano_kml": 8.3,
+            "consumo_extraurbano_kml": 14.3,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Sorento",
+        "version": "2.5 GSL Auto EX Full 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.3,
+            "consumo_urbano_kml": 8.3,
+            "consumo_extraurbano_kml": 14.3,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Sorento",
+        "version": "2.2 DSL Auto EX Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.8,
+            "consumo_urbano_kml": 13.1,
+            "consumo_extraurbano_kml": 18.0,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Sorento",
+        "version": "2.5 GSL Auto EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.3,
+            "consumo_urbano_kml": 8.3,
+            "consumo_extraurbano_kml": 14.3,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Sorento",
+        "version": "2.2 DSL Auto EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.8,
+            "consumo_urbano_kml": 13.1,
+            "consumo_extraurbano_kml": 18.0,
+            "capacidad_estanque_litros": 67.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Peugeot Landtrek",
+        "version": "2.2 BlueHDI 180 Active 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.0,
+            "consumo_urbano_kml": 9.6,
+            "consumo_extraurbano_kml": 14.1,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.2,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Landtrek",
+        "version": "2.2 BlueHDI 180 Active 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.4,
+            "consumo_urbano_kml": 9.7,
+            "consumo_extraurbano_kml": 12.8,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Landtrek",
+        "version": "2.2 BlueHDI Auto 180 Action4 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.4,
+            "consumo_urbano_kml": 9.7,
+            "consumo_extraurbano_kml": 12.8,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.2,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Landtrek",
+        "version": "2.2 BlueHDI 180 Active",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.0,
+            "consumo_urbano_kml": 9.6,
+            "consumo_extraurbano_kml": 14.1,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot 308",
+        "version": "1.2 Auto Puretech 130 Allure",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 19.0,
+            "consumo_urbano_kml": 16.5,
+            "consumo_extraurbano_kml": 20.9,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot 308",
+        "version": "1.5 BlueHDI Auto 130 HP Allure",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 25.1,
+            "consumo_urbano_kml": 22.5,
+            "consumo_extraurbano_kml": 26.9,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot 308",
+        "version": "1.2 Auto GT Puretech",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 19.0,
+            "consumo_urbano_kml": 16.5,
+            "consumo_extraurbano_kml": 20.9,
+            "capacidad_estanque_litros": 52.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Traveller",
+        "version": "2.0 BlueHDI 9P Business L3 145",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.9,
+            "consumo_urbano_kml": 16.6,
+            "consumo_extraurbano_kml": 18.8,
+            "capacidad_estanque_litros": 69.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Traveller",
+        "version": "2.0 BlueHDI 180 L3 8P Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.0,
+            "consumo_urbano_kml": 11.0,
+            "consumo_extraurbano_kml": 15.0,
+            "capacidad_estanque_litros": 69.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Boxer",
+        "version": "2.2 BlueHDI 165 L2H2",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.4,
+            "consumo_urbano_kml": 11.2,
+            "consumo_extraurbano_kml": 13.2,
+            "capacidad_estanque_litros": 90.0,
+            "motor_litros": 2.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Boxer",
+        "version": "2.2 BlueHDI 165 L3H2",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.4,
+            "consumo_urbano_kml": 11.2,
+            "consumo_extraurbano_kml": 13.2,
+            "capacidad_estanque_litros": 90.0,
+            "motor_litros": 2.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Boxer",
+        "version": "2.2 BlueHDI 165 L4H2",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.4,
+            "consumo_urbano_kml": 11.2,
+            "consumo_extraurbano_kml": 13.2,
+            "capacidad_estanque_litros": 90.0,
+            "motor_litros": 2.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Rifter",
+        "version": "1.2 Puretech Auto 130 Allure",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.9,
+            "consumo_urbano_kml": 12.1,
+            "consumo_extraurbano_kml": 17.2,
+            "capacidad_estanque_litros": 60.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Rifter",
+        "version": "1.5 BlueHDI 100 Allure",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.8,
+            "consumo_urbano_kml": 21.5,
+            "consumo_extraurbano_kml": 23.7,
+            "capacidad_estanque_litros": 53.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Rifter",
+        "version": "1.5 BlueHDI Auto 130 Allure",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 19.0,
+            "consumo_urbano_kml": 17.2,
+            "consumo_extraurbano_kml": 20.3,
+            "capacidad_estanque_litros": 53.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot 5008",
+        "version": "1.2 MHEV 136HP Auto Allure",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 19.6,
+            "consumo_urbano_kml": 21.6,
+            "consumo_extraurbano_kml": 18.6,
+            "capacidad_estanque_litros": 55.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot 5008",
+        "version": "1.5 BlueHDI 130 HP Auto Allure Pack",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 21.4,
+            "consumo_urbano_kml": 18.5,
+            "consumo_extraurbano_kml": 23.1,
+            "capacidad_estanque_litros": 56.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Peugeot 5008",
+        "version": "1.6 Purtetech 180 HP Auto GT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.7,
+            "consumo_urbano_kml": 12.2,
+            "consumo_extraurbano_kml": 18.6,
+            "capacidad_estanque_litros": 56.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Peugeot 5008",
+        "version": "1.5 BlueHDI 130 HP Auto GT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 21.4,
+            "consumo_urbano_kml": 18.5,
+            "consumo_extraurbano_kml": 23.1,
+            "capacidad_estanque_litros": 56.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Versa",
+        "version": "1.6 Sense CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.4,
+            "consumo_urbano_kml": 11.5,
+            "consumo_extraurbano_kml": 19.2,
+            "capacidad_estanque_litros": 41.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Versa",
+        "version": "1.6 Advance",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.2,
+            "consumo_urbano_kml": 11.4,
+            "consumo_extraurbano_kml": 19.0,
+            "capacidad_estanque_litros": 41.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Versa",
+        "version": "1.6 Advance CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.4,
+            "consumo_urbano_kml": 11.5,
+            "consumo_extraurbano_kml": 19.2,
+            "capacidad_estanque_litros": 41.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Versa",
+        "version": "1.6 Exclusive CVT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.4,
+            "consumo_urbano_kml": 11.5,
+            "consumo_extraurbano_kml": 19.2,
+            "capacidad_estanque_litros": 41.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Versa",
+        "version": "1.6 Sense",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.2,
+            "consumo_urbano_kml": 11.4,
+            "consumo_extraurbano_kml": 19.0,
+            "capacidad_estanque_litros": 41.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Foton G7",
+        "version": "2.0TD Lite DC",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.0,
+            "consumo_urbano_kml": 10.1,
+            "consumo_extraurbano_kml": 13.5,
+            "capacidad_estanque_litros": 76.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Foton G7",
+        "version": "2.0TD Ultimate DC",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.0,
+            "consumo_urbano_kml": 10.1,
+            "consumo_extraurbano_kml": 13.5,
+            "capacidad_estanque_litros": 76.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2025 Foton G7",
+        "version": "2.0TD Lite DC 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.0,
+            "consumo_urbano_kml": 10.1,
+            "consumo_extraurbano_kml": 13.5,
+            "capacidad_estanque_litros": 76.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Foton G7",
+        "version": "2.0TD Ultimate DC 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.0,
+            "consumo_urbano_kml": 10.1,
+            "consumo_extraurbano_kml": 13.5,
+            "capacidad_estanque_litros": 76.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Foton G7",
+        "version": "2.0TD Ultimate Auto DC 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 10.6,
+            "consumo_urbano_kml": 9.2,
+            "consumo_extraurbano_kml": 11.6,
+            "capacidad_estanque_litros": 76.0,
+            "motor_litros": 2.0,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Seat Arona",
+        "version": "1.6 Auto Style",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.3,
+            "consumo_urbano_kml": 10.3,
+            "consumo_extraurbano_kml": 15.9,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Seat Arona",
+        "version": "1.0T Auto Style",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.7,
+            "consumo_urbano_kml": 15.4,
+            "consumo_extraurbano_kml": 19.3,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Seat Arona",
+        "version": "1.6 Auto FR",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.3,
+            "consumo_urbano_kml": 10.3,
+            "consumo_extraurbano_kml": 15.9,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Opel Vivaro",
+        "version": "2.0 TD 150 Hp",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.6,
+            "consumo_urbano_kml": 13.5,
+            "consumo_extraurbano_kml": 17.2,
+            "capacidad_estanque_litros": 69.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Suzuki Celerio",
+        "version": "1.0 GLX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.8,
+            "consumo_urbano_kml": 19.6,
+            "consumo_extraurbano_kml": 25.3,
+            "capacidad_estanque_litros": 32.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Suzuki Celerio",
+        "version": "1.0 GLX Sport AMT Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 23.8,
+            "consumo_urbano_kml": 21.4,
+            "consumo_extraurbano_kml": 25.4,
+            "capacidad_estanque_litros": 32.0,
+            "motor_litros": 1.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Suzuki Celerio",
+        "version": "1.0 GLX Sport",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 22.8,
+            "consumo_urbano_kml": 19.6,
+            "consumo_extraurbano_kml": 25.3,
+            "capacidad_estanque_litros": 32.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Dongfeng Df6",
+        "version": "2.5D",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.3,
+            "consumo_urbano_kml": 10.4,
+            "consumo_extraurbano_kml": 13.8,
+            "capacidad_estanque_litros": 60.0,
+            "motor_litros": 2.5,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2024 Dongfeng Df6",
+        "version": "2.5D 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.3,
+            "consumo_urbano_kml": 10.4,
+            "consumo_extraurbano_kml": 13.8,
+            "capacidad_estanque_litros": 60.0,
+            "motor_litros": 2.5,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Seat Ibiza",
+        "version": "1.6 110 Hp Reference",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.9,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 19.2,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Seat Ibiza",
+        "version": "1.6 110 Hp Style",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.9,
+            "consumo_urbano_kml": 10.9,
+            "consumo_extraurbano_kml": 19.2,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Seat Ibiza",
+        "version": "1.0 TSI Style",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.4,
+            "consumo_urbano_kml": 15.4,
+            "consumo_extraurbano_kml": 20.7,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Seat Ibiza",
+        "version": "1.6 110 Hp Auto Style",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.1,
+            "consumo_urbano_kml": 10.5,
+            "consumo_extraurbano_kml": 17.5,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Seat Ibiza",
+        "version": "1.0 TSI Auto Style",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.7,
+            "consumo_urbano_kml": 15.6,
+            "consumo_extraurbano_kml": 19.3,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Seat Ibiza",
+        "version": "1.6 110 Hp Auto FR",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.1,
+            "consumo_urbano_kml": 10.5,
+            "consumo_extraurbano_kml": 17.5,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Seat Ibiza",
+        "version": "1.0 TSI Auto FR",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.7,
+            "consumo_urbano_kml": 15.6,
+            "consumo_extraurbano_kml": 19.3,
+            "capacidad_estanque_litros": 40.0,
+            "motor_litros": 1.0,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Navara",
+        "version": "2.3D DC SE",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.1,
+            "consumo_urbano_kml": 12.5,
+            "consumo_extraurbano_kml": 15.2,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.3,
+            "transmision": "Manual",
+            "traccion": "trasera"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Navara",
+        "version": "2.3D DC SE 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.4,
+            "consumo_urbano_kml": 12.8,
+            "consumo_extraurbano_kml": 15.6,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.3,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Navara",
+        "version": "2.3D DC XE 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.4,
+            "consumo_urbano_kml": 12.8,
+            "consumo_extraurbano_kml": 15.6,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.3,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Navara",
+        "version": "2.3D DC Auto XE 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.9,
+            "consumo_urbano_kml": 10.1,
+            "consumo_extraurbano_kml": 15.4,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.3,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Navara",
+        "version": "2.3D DC Platinum 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.4,
+            "consumo_urbano_kml": 12.8,
+            "consumo_extraurbano_kml": 15.6,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.3,
+            "transmision": "Manual",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2024 Nissan Navara",
+        "version": "2.3D Auto DC Platinum 4WD",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 12.9,
+            "consumo_urbano_kml": 10.1,
+            "consumo_extraurbano_kml": 15.4,
+            "capacidad_estanque_litros": 80.0,
+            "motor_litros": 2.3,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Silverado",
+        "version": "5.3 Auto LT Trail Boss DC 4WD R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 8.9,
+            "consumo_urbano_kml": 6.7,
+            "consumo_extraurbano_kml": 11.0,
+            "capacidad_estanque_litros": 91.0,
+            "motor_litros": 5.3,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Silverado",
+        "version": "6.2 ZR2 Auto DC 4WD R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 6.8,
+            "consumo_urbano_kml": 4.8,
+            "consumo_extraurbano_kml": 9.0,
+            "capacidad_estanque_litros": 91.0,
+            "motor_litros": 6.2,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Silverado",
+        "version": "3.0TD High Country Auto DC 4WD R",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.9,
+            "consumo_urbano_kml": 9.0,
+            "consumo_extraurbano_kml": 14.6,
+            "capacidad_estanque_litros": 91.0,
+            "motor_litros": 3.0,
+            "transmision": "Automática",
+            "traccion": "4x4"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot 2008",
+        "version": "1.2 PureTech 130 Active",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 20.8,
+            "consumo_urbano_kml": 18.4,
+            "consumo_extraurbano_kml": 22.5,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot 2008",
+        "version": "1.2 PureTech 130 Allure",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 20.8,
+            "consumo_urbano_kml": 18.4,
+            "consumo_extraurbano_kml": 22.5,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot 2008",
+        "version": "1.2 PureTech 130 Auto Allure",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 19.5,
+            "consumo_urbano_kml": 16.6,
+            "consumo_extraurbano_kml": 21.7,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.2,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot 2008",
+        "version": "1.5 BlueHDI 130 HP Auto Allure",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 26.9,
+            "consumo_urbano_kml": 24.0,
+            "consumo_extraurbano_kml": 28.8,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot 2008",
+        "version": "1.5 BlueHDI 130 HP Auto GT",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 26.9,
+            "consumo_urbano_kml": 24.0,
+            "consumo_extraurbano_kml": 28.8,
+            "capacidad_estanque_litros": 44.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot 2008",
+        "version": "Electric GT Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": null,
+            "consumo_urbano_kml": null,
+            "consumo_extraurbano_kml": null,
+            "capacidad_estanque_litros": null,
+            "motor_litros": null,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Peugeot Expert",
+        "version": "2.0 BlueHDI 145 HP",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.0,
+            "consumo_urbano_kml": 12.0,
+            "consumo_extraurbano_kml": 17.0,
+            "capacidad_estanque_litros": 69.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Seltos",
+        "version": "1.4T Auto Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.4,
+            "consumo_urbano_kml": 13.4,
+            "consumo_extraurbano_kml": 18.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Seltos",
+        "version": "1.6 EX Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.6,
+            "consumo_urbano_kml": 11.2,
+            "consumo_extraurbano_kml": 17.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Seltos",
+        "version": "1.4T Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 16.4,
+            "consumo_urbano_kml": 13.4,
+            "consumo_extraurbano_kml": 18.9,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Seltos",
+        "version": "1.5 Auto EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.7,
+            "consumo_urbano_kml": 11.5,
+            "consumo_extraurbano_kml": 17.5,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Seltos",
+        "version": "1.5 EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.7,
+            "consumo_urbano_kml": 11.5,
+            "consumo_extraurbano_kml": 17.5,
+            "capacidad_estanque_litros": 50.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Carens",
+        "version": "1.4 DCT EX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.2,
+            "consumo_urbano_kml": 12.7,
+            "consumo_extraurbano_kml": 17.3,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Carens",
+        "version": "1.4 DCT EX Full",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 15.2,
+            "consumo_urbano_kml": 12.7,
+            "consumo_extraurbano_kml": 17.3,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.4,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Carens",
+        "version": "1.5 LX",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 13.8,
+            "consumo_urbano_kml": 10.8,
+            "consumo_extraurbano_kml": 16.5,
+            "capacidad_estanque_litros": 45.0,
+            "motor_litros": 1.5,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Niro",
+        "version": "BEV 64.8 KWh EX Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": null,
+            "consumo_urbano_kml": null,
+            "consumo_extraurbano_kml": null,
+            "capacidad_estanque_litros": null,
+            "motor_litros": null,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Kia Niro",
+        "version": "BEV 64.8 KWh LX Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": null,
+            "consumo_urbano_kml": null,
+            "consumo_extraurbano_kml": null,
+            "capacidad_estanque_litros": null,
+            "motor_litros": null,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Niro",
+        "version": "1.6 EX Full HEV Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 23.8,
+            "consumo_urbano_kml": 26.3,
+            "consumo_extraurbano_kml": 22.2,
+            "capacidad_estanque_litros": 42.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Kia Niro",
+        "version": "1.6 LX HEV Auto",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 25.1,
+            "consumo_urbano_kml": 24.8,
+            "consumo_extraurbano_kml": 24.8,
+            "capacidad_estanque_litros": 42.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Chevrolet Bolt Euv",
+        "version": "BEV 65KWh LTZ Auto",
+        "especificaciones_clave": {
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Citroën C3",
+        "version": "1.2 Puretech 82 BVM Live Pack",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.0,
+            "consumo_urbano_kml": 13.4,
+            "consumo_extraurbano_kml": 20.3,
+            "capacidad_estanque_litros": 47.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Citroën C3",
+        "version": "1.2 Puretech 82 BVM Feel",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.0,
+            "consumo_urbano_kml": 13.4,
+            "consumo_extraurbano_kml": 20.3,
+            "capacidad_estanque_litros": 47.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Citroën C3",
+        "version": "1.2 Puretech 82 BVM Feel Pack",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 17.0,
+            "consumo_urbano_kml": 13.4,
+            "consumo_extraurbano_kml": 20.3,
+            "capacidad_estanque_litros": 47.0,
+            "motor_litros": 1.2,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Citroën C3",
+        "version": "1.6 VTI 115 EAT6 Feel",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 14.3,
+            "consumo_urbano_kml": 10.5,
+            "consumo_extraurbano_kml": 18.0,
+            "capacidad_estanque_litros": 47.0,
+            "motor_litros": 1.6,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Citroën Jumper",
+        "version": "2.0 Manual BlueHDI L2H2 163",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.6,
+            "consumo_urbano_kml": 11.5,
+            "consumo_extraurbano_kml": 11.6,
+            "capacidad_estanque_litros": 90.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Citroën Jumper",
+        "version": "2.0 Manual BlueHDI L3H2 163",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.6,
+            "consumo_urbano_kml": 11.5,
+            "consumo_extraurbano_kml": 11.6,
+            "capacidad_estanque_litros": 90.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Citroën Jumper",
+        "version": "2.0 Manual BlueHDI L4H2 163",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 11.6,
+            "consumo_urbano_kml": 11.5,
+            "consumo_extraurbano_kml": 11.6,
+            "capacidad_estanque_litros": 90.0,
+            "motor_litros": 2.0,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Citroën Berlingo",
+        "version": "1.6 Manual HDI 100 M",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.8,
+            "consumo_urbano_kml": 17.0,
+            "consumo_extraurbano_kml": 20.0,
+            "capacidad_estanque_litros": 53.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2024 Citroën Berlingo",
+        "version": "1.6 Manual HDI 100 XL",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": 18.8,
+            "consumo_urbano_kml": 16.9,
+            "consumo_extraurbano_kml": 20.2,
+            "capacidad_estanque_litros": 53.0,
+            "motor_litros": 1.6,
+            "transmision": "Manual",
+            "traccion": "delantera"
+        }
+    },
+    {
+        "modelo_base": "2025 Citroën Berlingo",
+        "version": "BEV 50KWh M Ext 800kg",
+        "especificaciones_clave": {
+            "consumo_mixto_kml": null,
+            "consumo_urbano_kml": null,
+            "consumo_extraurbano_kml": null,
+            "capacidad_estanque_litros": null,
+            "motor_litros": null,
+            "transmision": "Automática",
+            "traccion": "delantera"
+        }
+    }
+]

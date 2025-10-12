@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "fuente": "CNE - Comisión Nacional de Energía",
+    "api_endpoint": "https://api.cne.cl/api/v4/estaciones",
+    "fecha_extraccion": "2025-10-12",
+    "descripcion": "Precios y ubicaciones de estaciones de servicio en Chile",
+    "total_estaciones": 0,
+    "regiones_disponibles": [],
+    "marcas_disponibles": [],
+    "combustibles_disponibles": [],
+    "precios_promedio_clp": {},
+    "moneda": "CLP",
+    "metodo_extraccion": "Token en URL (método compañero)"
+  },
+  "estaciones": []
+}
