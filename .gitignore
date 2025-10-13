@@ -201,6 +201,10 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+#infraestructura
+infraestructura/chile-latest.osm.pbf
+infraestructura/infraestructura.json
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
