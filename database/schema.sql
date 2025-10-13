@@ -359,5 +359,4 @@ COMMENT ON TABLE amenazas_inundaciones IS 'Alertas hidrológicas activas desde D
 COMMENT ON TABLE amenazas_incendios IS 'Incendios forestales activos detectados por NASA EONET';
 COMMENT ON TABLE amenazas_trafico IS 'Congestión vehicular en tiempo real desde Google Maps';
 
-COMMENT ON COLUMN amenazas_sismos.indice_congestion IS 'Índice de congestión: duracion_con_trafico / duracion_normal';
 COMMENT ON COLUMN amenazas_trafico.factor_costo_adicional IS 'Factor de incremento en costo de combustible debido a congestión';

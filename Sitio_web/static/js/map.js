@@ -1,102 +1,113 @@
-let map;
-let directionsService;
-let directionsRenderer;
+(() => {
+    let map;
+    let routeLayer;
+    let markers = [];
 
-async function initMap() {
-    try {
-        // Centrado en Santiago, Chile
-        const santiago = { lat: -33.4489, lng: -70.6693 };
+    function initMap() {
+        // Inicializar mapa centrado en Chile
+        map = L.map('map').setView([-33.4489, -70.6693], 13);
         
-        // Inicializar el mapa
-        map = new google.maps.Map(document.getElementById("map"), {
-            zoom: 13,
-            center: santiago,
-        });
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
 
-        // Inicializar servicios de direcciones
-        directionsService = new google.maps.DirectionsService();
-        directionsRenderer = new google.maps.DirectionsRenderer({
-            map: map,
-            panel: document.getElementById('route-info')
-        });
+        routeLayer = L.layerGroup().addTo(map);
 
-        // Autocomplete para los inputs
-        const originInput = document.getElementById("origin");
-        const destinationInput = document.getElementById("destination");
-        
-        if (google.maps.places) {
-            new google.maps.places.Autocomplete(originInput);
-            new google.maps.places.Autocomplete(destinationInput);
-        }
+        // Manejar clics en el mapa
+        map.on('click', handleMapClick);
 
-        // Agregar el event listener después de que todo esté inicializado
+        // Configurar formulario
         document.getElementById('route-form').addEventListener('submit', handleRouteSubmit);
-
-    } catch (error) {
-        console.error('Error initializing map:', error);
-        document.getElementById('map').innerHTML = 'Error loading map';
     }
-}
 
-async function handleRouteSubmit(e) {
-    e.preventDefault();
-    
-    const origin = document.getElementById('origin').value;
-    const destination = document.getElementById('destination').value;
-    
-    try {
-        // Mostrar mensaje de carga
-        document.getElementById('route-info').innerHTML = '<p>Calculando ruta...</p>';
-        
-        const response = await fetch(`/api/route?origin=${encodeURIComponent(origin)}&destination=${encodeURIComponent(destination)}`);
-        const routeData = await response.json();
-        
-        if (response.ok && directionsService) {
-            // Mostrar información de la ruta
-            let routeHtml = `
-                <h3>Información de la Ruta:</h3>
-                <p>Desde: ${routeData.start_address}</p>
-                <p>Hasta: ${routeData.end_address}</p>
-                <p>Distancia: ${routeData.distance}</p>
-                <p>Duración sin tráfico: ${routeData.duration}</p>
-            `;
+    let clickCount = 0;
+    function handleMapClick(e) {
+        const lat = e.latlng.lat;
+        const lng = e.latlng.lng;
 
-            if (routeData.duration_in_traffic) {
-                routeHtml += `<p>Duración con tráfico: ${routeData.duration_in_traffic}</p>`;
-                if (routeData.retraso_minutos > 0) {
-                    routeHtml += `<p>Retraso por tráfico: ${routeData.retraso_minutos} minutos</p>`;
-                }
+        if (clickCount === 0) {
+            // Primer clic - origen
+            document.getElementById('start-lat').value = lat.toFixed(6);
+            document.getElementById('start-lng').value = lng.toFixed(6);
+            addMarker([lat, lng], 'Origen');
+            clickCount++;
+        } else {
+            // Segundo clic - destino
+            document.getElementById('end-lat').value = lat.toFixed(6);
+            document.getElementById('end-lng').value = lng.toFixed(6);
+            addMarker([lat, lng], 'Destino');
+            clickCount = 0;
+        }
+    }
+
+    function addMarker(latlng, label) {
+        const marker = L.marker(latlng).addTo(map);
+        marker.bindPopup(label);
+        markers.push(marker);
+    }
+
+    function clearMap() {
+        markers.forEach(marker => map.removeLayer(marker));
+        markers = [];
+        if (routeLayer) {
+            routeLayer.clearLayers();
+        }
+    }
+
+    async function handleRouteSubmit(e) {
+        e.preventDefault();
+        
+        const startLat = document.getElementById('start-lat').value;
+        const startLng = document.getElementById('start-lng').value;
+        const endLat = document.getElementById('end-lat').value;
+        const endLng = document.getElementById('end-lng').value;
+
+        try {
+            // Limpiar mapa previo
+            clearMap();
+
+            // Añadir marcadores de origen y destino
+            addMarker([startLat, startLng], 'Origen');
+            addMarker([endLat, endLng], 'Destino');
+
+            const response = await fetch(
+                `/api/route/calculate?start_lat=${startLat}&start_lng=${startLng}&end_lat=${endLat}&end_lng=${endLng}`
+            );
+
+            if (!response.ok) {
+                throw new Error('Error al calcular la ruta');
             }
 
-            document.getElementById('route-info').innerHTML = routeHtml;
+            const routeFeature = await response.json();
 
-            // Mostrar la ruta en el mapa
-            const request = {
-                origin: origin,
-                destination: destination,
-                travelMode: google.maps.TravelMode.DRIVING
-            };
+            // Dibujar ruta
+            const route = L.geoJSON(routeFeature, {
+                style: {
+                    color: '#3388ff',
+                    weight: 5,
+                    opacity: 0.65
+                }
+            }).addTo(routeLayer);
 
-            await new Promise((resolve, reject) => {
-                directionsService.route(request, (result, status) => {
-                    if (status === 'OK') {
-                        directionsRenderer.setDirections(result);
-                        resolve();
-                    } else {
-                        reject(new Error(`Error al mostrar la ruta: ${status}`));
-                    }
-                });
-            });
-        } else {
-            throw new Error(routeData.error || 'Error al calcular la ruta');
+            // Ajustar vista
+            map.fitBounds(route.getBounds(), { padding: [50, 50] });
+
+            // Mostrar información
+            document.getElementById('route-info').innerHTML = `
+                <h3>Información de la ruta:</h3>
+                <p>Distancia total: ${routeFeature.properties.length_km.toFixed(2)} km</p>
+                <p>Nodo inicio: ${routeFeature.properties.start_node}</p>
+                <p>Nodo fin: ${routeFeature.properties.end_node}</p>
+            `;
+
+        } catch (error) {
+            console.error('Error:', error);
+            document.getElementById('route-info').innerHTML = `
+                <p class="error">Error: ${error.message}</p>
+            `;
         }
-    } catch (error) {
-        console.error('Error:', error);
-        document.getElementById('route-info').innerHTML = `
-            <p class="error">Error: ${error.message}</p>
-        `;
     }
-}
 
-// Asegurarse de que el script de Google Maps se cargue correctamente
-window.initMap = initMap;
+    // Inicializar cuando el DOM esté listo
+    document.addEventListener('DOMContentLoaded', initMap);
+})();
