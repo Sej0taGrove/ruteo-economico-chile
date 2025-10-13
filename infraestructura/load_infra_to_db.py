@@ -12,7 +12,6 @@ def node_generator(json_path):
     evitando cargar todo el archivo en memoria.
     """
     with open(json_path, 'rb') as f:
-        # ijson.items itera sobre el array 'nodos' sin cargar todo el archivo
         for nodo in ijson.items(f, 'nodos.item'):
             yield (nodo['id'], nodo['lon'], nodo['lat'])
 
@@ -23,12 +22,11 @@ def edge_generator(json_path):
     """
     with open(json_path, 'rb') as f:
         for arista in ijson.items(f, 'aristas.item'):
-            # Convierte la geometría a formato WKT (Well-Known Text) para PostGIS
             linestring_wkt = "LINESTRING(" + ", ".join([f"{lon} {lat}" for lon, lat in arista['geom']]) + ")"
             yield (arista['source'], arista['target'], arista['costo_longitud_m'], linestring_wkt)
 
 
-def load_infrastructure_to_db(json_path='infraestructura.json'):
+def load_infrastructure_to_db(json_path):
     """
     Lee el archivo 'infraestructura.json' en streaming y carga los nodos y aristas
     en la base de datos PostgreSQL usando un método de carga masiva.
@@ -38,7 +36,6 @@ def load_infrastructure_to_db(json_path='infraestructura.json'):
     cur = None
 
     try:
-        # 1. Conectar a la base de datos
         conn = psycopg2.connect(
             dbname=os.getenv("POSTGRES_DB"),
             user=os.getenv("POSTGRES_USER"),
@@ -49,22 +46,19 @@ def load_infrastructure_to_db(json_path='infraestructura.json'):
         cur = conn.cursor()
         print("Conexión a la base de datos para infraestructura exitosa.")
 
-        # 2. Vaciar tablas para una carga limpia
         print("Vaciando tablas de infraestructura (nodos_carreteras, aristas_carreteras)...")
         cur.execute("TRUNCATE TABLE nodos_carreteras, aristas_carreteras RESTART IDENTITY CASCADE;")
         conn.commit()
 
-        # 3. Cargar Nodos usando execute_batch y el generador
-        print("Iniciando la carga de nodos... (esto puede tardar varios minutos)")
+        print(f"Iniciando la carga de nodos desde '{json_path}'...")
         node_iter = node_generator(json_path)
         execute_batch(cur,
                       "INSERT INTO nodos_carreteras (id, geom) VALUES (%s, ST_SetSRID(ST_MakePoint(%s, %s), 4326));",
-                      node_iter, page_size=5000)  # page_size define el tamaño del lote
+                      node_iter, page_size=5000)
         conn.commit()
         print("Nodos cargados exitosamente.")
 
-        # 4. Cargar Aristas usando execute_batch y el generador
-        print("Iniciando la carga de aristas... (esto puede tardar bastante más)")
+        print(f"Iniciando la carga de aristas desde '{json_path}'...")
         edge_iter = edge_generator(json_path)
         execute_batch(cur,
                       "INSERT INTO aristas_carreteras (source, target, costo_longitud_m, geom) VALUES (%s, %s, %s, ST_GeomFromText(%s, 4326));",
@@ -86,11 +80,18 @@ def load_infrastructure_to_db(json_path='infraestructura.json'):
             print("Conexión a la base de datos cerrada.")
 
 
+# --- BLOQUE MODIFICADO ---
 if __name__ == "__main__":
-    JSON_FILE_PATH = "infraestructura.json"
+    # Obtiene la ruta de la carpeta donde se encuentra este script
+    SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 
+    # Construye la ruta completa y correcta al archivo JSON
+    JSON_FILE_PATH = os.path.join(SCRIPT_DIR, "infraestructura.json")
+
+    # Verifica si el archivo JSON existe en la ruta correcta
     if not os.path.exists(JSON_FILE_PATH):
         print(f"Error: No se encontró el archivo '{JSON_FILE_PATH}'.")
         print("Asegúrate de ejecutar primero 'extract_transform_infra.py' para generarlo.")
     else:
+        # Llama a la función de carga con la ruta completa
         load_infrastructure_to_db(JSON_FILE_PATH)
