@@ -5,8 +5,9 @@ Filtra sismos relevantes para Chile (magnitud >= 5.0)
 """
 
 import requests
+import certifi
 import json
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import sys
 import os
 
@@ -16,8 +17,8 @@ def extraer_sismos_usgs():
     Filtra por magnitud >= 5.0 y proximidad a Chile
     """
     
-    # Configurar fechas (últimas 24 horas)
-    fecha_fin = datetime.utcnow()
+    # Configurar fechas (últimas 24 horas) - usando timezone aware
+    fecha_fin = datetime.now(timezone.utc)
     fecha_inicio = fecha_fin - timedelta(days=1)
     
     # Formato requerido por USGS: YYYY-MM-DD
@@ -39,7 +40,8 @@ def extraer_sismos_usgs():
     print(f"[INFO] Consultando USGS API desde {start_time}...")
     
     try:
-        response = requests.get(url, params=params, timeout=30)
+        # Usar certifi para los certificados SSL
+        response = requests.get(url, params=params, timeout=30, verify=certifi.where())
         response.raise_for_status()
         
         data = response.json()
@@ -76,7 +78,7 @@ def transformar_sismos(data_usgs):
                 'profundidad_km': geom['coordinates'][2] if len(geom['coordinates']) > 2 else None,
                 'lugar': props.get('place'),
                 'timestamp_utc': props.get('time'),
-                'fecha_legible': datetime.fromtimestamp(props.get('time', 0)/1000).strftime('%Y-%m-%d %H:%M:%S UTC'),
+                'fecha_legible': datetime.fromtimestamp(props.get('time', 0)/1000, tz=timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC'),
                 'nivel_alerta': calcular_nivel_alerta_sismo(props.get('mag')),
                 'url_detalle': props.get('url'),
                 'fuente': 'USGS'
@@ -88,7 +90,7 @@ def transformar_sismos(data_usgs):
     return {
         'type': 'FeatureCollection',
         'metadata': {
-            'generado': datetime.utcnow().isoformat() + 'Z',
+            'generado': datetime.now(timezone.utc).isoformat(),
             'fuente': 'USGS Earthquake API',
             'total': len(features_transformadas)
         },

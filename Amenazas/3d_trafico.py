@@ -8,9 +8,13 @@ Analiza segmentos clave de una ruta predeterminada para identificar congestión
 
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 import sys
 import os
+import urllib3
+
+# Deshabilitar warnings de SSL
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # API Key de Google Maps (debe configurarse como variable de entorno)
 GOOGLE_MAPS_API_KEY = os.getenv('GOOGLE_MAPS_API_KEY', '')
@@ -97,7 +101,7 @@ def consultar_trafico_segmento(segmento):
     }
     
     try:
-        response = requests.get(url, params=params, timeout=10)
+        response = requests.get(url, params=params, timeout=10, verify=False)
         response.raise_for_status()
         
         data = response.json()
@@ -187,7 +191,7 @@ def transformar_a_geojson(segmentos):
                 'nivel_alerta': seg['nivel_alerta'],
                 'factor_costo_adicional': round(factor_costo_adicional, 2),
                 'descripcion': generar_descripcion(seg),
-                'timestamp': datetime.utcnow().isoformat() + 'Z',
+                'timestamp': datetime.now(timezone.utc).isoformat(),
                 'fuente': 'Google Maps Directions API'
             }
         }
@@ -197,7 +201,7 @@ def transformar_a_geojson(segmentos):
     return {
         'type': 'FeatureCollection',
         'metadata': {
-            'generado': datetime.utcnow().isoformat() + 'Z',
+            'generado': datetime.now(timezone.utc).isoformat(),
             'fuente': 'Google Maps Directions API',
             'total': len(features),
             'descripcion': 'Congestión vehicular en tiempo real en segmentos clave de la ruta'
@@ -302,7 +306,7 @@ def generar_datos_ejemplo():
                 'nivel_alerta': nivel_alerta,
                 'factor_costo_adicional': round(factor_costo, 2),
                 'descripcion': f"{'Muy congestionado' if ej['ic'] >= 2.0 else 'Congestionado' if ej['ic'] >= 1.5 else 'Tráfico moderado'} - Retraso de {retraso} min",
-                'timestamp': datetime.utcnow().isoformat() + 'Z',
+                'timestamp': datetime.now(timezone.utc).isoformat(),
                 'fuente': 'Google Maps (DATOS DE EJEMPLO)'
             }
         }
@@ -312,7 +316,7 @@ def generar_datos_ejemplo():
     return {
         'type': 'FeatureCollection',
         'metadata': {
-            'generado': datetime.utcnow().isoformat() + 'Z',
+            'generado': datetime.now(timezone.utc).isoformat(),
             'fuente': 'Google Maps - DATOS DE EJEMPLO',
             'total': len(features),
             'advertencia': 'Estos son datos de ejemplo. Configure GOOGLE_MAPS_API_KEY para datos reales.',

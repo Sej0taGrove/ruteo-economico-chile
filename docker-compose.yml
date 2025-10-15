@@ -1,0 +1,41 @@
+services:
+  db:
+    build:
+      context: .
+      dockerfile: docker/db/Dockerfile
+    container_name: ruteo_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${DB_NAME:-ruteo_economico_chile}
+      POSTGRES_USER: ${DB_USER:-ruteo_economico}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-ruteo}
+    ports:
+      - "${DB_PORT:-5432}:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/01-schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $$POSTGRES_USER -d $$POSTGRES_DB"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ruteo_web
+    depends_on:
+      db:
+        condition: service_healthy
+    env_file:
+      - .env
+    environment:
+      DB_HOST: db
+      DB_PORT: 5432
+      FLASK_DEBUG: ${FLASK_DEBUG:-0}
+    ports:
+      - "${WEB_PORT:-5000}:5000"
+
+volumes:
+  db_data:

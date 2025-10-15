@@ -5,16 +5,20 @@ Script para extraer incendios forestales de NASA EONET y transformarlos a GeoJSO
 
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 import sys
 import os
+import urllib3
+
+# Deshabilitar warnings de SSL
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def extraer_incendios_nasa():
     """
     Extrae incendios forestales activos de la API de NASA EONET
     """
     
-    url = "https://eonet.gsfc.nasa.gov/api/v3/events"
+    url = "https://eonet.gsfc.nasa.gov/api/v3/events?status=open&category=wildfires&bbox=-75,-56,-66,-17.5"
     
     params = {
         'status': 'open',
@@ -25,7 +29,7 @@ def extraer_incendios_nasa():
     print("[INFO] Consultando NASA EONET API...")
     
     try:
-        response = requests.get(url, params=params, timeout=30)
+        response = requests.get(url, params=params, timeout=30, verify=False)
         response.raise_for_status()
         
         data = response.json()
@@ -92,7 +96,7 @@ def transformar_incendios_chile(data_nasa):
     return {
         'type': 'FeatureCollection',
         'metadata': {
-            'generado': datetime.utcnow().isoformat() + 'Z',
+            'generado': datetime.now(timezone.utc).isoformat(),
             'fuente': 'NASA EONET Wildfires API',
             'total': len(features_transformadas)
         },

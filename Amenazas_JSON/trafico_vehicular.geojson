@@ -1,10 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generado": "2025-10-12T17:36:15.072431Z",
+    "generado": "2025-10-15T03:43:57.563005+00:00",
     "fuente": "Google Maps Directions API",
-    "total": 0,
+    "total": 5,
     "descripcion": "Congestión vehicular en tiempo real en segmentos clave de la ruta"
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65190000000001,
+          -33.44305
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "congestion_vehicular",
+        "nombre_segmento": "Alameda - Plaza Italia",
+        "distancia_km": 3.57,
+        "duracion_normal_min": 11.4,
+        "duracion_con_trafico_min": 9.5,
+        "retraso_min": -1.9,
+        "indice_congestion": 0.84,
+        "nivel_alerta": "verde",
+        "factor_costo_adicional": -0.08,
+        "descripcion": "Tráfico fluido",
+        "timestamp": "2025-10-15T03:43:57.563005+00:00",
+        "fuente": "Google Maps Directions API"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6198,
+          -33.4315
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "congestion_vehicular",
+        "nombre_segmento": "Providencia - Tobalaba",
+        "distancia_km": 3.62,
+        "duracion_normal_min": 11.2,
+        "duracion_con_trafico_min": 8.9,
+        "retraso_min": -2.3,
+        "indice_congestion": 0.8,
+        "nivel_alerta": "verde",
+        "factor_costo_adicional": -0.1,
+        "descripcion": "Tráfico fluido",
+        "timestamp": "2025-10-15T03:43:57.563005+00:00",
+        "fuente": "Google Maps Directions API"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59275,
+          -33.4208
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "congestion_vehicular",
+        "nombre_segmento": "Las Condes - El Golf",
+        "distancia_km": 3.77,
+        "duracion_normal_min": 11.4,
+        "duracion_con_trafico_min": 7.9,
+        "retraso_min": -3.5,
+        "indice_congestion": 0.7,
+        "nivel_alerta": "verde",
+        "factor_costo_adicional": -0.15,
+        "descripcion": "Tráfico fluido",
+        "timestamp": "2025-10-15T03:43:57.563005+00:00",
+        "fuente": "Google Maps Directions API"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64635000000001,
+          -33.4306
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "congestion_vehicular",
+        "nombre_segmento": "Costanera Norte Tramo 1",
+        "distancia_km": 7.86,
+        "duracion_normal_min": 26.9,
+        "duracion_con_trafico_min": 20.0,
+        "retraso_min": -7.0,
+        "indice_congestion": 0.74,
+        "nivel_alerta": "verde",
+        "factor_costo_adicional": -0.13,
+        "descripcion": "Tráfico fluido",
+        "timestamp": "2025-10-15T03:43:57.563005+00:00",
+        "fuente": "Google Maps Directions API"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6308,
+          -33.47965000000001
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "congestion_vehicular",
+        "nombre_segmento": "Av. Vicuña Mackenna",
+        "distancia_km": 7.67,
+        "duracion_normal_min": 19.9,
+        "duracion_con_trafico_min": 14.4,
+        "retraso_min": -5.5,
+        "indice_congestion": 0.73,
+        "nivel_alerta": "verde",
+        "factor_costo_adicional": -0.14,
+        "descripcion": "Tráfico fluido",
+        "timestamp": "2025-10-15T03:43:57.563005+00:00",
+        "fuente": "Google Maps Directions API"
+      }
+    }
+  ]
 }

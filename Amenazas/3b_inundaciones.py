@@ -5,9 +5,13 @@ Script para extraer alertas de inundaciones de DGA y transformarlas a GeoJSON
 
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 import sys
 import os
+import urllib3
+
+# Deshabilitar warnings de SSL
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def extraer_alertas_dga():
     """
@@ -26,7 +30,7 @@ def extraer_alertas_dga():
     print("[INFO] Consultando DGA ALERTAS MapServer...")
     
     try:
-        response = requests.get(url, params=params, timeout=30)
+        response = requests.get(url, params=params, timeout=30, verify=False)
         response.raise_for_status()
         
         data = response.json()
@@ -83,7 +87,7 @@ def transformar_alertas_dga(data_dga):
     return {
         'type': 'FeatureCollection',
         'metadata': {
-            'generado': datetime.utcnow().isoformat() + 'Z',
+            'generado': datetime.now(timezone.utc).isoformat(),
             'fuente': 'DGA ALERTAS MapServer',
             'total': len(features_transformadas)
         },

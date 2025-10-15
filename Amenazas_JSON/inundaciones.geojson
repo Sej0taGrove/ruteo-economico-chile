@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generado": "2025-10-11T01:43:52.723376Z",
+    "generado": "2025-10-15T03:43:54.147445+00:00",
     "fuente": "DGA ALERTAS MapServer",
     "total": 1000
   },
@@ -19352,6 +19352,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.41011136199995,
+          -49.12585770299995
+        ]
+      },
+      "properties": {
+        "tipo_amenaza": "inundacion",
+        "estacion": null,
+        "rio": null,
+        "region": null,
+        "nivel_alerta": "verde",
+        "estado": null,
+        "caudal_actual": null,
+        "timestamp": null,
+        "fuente": "DGA MOP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.10324081199997,
           -51.422798855999986
         ]
@@ -20971,27 +20992,6 @@
         "coordinates": [
           -68.88757864099995,
           -53.89593174799995
-        ]
-      },
-      "properties": {
-        "tipo_amenaza": "inundacion",
-        "estacion": null,
-        "rio": null,
-        "region": null,
-        "nivel_alerta": "verde",
-        "estado": null,
-        "caudal_actual": null,
-        "timestamp": null,
-        "fuente": "DGA MOP"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.80285707099995,
-          -54.05287002199998
         ]
       },
       "properties": {
