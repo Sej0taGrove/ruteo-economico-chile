@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generado": "2025-10-15T03:43:57.563005+00:00",
+    "generado": "2025-10-15T17:53:45.687874+00:00",
     "fuente": "Google Maps Directions API",
     "total": 5,
     "descripcion": "Congestión vehicular en tiempo real en segmentos clave de la ruta"
@@ -21,13 +21,13 @@
         "nombre_segmento": "Alameda - Plaza Italia",
         "distancia_km": 3.57,
         "duracion_normal_min": 11.4,
-        "duracion_con_trafico_min": 9.5,
-        "retraso_min": -1.9,
-        "indice_congestion": 0.84,
+        "duracion_con_trafico_min": 11.8,
+        "retraso_min": 0.4,
+        "indice_congestion": 1.03,
         "nivel_alerta": "verde",
-        "factor_costo_adicional": -0.08,
-        "descripcion": "Tráfico fluido",
-        "timestamp": "2025-10-15T03:43:57.563005+00:00",
+        "factor_costo_adicional": 0.02,
+        "descripcion": "Tráfico fluido - Retraso de 0.4 min respecto a condiciones normales",
+        "timestamp": "2025-10-15T17:53:45.687874+00:00",
         "fuente": "Google Maps Directions API"
       }
     },
@@ -45,13 +45,13 @@
         "nombre_segmento": "Providencia - Tobalaba",
         "distancia_km": 3.62,
         "duracion_normal_min": 11.2,
-        "duracion_con_trafico_min": 8.9,
-        "retraso_min": -2.3,
-        "indice_congestion": 0.8,
+        "duracion_con_trafico_min": 12.1,
+        "retraso_min": 0.8,
+        "indice_congestion": 1.08,
         "nivel_alerta": "verde",
-        "factor_costo_adicional": -0.1,
-        "descripcion": "Tráfico fluido",
-        "timestamp": "2025-10-15T03:43:57.563005+00:00",
+        "factor_costo_adicional": 0.04,
+        "descripcion": "Tráfico fluido - Retraso de 0.8 min respecto a condiciones normales",
+        "timestamp": "2025-10-15T17:53:45.687874+00:00",
         "fuente": "Google Maps Directions API"
       }
     },
@@ -67,15 +67,15 @@
       "properties": {
         "tipo_amenaza": "congestion_vehicular",
         "nombre_segmento": "Las Condes - El Golf",
-        "distancia_km": 3.77,
-        "duracion_normal_min": 11.4,
-        "duracion_con_trafico_min": 7.9,
-        "retraso_min": -3.5,
-        "indice_congestion": 0.7,
+        "distancia_km": 3.63,
+        "duracion_normal_min": 10.9,
+        "duracion_con_trafico_min": 10.4,
+        "retraso_min": -0.5,
+        "indice_congestion": 0.95,
         "nivel_alerta": "verde",
-        "factor_costo_adicional": -0.15,
+        "factor_costo_adicional": -0.02,
         "descripcion": "Tráfico fluido",
-        "timestamp": "2025-10-15T03:43:57.563005+00:00",
+        "timestamp": "2025-10-15T17:53:45.687874+00:00",
         "fuente": "Google Maps Directions API"
       }
     },
@@ -91,15 +91,15 @@
       "properties": {
         "tipo_amenaza": "congestion_vehicular",
         "nombre_segmento": "Costanera Norte Tramo 1",
-        "distancia_km": 7.86,
-        "duracion_normal_min": 26.9,
-        "duracion_con_trafico_min": 20.0,
-        "retraso_min": -7.0,
-        "indice_congestion": 0.74,
+        "distancia_km": 8.87,
+        "duracion_normal_min": 26.5,
+        "duracion_con_trafico_min": 26.0,
+        "retraso_min": -0.5,
+        "indice_congestion": 0.98,
         "nivel_alerta": "verde",
-        "factor_costo_adicional": -0.13,
+        "factor_costo_adicional": -0.01,
         "descripcion": "Tráfico fluido",
-        "timestamp": "2025-10-15T03:43:57.563005+00:00",
+        "timestamp": "2025-10-15T17:53:45.687874+00:00",
         "fuente": "Google Maps Directions API"
       }
     },
@@ -115,15 +115,15 @@
       "properties": {
         "tipo_amenaza": "congestion_vehicular",
         "nombre_segmento": "Av. Vicuña Mackenna",
-        "distancia_km": 7.67,
-        "duracion_normal_min": 19.9,
-        "duracion_con_trafico_min": 14.4,
-        "retraso_min": -5.5,
-        "indice_congestion": 0.73,
+        "distancia_km": 8.11,
+        "duracion_normal_min": 19.7,
+        "duracion_con_trafico_min": 20.8,
+        "retraso_min": 1.1,
+        "indice_congestion": 1.05,
         "nivel_alerta": "verde",
-        "factor_costo_adicional": -0.14,
-        "descripcion": "Tráfico fluido",
-        "timestamp": "2025-10-15T03:43:57.563005+00:00",
+        "factor_costo_adicional": 0.03,
+        "descripcion": "Tráfico fluido - Retraso de 1.1 min respecto a condiciones normales",
+        "timestamp": "2025-10-15T17:53:45.687874+00:00",
         "fuente": "Google Maps Directions API"
       }
     }

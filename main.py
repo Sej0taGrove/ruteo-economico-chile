@@ -65,6 +65,12 @@ TASKS: Sequence[ScriptTask] = (
         working_dir=BASE_DIR / "Amenazas",
         optional=True,  # puede requerir API key de Google Maps
     ),
+    ScriptTask(
+        name="Carga amenazas a BD",
+        script=BASE_DIR / "Amenazas" / "load_amenazas_to_db.py",
+        working_dir=BASE_DIR / "Amenazas",
+        optional=True,  # puede fallar si no se generaron datos nuevos
+    ),
     # ==== FASE 2: INFRAESTRUCTURA ====
     ScriptTask(
         name="Infraestructura vial",
